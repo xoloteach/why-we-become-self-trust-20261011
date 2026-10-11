@@ -1,0 +1,63 @@
+name: Compact 1080p MP4 delivery
+on:
+  workflow_dispatch:
+    inputs:
+      source_run:
+        description: Completed corrected video render
+        required: true
+        type: string
+permissions:
+  contents: read
+  actions: read
+jobs:
+  compress:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        target: [final-longform, short_01, short_02, short_03]
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -qq && sudo apt-get install -y ffmpeg
+      - uses: actions/download-artifact@v4
+        with:
+          name: final-delivery-candidate
+          path: original
+          run-id: ${{ inputs.source_run }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Compress while preserving 1080p resolution and all existing motion
+        env:
+          TARGET: ${{ matrix.target }}
+        run: |
+          mkdir -p compact
+          ffmpeg -hide_banner -y -i "original/$TARGET.mp4" -map 0:v:0 -map 0:a:0 -c:v libx264 -preset veryfast -crf 26 -maxrate 1050k -bufsize 2100k -threads 4 -pix_fmt yuv420p -c:a aac -b:a 96k -movflags +faststart "compact/$TARGET-compact.mp4"
+          ffprobe -v error -show_entries format=duration,size:stream=codec_type,codec_name,width,height,r_frame_rate -of json "compact/$TARGET-compact.mp4" > "compact/$TARGET-specs.json"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: compact-${{ matrix.target }}
+          path: compact/*
+          retention-days: 14
+  deliver:
+    needs: compress
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: compact-*
+          path: compact
+          merge-multiple: true
+      - name: Verify all four requested files
+        run: |
+          python - <<'PY'
+          import pathlib,json
+          p=pathlib.Path('compact');files=sorted(p.glob('*.mp4'));assert len(files)==4
+          for f in files:
+            specs=json.loads((p/f.name.replace('-compact.mp4','-specs.json')).read_text());video=next(x for x in specs['streams'] if x['codec_type']=='video');assert (video['width'],video['height']) in [(1920,1080),(1080,1920)]
+            assert f.stat().st_size<100_000_000,f'File exceeds compact size limit: {f.name}'
+            print(f.name,round(f.stat().st_size/1_000_000,2),'MB',specs['format']['duration'],'seconds')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: compact-complete-delivery
+          path: compact/*
+          retention-days: 14

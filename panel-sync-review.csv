@@ -9,9 +9,9 @@ scene_plan.json,4,13.599999,18.275,S01P7,stack,"This week
 will be different.",You decide that this week will be different. You'll exercise. You'll learn something useful.,"[[15.955, ""Exercise""], [17.155, ""Learn""]]"
 scene_plan.json,5,18.275,21.555,S01P9,focus,"The project
 still waits.",You'll finally work on that project you've been thinking about for months.,"[[19.395, ""The project""]]"
-scene_plan.json,6,21.555,25.154999,S02P1,thought,"For a moment,
+scene_plan.json,6,21.555,25.154999,S02P5,thought,"For a moment,
 you believe it.",And for a moment... you genuinely believe yourself. You feel motivated.,"[[23.075, ""Believe""], [24.435001, ""Motivation""]]"
-scene_plan.json,7,25.154999,28.38,S02P4,window,"Meet your
+scene_plan.json,7,25.154999,28.38,S02P9,window,"Meet your
 imagined self.",You make a plan. You imagine the person you're about to become.,"[[25.315, ""The plan""], [26.435001, ""Imagined self""]]"
 scene_plan.json,8,28.38,31.5,S03P1,timeline,"A few days
 pass.",Then a few days pass. The excitement disappears.,"[[28.939999, ""Time passes""], [30.539999, ""Disappears""]]"
@@ -119,7 +119,7 @@ scene_plan.json,59,285.85,294.795,S13P1,identity,"Disappointment
 becomes a label.",And this is where your relationship with yourself starts getting complicated. You don't just feel disappointed about the thing you failed to do. You start turning that disappointment into an identity.,"[[294.075, ""Identity""]]"
 scene_plan.json,60,294.795,297.675,S13P1,thought,"This goal
 didn’t happen.","You stop saying, “I didn't follow through on this goal.”","[[296.23502, ""Follow through""], [296.95502, ""One behavior""]]"
-scene_plan.json,61,297.675,300.95502,S13P2,identity,"“This is
+scene_plan.json,61,297.675,300.95502,S13P3,identity,"“This is
 who I am.”","You start saying, “I'm the kind of person who never follows through.”","[[299.035, ""A whole identity""]]"
 scene_plan.json,62,300.95502,309.23,S13P8,focus,"Behavior is
 not identity.",There's a big difference between those two statements. One describes a behavior. The other turns that behavior into a definition of who you are.,"[[307.63, ""A definition""]]"
@@ -131,7 +131,7 @@ scene_plan.json,65,320.605,323.96503,S13P6,thought,"Expecting
 abandonment.",Why make a plan if you secretly assume you'll abandon it?,"[[320.765, ""The plan""], [323.165, ""Abandon""]]"
 scene_plan.json,66,323.96503,331.15997,S13P7,iceberg,"Quieter.
 Less confident.",You might not even notice that you're doing this. You just feel less confident. Less consistent. Less willing to take yourself seriously.,"[[323.96503, ""Quieter. Less confident.""]]"
-scene_plan.json,67,331.15997,333.87997,S14P1,switch,"Your past is
+scene_plan.json,67,331.15997,333.87997,S14P2,switch,"Your past is
 not your definition.",But your past doesn't have to become your identity.,"[[333.08, ""Identity""]]"
 scene_plan.json,68,333.87997,338.52,S14P2,focus,"Broken before
 is not incapable.",The fact that you've broken promises before... doesn't mean you're incapable of keeping them.,"[[337.0, ""Not incapable""]]"

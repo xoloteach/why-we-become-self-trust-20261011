@@ -1,0 +1,49 @@
+name: Final crop corrections and assembly
+on:
+  workflow_dispatch:
+    inputs:
+      base_run:
+        required: true
+        type: string
+permissions:
+  contents: read
+  actions: read
+jobs:
+  correct:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: sudo apt-get update -qq && sudo apt-get install -y ffmpeg
+      - run: pip install numpy opencv-python-headless pillow
+      - run: mkdir -p out qa && python audio.py
+      - uses: actions/download-artifact@v4
+        with:
+          path: rendered
+          merge-multiple: true
+          run-id: ${{ inputs.base_run }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Render corrected opening chunk from this reviewed commit
+        run: python motion.py --target longform --start 0 --stop 54.833333333333336 --out rendered/part00.mp4
+      - name: Assemble verified continuous master
+        env:
+          BASE_RUN: ${{ inputs.base_run }}
+          SOURCE_SHA: ${{ github.sha }}
+        run: |
+          python - <<'PY'
+          import pathlib,subprocess,shutil,json,os
+          p=pathlib.Path('rendered');parts=sorted(p.glob('part*.mp4'));assert len(parts)==12
+          pathlib.Path('parts.txt').write_text(''.join("file '"+str(f.resolve())+"'\n" for f in parts))
+          subprocess.run(['ffmpeg','-y','-f','concat','-safe','0','-i','parts.txt','-an','-c:v','copy','out/master-video.mp4'],check=True)
+          subprocess.run(['ffmpeg','-y','-i','out/master-video.mp4','-i','assets/longform-mix.wav','-map','0:v','-map','1:a','-c:v','copy','-c:a','aac','-b:a','192k','-t','658.023855','-movflags','+faststart','out/final-longform.mp4'],check=True)
+          pathlib.Path('out/master-video.mp4').unlink()
+          for s in p.glob('short_*.mp4'):shutil.copy(s,'out/'+s.name)
+          pathlib.Path('out/build-provenance.json').write_text(json.dumps({'reviewed_commit':os.environ['SOURCE_SHA'],'base_run':os.environ['BASE_RUN'],'correction':'part00 freshly rendered; parts01-11 and Shorts unchanged from verified base render; full continuous audio remuxed'},indent=2))
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: final-delivery-candidate
+          path: out/*
+          retention-days: 14

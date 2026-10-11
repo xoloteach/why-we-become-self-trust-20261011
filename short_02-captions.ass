@@ -1,0 +1,120 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat ExtraBold,60,&H00FFFFFF,&H00FFFFFF,&H0016150F,&H60000000,-1,0,0,0,100,100,0,0,1,4,1.2,2,80,200,420,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.48,Default,,0,0,0,,{\c&H003C62C8&}Sunday {\c&H00FFFFFF&}night {\c&H00FFFFFF&}your {\c&H00FFFFFF&}new {\c&H00FFFFFF&}routine
+Dialogue: 0,0:00:00.48,0:00:00.80,Default,,0,0,0,,{\c&H00FFFFFF&}Sunday {\c&H003C62C8&}night {\c&H00FFFFFF&}your {\c&H00FFFFFF&}new {\c&H00FFFFFF&}routine
+Dialogue: 0,0:00:00.80,0:00:00.88,Default,,0,0,0,,{\c&H00FFFFFF&}Sunday {\c&H00FFFFFF&}night {\c&H003C62C8&}your {\c&H00FFFFFF&}new {\c&H00FFFFFF&}routine
+Dialogue: 0,0:00:00.88,0:00:01.04,Default,,0,0,0,,{\c&H00FFFFFF&}Sunday {\c&H00FFFFFF&}night {\c&H00FFFFFF&}your {\c&H003C62C8&}new {\c&H00FFFFFF&}routine
+Dialogue: 0,0:00:01.04,0:00:01.36,Default,,0,0,0,,{\c&H00FFFFFF&}Sunday {\c&H00FFFFFF&}night {\c&H00FFFFFF&}your {\c&H00FFFFFF&}new {\c&H003C62C8&}routine
+Dialogue: 0,0:00:01.36,0:00:01.68,Default,,0,0,0,,{\c&H003C62C8&}looks {\c&H00FFFFFF&}perfect {\c&H00FFFFFF&}Monday {\c&H00FFFFFF&}morning {\c&H00FFFFFF&}you're
+Dialogue: 0,0:00:01.68,0:00:02.24,Default,,0,0,0,,{\c&H00FFFFFF&}looks {\c&H003C62C8&}perfect {\c&H00FFFFFF&}Monday {\c&H00FFFFFF&}morning {\c&H00FFFFFF&}you're
+Dialogue: 0,0:00:02.24,0:00:02.64,Default,,0,0,0,,{\c&H00FFFFFF&}looks {\c&H00FFFFFF&}perfect {\c&H003C62C8&}Monday {\c&H00FFFFFF&}morning {\c&H00FFFFFF&}you're
+Dialogue: 0,0:00:02.64,0:00:03.04,Default,,0,0,0,,{\c&H00FFFFFF&}looks {\c&H00FFFFFF&}perfect {\c&H00FFFFFF&}Monday {\c&H003C62C8&}morning {\c&H00FFFFFF&}you're
+Dialogue: 0,0:00:03.04,0:00:03.20,Default,,0,0,0,,{\c&H00FFFFFF&}looks {\c&H00FFFFFF&}perfect {\c&H00FFFFFF&}Monday {\c&H00FFFFFF&}morning {\c&H003C62C8&}you're
+Dialogue: 0,0:00:03.20,0:00:03.76,Default,,0,0,0,,{\c&H003C62C8&}tired {\c&H00FFFFFF&}your {\c&H00FFFFFF&}phone {\c&H00FFFFFF&}is {\c&H00FFFFFF&}beside
+Dialogue: 0,0:00:03.76,0:00:03.92,Default,,0,0,0,,{\c&H00FFFFFF&}tired {\c&H003C62C8&}your {\c&H00FFFFFF&}phone {\c&H00FFFFFF&}is {\c&H00FFFFFF&}beside
+Dialogue: 0,0:00:03.92,0:00:04.16,Default,,0,0,0,,{\c&H00FFFFFF&}tired {\c&H00FFFFFF&}your {\c&H003C62C8&}phone {\c&H00FFFFFF&}is {\c&H00FFFFFF&}beside
+Dialogue: 0,0:00:04.16,0:00:04.32,Default,,0,0,0,,{\c&H00FFFFFF&}tired {\c&H00FFFFFF&}your {\c&H00FFFFFF&}phone {\c&H003C62C8&}is {\c&H00FFFFFF&}beside
+Dialogue: 0,0:00:04.32,0:00:04.64,Default,,0,0,0,,{\c&H00FFFFFF&}tired {\c&H00FFFFFF&}your {\c&H00FFFFFF&}phone {\c&H00FFFFFF&}is {\c&H003C62C8&}beside
+Dialogue: 0,0:00:04.64,0:00:05.04,Default,,0,0,0,,{\c&H003C62C8&}you {\c&H00FFFFFF&}and {\c&H00FFFFFF&}the {\c&H00FFFFFF&}work {\c&H00FFFFFF&}feels
+Dialogue: 0,0:00:05.04,0:00:05.12,Default,,0,0,0,,{\c&H00FFFFFF&}you {\c&H003C62C8&}and {\c&H00FFFFFF&}the {\c&H00FFFFFF&}work {\c&H00FFFFFF&}feels
+Dialogue: 0,0:00:05.12,0:00:05.20,Default,,0,0,0,,{\c&H00FFFFFF&}you {\c&H00FFFFFF&}and {\c&H003C62C8&}the {\c&H00FFFFFF&}work {\c&H00FFFFFF&}feels
+Dialogue: 0,0:00:05.20,0:00:05.36,Default,,0,0,0,,{\c&H00FFFFFF&}you {\c&H00FFFFFF&}and {\c&H00FFFFFF&}the {\c&H003C62C8&}work {\c&H00FFFFFF&}feels
+Dialogue: 0,0:00:05.36,0:00:05.68,Default,,0,0,0,,{\c&H00FFFFFF&}you {\c&H00FFFFFF&}and {\c&H00FFFFFF&}the {\c&H00FFFFFF&}work {\c&H003C62C8&}feels
+Dialogue: 0,0:00:05.68,0:00:06.40,Default,,0,0,0,,{\c&H003C62C8&}boring {\c&H00FFFFFF&}The {\c&H00FFFFFF&}person {\c&H00FFFFFF&}who {\c&H00FFFFFF&}made
+Dialogue: 0,0:00:06.40,0:00:06.64,Default,,0,0,0,,{\c&H00FFFFFF&}boring {\c&H003C62C8&}The {\c&H00FFFFFF&}person {\c&H00FFFFFF&}who {\c&H00FFFFFF&}made
+Dialogue: 0,0:00:06.64,0:00:06.88,Default,,0,0,0,,{\c&H00FFFFFF&}boring {\c&H00FFFFFF&}The {\c&H003C62C8&}person {\c&H00FFFFFF&}who {\c&H00FFFFFF&}made
+Dialogue: 0,0:00:06.88,0:00:07.04,Default,,0,0,0,,{\c&H00FFFFFF&}boring {\c&H00FFFFFF&}The {\c&H00FFFFFF&}person {\c&H003C62C8&}who {\c&H00FFFFFF&}made
+Dialogue: 0,0:00:07.04,0:00:07.28,Default,,0,0,0,,{\c&H00FFFFFF&}boring {\c&H00FFFFFF&}The {\c&H00FFFFFF&}person {\c&H00FFFFFF&}who {\c&H003C62C8&}made
+Dialogue: 0,0:00:07.28,0:00:07.36,Default,,0,0,0,,{\c&H003C62C8&}the {\c&H00FFFFFF&}plan {\c&H00FFFFFF&}imagined {\c&H00FFFFFF&}the {\c&H00FFFFFF&}reward
+Dialogue: 0,0:00:07.36,0:00:07.68,Default,,0,0,0,,{\c&H00FFFFFF&}the {\c&H003C62C8&}plan {\c&H00FFFFFF&}imagined {\c&H00FFFFFF&}the {\c&H00FFFFFF&}reward
+Dialogue: 0,0:00:07.68,0:00:08.24,Default,,0,0,0,,{\c&H00FFFFFF&}the {\c&H00FFFFFF&}plan {\c&H003C62C8&}imagined {\c&H00FFFFFF&}the {\c&H00FFFFFF&}reward
+Dialogue: 0,0:00:08.24,0:00:08.40,Default,,0,0,0,,{\c&H00FFFFFF&}the {\c&H00FFFFFF&}plan {\c&H00FFFFFF&}imagined {\c&H003C62C8&}the {\c&H00FFFFFF&}reward
+Dialogue: 0,0:00:08.40,0:00:09.04,Default,,0,0,0,,{\c&H00FFFFFF&}the {\c&H00FFFFFF&}plan {\c&H00FFFFFF&}imagined {\c&H00FFFFFF&}the {\c&H003C62C8&}reward
+Dialogue: 0,0:00:09.12,0:00:09.36,Default,,0,0,0,,{\c&H003C62C8&}The {\c&H00FFFFFF&}person {\c&H00FFFFFF&}doing {\c&H00FFFFFF&}it {\c&H00FFFFFF&}experiences
+Dialogue: 0,0:00:09.36,0:00:09.60,Default,,0,0,0,,{\c&H00FFFFFF&}The {\c&H003C62C8&}person {\c&H00FFFFFF&}doing {\c&H00FFFFFF&}it {\c&H00FFFFFF&}experiences
+Dialogue: 0,0:00:09.60,0:00:09.84,Default,,0,0,0,,{\c&H00FFFFFF&}The {\c&H00FFFFFF&}person {\c&H003C62C8&}doing {\c&H00FFFFFF&}it {\c&H00FFFFFF&}experiences
+Dialogue: 0,0:00:09.84,0:00:10.08,Default,,0,0,0,,{\c&H00FFFFFF&}The {\c&H00FFFFFF&}person {\c&H00FFFFFF&}doing {\c&H003C62C8&}it {\c&H00FFFFFF&}experiences
+Dialogue: 0,0:00:10.08,0:00:10.56,Default,,0,0,0,,{\c&H00FFFFFF&}The {\c&H00FFFFFF&}person {\c&H00FFFFFF&}doing {\c&H00FFFFFF&}it {\c&H003C62C8&}experiences
+Dialogue: 0,0:00:10.56,0:00:10.88,Default,,0,0,0,,{\c&H003C62C8&}the {\c&H00FFFFFF&}cost {\c&H00FFFFFF&}If {\c&H00FFFFFF&}your {\c&H00FFFFFF&}routine
+Dialogue: 0,0:00:10.88,0:00:11.60,Default,,0,0,0,,{\c&H00FFFFFF&}the {\c&H003C62C8&}cost {\c&H00FFFFFF&}If {\c&H00FFFFFF&}your {\c&H00FFFFFF&}routine
+Dialogue: 0,0:00:11.60,0:00:11.84,Default,,0,0,0,,{\c&H00FFFFFF&}the {\c&H00FFFFFF&}cost {\c&H003C62C8&}If {\c&H00FFFFFF&}your {\c&H00FFFFFF&}routine
+Dialogue: 0,0:00:11.84,0:00:12.00,Default,,0,0,0,,{\c&H00FFFFFF&}the {\c&H00FFFFFF&}cost {\c&H00FFFFFF&}If {\c&H003C62C8&}your {\c&H00FFFFFF&}routine
+Dialogue: 0,0:00:12.00,0:00:12.32,Default,,0,0,0,,{\c&H00FFFFFF&}the {\c&H00FFFFFF&}cost {\c&H00FFFFFF&}If {\c&H00FFFFFF&}your {\c&H003C62C8&}routine
+Dialogue: 0,0:00:12.32,0:00:12.64,Default,,0,0,0,,{\c&H003C62C8&}only {\c&H00FFFFFF&}works {\c&H00FFFFFF&}when {\c&H00FFFFFF&}you're {\c&H00FFFFFF&}motivated
+Dialogue: 0,0:00:12.64,0:00:12.88,Default,,0,0,0,,{\c&H00FFFFFF&}only {\c&H003C62C8&}works {\c&H00FFFFFF&}when {\c&H00FFFFFF&}you're {\c&H00FFFFFF&}motivated
+Dialogue: 0,0:00:12.88,0:00:13.04,Default,,0,0,0,,{\c&H00FFFFFF&}only {\c&H00FFFFFF&}works {\c&H003C62C8&}when {\c&H00FFFFFF&}you're {\c&H00FFFFFF&}motivated
+Dialogue: 0,0:00:13.04,0:00:13.28,Default,,0,0,0,,{\c&H00FFFFFF&}only {\c&H00FFFFFF&}works {\c&H00FFFFFF&}when {\c&H003C62C8&}you're {\c&H00FFFFFF&}motivated
+Dialogue: 0,0:00:13.28,0:00:13.68,Default,,0,0,0,,{\c&H00FFFFFF&}only {\c&H00FFFFFF&}works {\c&H00FFFFFF&}when {\c&H00FFFFFF&}you're {\c&H003C62C8&}motivated
+Dialogue: 0,0:00:13.96,0:00:14.36,Default,,0,0,0,,{\c&H003C62C8&}it's {\c&H00FFFFFF&}a {\c&H00FFFFFF&}plan {\c&H00FFFFFF&}for {\c&H00FFFFFF&}your
+Dialogue: 0,0:00:14.36,0:00:14.44,Default,,0,0,0,,{\c&H00FFFFFF&}it's {\c&H003C62C8&}a {\c&H00FFFFFF&}plan {\c&H00FFFFFF&}for {\c&H00FFFFFF&}your
+Dialogue: 0,0:00:14.44,0:00:14.68,Default,,0,0,0,,{\c&H00FFFFFF&}it's {\c&H00FFFFFF&}a {\c&H003C62C8&}plan {\c&H00FFFFFF&}for {\c&H00FFFFFF&}your
+Dialogue: 0,0:00:14.68,0:00:14.84,Default,,0,0,0,,{\c&H00FFFFFF&}it's {\c&H00FFFFFF&}a {\c&H00FFFFFF&}plan {\c&H003C62C8&}for {\c&H00FFFFFF&}your
+Dialogue: 0,0:00:14.84,0:00:15.00,Default,,0,0,0,,{\c&H00FFFFFF&}it's {\c&H00FFFFFF&}a {\c&H00FFFFFF&}plan {\c&H00FFFFFF&}for {\c&H003C62C8&}your
+Dialogue: 0,0:00:15.00,0:00:15.24,Default,,0,0,0,,{\c&H003C62C8&}best {\c&H00FFFFFF&}mood {\c&H00FFFFFF&}not {\c&H00FFFFFF&}your {\c&H00FFFFFF&}actual
+Dialogue: 0,0:00:15.24,0:00:15.96,Default,,0,0,0,,{\c&H00FFFFFF&}best {\c&H003C62C8&}mood {\c&H00FFFFFF&}not {\c&H00FFFFFF&}your {\c&H00FFFFFF&}actual
+Dialogue: 0,0:00:15.96,0:00:16.20,Default,,0,0,0,,{\c&H00FFFFFF&}best {\c&H00FFFFFF&}mood {\c&H003C62C8&}not {\c&H00FFFFFF&}your {\c&H00FFFFFF&}actual
+Dialogue: 0,0:00:16.20,0:00:16.36,Default,,0,0,0,,{\c&H00FFFFFF&}best {\c&H00FFFFFF&}mood {\c&H00FFFFFF&}not {\c&H003C62C8&}your {\c&H00FFFFFF&}actual
+Dialogue: 0,0:00:16.36,0:00:16.68,Default,,0,0,0,,{\c&H00FFFFFF&}best {\c&H00FFFFFF&}mood {\c&H00FFFFFF&}not {\c&H00FFFFFF&}your {\c&H003C62C8&}actual
+Dialogue: 0,0:00:16.68,0:00:17.40,Default,,0,0,0,,{\c&H003C62C8&}life {\c&H00FFFFFF&}Make {\c&H00FFFFFF&}the {\c&H00FFFFFF&}first {\c&H00FFFFFF&}step
+Dialogue: 0,0:00:17.40,0:00:17.64,Default,,0,0,0,,{\c&H00FFFFFF&}life {\c&H003C62C8&}Make {\c&H00FFFFFF&}the {\c&H00FFFFFF&}first {\c&H00FFFFFF&}step
+Dialogue: 0,0:00:17.64,0:00:17.80,Default,,0,0,0,,{\c&H00FFFFFF&}life {\c&H00FFFFFF&}Make {\c&H003C62C8&}the {\c&H00FFFFFF&}first {\c&H00FFFFFF&}step
+Dialogue: 0,0:00:17.80,0:00:18.05,Default,,0,0,0,,{\c&H00FFFFFF&}life {\c&H00FFFFFF&}Make {\c&H00FFFFFF&}the {\c&H003C62C8&}first {\c&H00FFFFFF&}step
+Dialogue: 0,0:00:18.05,0:00:18.28,Default,,0,0,0,,{\c&H00FFFFFF&}life {\c&H00FFFFFF&}Make {\c&H00FFFFFF&}the {\c&H00FFFFFF&}first {\c&H003C62C8&}step
+Dialogue: 0,0:00:18.28,0:00:19.16,Default,,0,0,0,,{\c&H003C62C8&}smaller {\c&H00FFFFFF&}Put {\c&H00FFFFFF&}the {\c&H00FFFFFF&}phone {\c&H00FFFFFF&}out
+Dialogue: 0,0:00:19.16,0:00:19.32,Default,,0,0,0,,{\c&H00FFFFFF&}smaller {\c&H003C62C8&}Put {\c&H00FFFFFF&}the {\c&H00FFFFFF&}phone {\c&H00FFFFFF&}out
+Dialogue: 0,0:00:19.32,0:00:19.48,Default,,0,0,0,,{\c&H00FFFFFF&}smaller {\c&H00FFFFFF&}Put {\c&H003C62C8&}the {\c&H00FFFFFF&}phone {\c&H00FFFFFF&}out
+Dialogue: 0,0:00:19.48,0:00:19.73,Default,,0,0,0,,{\c&H00FFFFFF&}smaller {\c&H00FFFFFF&}Put {\c&H00FFFFFF&}the {\c&H003C62C8&}phone {\c&H00FFFFFF&}out
+Dialogue: 0,0:00:19.73,0:00:19.89,Default,,0,0,0,,{\c&H00FFFFFF&}smaller {\c&H00FFFFFF&}Put {\c&H00FFFFFF&}the {\c&H00FFFFFF&}phone {\c&H003C62C8&}out
+Dialogue: 0,0:00:19.89,0:00:20.05,Default,,0,0,0,,{\c&H003C62C8&}of {\c&H00FFFFFF&}reach {\c&H00FFFFFF&}Decide {\c&H00FFFFFF&}what {\c&H00FFFFFF&}you'll
+Dialogue: 0,0:00:20.05,0:00:20.76,Default,,0,0,0,,{\c&H00FFFFFF&}of {\c&H003C62C8&}reach {\c&H00FFFFFF&}Decide {\c&H00FFFFFF&}what {\c&H00FFFFFF&}you'll
+Dialogue: 0,0:00:20.76,0:00:21.08,Default,,0,0,0,,{\c&H00FFFFFF&}of {\c&H00FFFFFF&}reach {\c&H003C62C8&}Decide {\c&H00FFFFFF&}what {\c&H00FFFFFF&}you'll
+Dialogue: 0,0:00:21.08,0:00:21.24,Default,,0,0,0,,{\c&H00FFFFFF&}of {\c&H00FFFFFF&}reach {\c&H00FFFFFF&}Decide {\c&H003C62C8&}what {\c&H00FFFFFF&}you'll
+Dialogue: 0,0:00:21.24,0:00:21.48,Default,,0,0,0,,{\c&H00FFFFFF&}of {\c&H00FFFFFF&}reach {\c&H00FFFFFF&}Decide {\c&H00FFFFFF&}what {\c&H003C62C8&}you'll
+Dialogue: 0,0:00:21.48,0:00:21.64,Default,,0,0,0,,{\c&H003C62C8&}do {\c&H00FFFFFF&}on {\c&H00FFFFFF&}a {\c&H00FFFFFF&}difficult {\c&H00FFFFFF&}day
+Dialogue: 0,0:00:21.64,0:00:21.80,Default,,0,0,0,,{\c&H00FFFFFF&}do {\c&H003C62C8&}on {\c&H00FFFFFF&}a {\c&H00FFFFFF&}difficult {\c&H00FFFFFF&}day
+Dialogue: 0,0:00:21.80,0:00:21.88,Default,,0,0,0,,{\c&H00FFFFFF&}do {\c&H00FFFFFF&}on {\c&H003C62C8&}a {\c&H00FFFFFF&}difficult {\c&H00FFFFFF&}day
+Dialogue: 0,0:00:21.88,0:00:22.20,Default,,0,0,0,,{\c&H00FFFFFF&}do {\c&H00FFFFFF&}on {\c&H00FFFFFF&}a {\c&H003C62C8&}difficult {\c&H00FFFFFF&}day
+Dialogue: 0,0:00:22.20,0:00:22.36,Default,,0,0,0,,{\c&H00FFFFFF&}do {\c&H00FFFFFF&}on {\c&H00FFFFFF&}a {\c&H00FFFFFF&}difficult {\c&H003C62C8&}day
+Dialogue: 0,0:00:22.68,0:00:23.08,Default,,0,0,0,,{\c&H003C62C8&}Be {\c&H00FFFFFF&}ambitious {\c&H00FFFFFF&}about {\c&H00FFFFFF&}your {\c&H00FFFFFF&}direction
+Dialogue: 0,0:00:23.08,0:00:23.48,Default,,0,0,0,,{\c&H00FFFFFF&}Be {\c&H003C62C8&}ambitious {\c&H00FFFFFF&}about {\c&H00FFFFFF&}your {\c&H00FFFFFF&}direction
+Dialogue: 0,0:00:23.48,0:00:23.80,Default,,0,0,0,,{\c&H00FFFFFF&}Be {\c&H00FFFFFF&}ambitious {\c&H003C62C8&}about {\c&H00FFFFFF&}your {\c&H00FFFFFF&}direction
+Dialogue: 0,0:00:23.80,0:00:23.96,Default,,0,0,0,,{\c&H00FFFFFF&}Be {\c&H00FFFFFF&}ambitious {\c&H00FFFFFF&}about {\c&H003C62C8&}your {\c&H00FFFFFF&}direction
+Dialogue: 0,0:00:23.96,0:00:24.28,Default,,0,0,0,,{\c&H00FFFFFF&}Be {\c&H00FFFFFF&}ambitious {\c&H00FFFFFF&}about {\c&H00FFFFFF&}your {\c&H003C62C8&}direction
+Dialogue: 0,0:00:24.28,0:00:24.60,Default,,0,0,0,,{\c&H003C62C8&}and {\c&H00FFFFFF&}realistic {\c&H00FFFFFF&}about {\c&H00FFFFFF&}your {\c&H00FFFFFF&}next
+Dialogue: 0,0:00:24.60,0:00:25.08,Default,,0,0,0,,{\c&H00FFFFFF&}and {\c&H003C62C8&}realistic {\c&H00FFFFFF&}about {\c&H00FFFFFF&}your {\c&H00FFFFFF&}next
+Dialogue: 0,0:00:25.08,0:00:25.40,Default,,0,0,0,,{\c&H00FFFFFF&}and {\c&H00FFFFFF&}realistic {\c&H003C62C8&}about {\c&H00FFFFFF&}your {\c&H00FFFFFF&}next
+Dialogue: 0,0:00:25.40,0:00:25.56,Default,,0,0,0,,{\c&H00FFFFFF&}and {\c&H00FFFFFF&}realistic {\c&H00FFFFFF&}about {\c&H003C62C8&}your {\c&H00FFFFFF&}next
+Dialogue: 0,0:00:25.56,0:00:25.80,Default,,0,0,0,,{\c&H00FFFFFF&}and {\c&H00FFFFFF&}realistic {\c&H00FFFFFF&}about {\c&H00FFFFFF&}your {\c&H003C62C8&}next
+Dialogue: 0,0:00:25.80,0:00:26.28,Default,,0,0,0,,{\c&H003C62C8&}step {\c&H00FFFFFF&}Build {\c&H00FFFFFF&}a {\c&H00FFFFFF&}plan {\c&H00FFFFFF&}the
+Dialogue: 0,0:00:26.28,0:00:26.60,Default,,0,0,0,,{\c&H00FFFFFF&}step {\c&H003C62C8&}Build {\c&H00FFFFFF&}a {\c&H00FFFFFF&}plan {\c&H00FFFFFF&}the
+Dialogue: 0,0:00:26.60,0:00:26.76,Default,,0,0,0,,{\c&H00FFFFFF&}step {\c&H00FFFFFF&}Build {\c&H003C62C8&}a {\c&H00FFFFFF&}plan {\c&H00FFFFFF&}the
+Dialogue: 0,0:00:26.76,0:00:26.92,Default,,0,0,0,,{\c&H00FFFFFF&}step {\c&H00FFFFFF&}Build {\c&H00FFFFFF&}a {\c&H003C62C8&}plan {\c&H00FFFFFF&}the
+Dialogue: 0,0:00:26.92,0:00:27.16,Default,,0,0,0,,{\c&H00FFFFFF&}step {\c&H00FFFFFF&}Build {\c&H00FFFFFF&}a {\c&H00FFFFFF&}plan {\c&H003C62C8&}the
+Dialogue: 0,0:00:27.16,0:00:27.48,Default,,0,0,0,,{\c&H003C62C8&}tired {\c&H00FFFFFF&}version {\c&H00FFFFFF&}of {\c&H00FFFFFF&}you {\c&H00FFFFFF&}can
+Dialogue: 0,0:00:27.48,0:00:27.80,Default,,0,0,0,,{\c&H00FFFFFF&}tired {\c&H003C62C8&}version {\c&H00FFFFFF&}of {\c&H00FFFFFF&}you {\c&H00FFFFFF&}can
+Dialogue: 0,0:00:27.80,0:00:27.88,Default,,0,0,0,,{\c&H00FFFFFF&}tired {\c&H00FFFFFF&}version {\c&H003C62C8&}of {\c&H00FFFFFF&}you {\c&H00FFFFFF&}can
+Dialogue: 0,0:00:27.88,0:00:28.04,Default,,0,0,0,,{\c&H00FFFFFF&}tired {\c&H00FFFFFF&}version {\c&H00FFFFFF&}of {\c&H003C62C8&}you {\c&H00FFFFFF&}can
+Dialogue: 0,0:00:28.04,0:00:28.36,Default,,0,0,0,,{\c&H00FFFFFF&}tired {\c&H00FFFFFF&}version {\c&H00FFFFFF&}of {\c&H00FFFFFF&}you {\c&H003C62C8&}can
+Dialogue: 0,0:00:28.36,0:00:28.68,Default,,0,0,0,,{\c&H003C62C8&}actually {\c&H00FFFFFF&}follow {\c&H00FFFFFF&}Think {\c&H00FFFFFF&}deeper {\c&H00FFFFFF&}Live
+Dialogue: 0,0:00:28.68,0:00:29.40,Default,,0,0,0,,{\c&H00FFFFFF&}actually {\c&H003C62C8&}follow {\c&H00FFFFFF&}Think {\c&H00FFFFFF&}deeper {\c&H00FFFFFF&}Live
+Dialogue: 0,0:00:29.40,0:00:29.72,Default,,0,0,0,,{\c&H00FFFFFF&}actually {\c&H00FFFFFF&}follow {\c&H003C62C8&}Think {\c&H00FFFFFF&}deeper {\c&H00FFFFFF&}Live
+Dialogue: 0,0:00:29.72,0:00:30.44,Default,,0,0,0,,{\c&H00FFFFFF&}actually {\c&H00FFFFFF&}follow {\c&H00FFFFFF&}Think {\c&H003C62C8&}deeper {\c&H00FFFFFF&}Live
+Dialogue: 0,0:00:30.44,0:00:30.68,Default,,0,0,0,,{\c&H00FFFFFF&}actually {\c&H00FFFFFF&}follow {\c&H00FFFFFF&}Think {\c&H00FFFFFF&}deeper {\c&H003C62C8&}Live
+Dialogue: 0,0:00:30.68,0:00:31.48,Default,,0,0,0,,{\c&H003C62C8&}better {\c&H00FFFFFF&}Become {\c&H00FFFFFF&}more {\c&H00FFFFFF&}This {\c&H00FFFFFF&}is
+Dialogue: 0,0:00:31.48,0:00:31.80,Default,,0,0,0,,{\c&H00FFFFFF&}better {\c&H003C62C8&}Become {\c&H00FFFFFF&}more {\c&H00FFFFFF&}This {\c&H00FFFFFF&}is
+Dialogue: 0,0:00:31.80,0:00:32.44,Default,,0,0,0,,{\c&H00FFFFFF&}better {\c&H00FFFFFF&}Become {\c&H003C62C8&}more {\c&H00FFFFFF&}This {\c&H00FFFFFF&}is
+Dialogue: 0,0:00:32.44,0:00:32.68,Default,,0,0,0,,{\c&H00FFFFFF&}better {\c&H00FFFFFF&}Become {\c&H00FFFFFF&}more {\c&H003C62C8&}This {\c&H00FFFFFF&}is
+Dialogue: 0,0:00:32.68,0:00:32.84,Default,,0,0,0,,{\c&H00FFFFFF&}better {\c&H00FFFFFF&}Become {\c&H00FFFFFF&}more {\c&H00FFFFFF&}This {\c&H003C62C8&}is
+Dialogue: 0,0:00:32.84,0:00:33.00,Default,,0,0,0,,{\c&H003C62C8&}Why {\c&H00FFFFFF&}We {\c&H00FFFFFF&}Become
+Dialogue: 0,0:00:33.00,0:00:33.24,Default,,0,0,0,,{\c&H00FFFFFF&}Why {\c&H003C62C8&}We {\c&H00FFFFFF&}Become
+Dialogue: 0,0:00:33.24,0:00:33.56,Default,,0,0,0,,{\c&H00FFFFFF&}Why {\c&H00FFFFFF&}We {\c&H003C62C8&}Become

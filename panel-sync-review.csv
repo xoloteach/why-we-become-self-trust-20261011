@@ -1,0 +1,307 @@
+target,scene,start,end,panel,engine,headline,spoken_phrase,cue_labels
+scene_plan.json,1,0,6.48,S01P1,thought,"Your word.
+Your witness.",Have you ever noticed something strange about yourself? You can make a promise to yourself... and break it before the day is even over.,"[[3.36, ""A private promise""], [4.48, ""Broken before evening""]]"
+scene_plan.json,2,6.48,9.12,S01P3,clock,"The alarm
+comes first.",You tell yourself you'll wake up early. You don't.,"[[7.3599997, ""Wake up early""], [8.32, ""Not today""]]"
+scene_plan.json,3,9.12,13.599999,S01P4,feed,"Two more hours
+of scrolling.",You promise you'll stop wasting time on your phone. You spend another two hours scrolling.,"[[10.88, ""The phone""], [12.16, ""Two hours""], [12.639999, ""Scrolling""]]"
+scene_plan.json,4,13.599999,18.275,S01P7,stack,"This week
+will be different.",You decide that this week will be different. You'll exercise. You'll learn something useful.,"[[15.955, ""Exercise""], [17.155, ""Learn""]]"
+scene_plan.json,5,18.275,21.555,S01P9,focus,"The project
+still waits.",You'll finally work on that project you've been thinking about for months.,"[[19.395, ""The project""]]"
+scene_plan.json,6,21.555,25.154999,S02P1,thought,"For a moment,
+you believe it.",And for a moment... you genuinely believe yourself. You feel motivated.,"[[23.075, ""Believe""], [24.435001, ""Motivation""]]"
+scene_plan.json,7,25.154999,28.38,S02P4,window,"Meet your
+imagined self.",You make a plan. You imagine the person you're about to become.,"[[25.315, ""The plan""], [26.435001, ""Imagined self""]]"
+scene_plan.json,8,28.38,31.5,S03P1,timeline,"A few days
+pass.",Then a few days pass. The excitement disappears.,"[[28.939999, ""Time passes""], [30.539999, ""Disappears""]]"
+scene_plan.json,9,31.5,33.579998,S03P2,paths,"Reality adds
+friction.",Something gets difficult. And slowly...,"[[32.14, ""Difficulty""]]"
+scene_plan.json,10,33.579998,36.62,S03P9,loop,"Back in
+the loop.",you return to your old habits. Again. And again.,"[[33.739998, ""Return""], [34.3, ""Old habits""], [35.34, ""Repeat""]]"
+scene_plan.json,11,36.62,40.22,S04P1,thought,"The promise
+loses weight.","Until one day, something changes. You stop believing your own promises.","[[38.54, ""Belief fades""]]"
+scene_plan.json,12,40.22,45.075,S04P5,split,"Goals remain.
+Belief fades.",You still make plans. You still have goals. You still imagine a better version of yourself.,"[[42.14, ""Goals remain""], [43.155, ""Imagined self""]]"
+scene_plan.json,13,45.075,49.954998,S04P8,thought,"Will you
+actually do it?","But somewhere in the back of your mind... there's a quiet voice asking, “Are you actually going to do it this time?”","[[46.835, ""Private doubt""], [48.434998, ""Will you do it?""]]"
+scene_plan.json,14,49.954998,57.83,S04P3,timeline,"You recognize
+the ending.",And the uncomfortable part... is that you already know what your answer might be. Because you've heard yourself make this promise before. You know how this story usually ends.,"[[54.035, ""A familiar promise""], [56.595, ""A familiar ending""]]"
+scene_plan.json,15,57.83,65.03,S04P6,split,"Knowing is not
+the same as doing.",And maybe... that's why changing your life feels harder than it used to. Not because you don't know what to do. But because you've stopped trusting yourself to do it.,"[[61.75, ""Knowing""], [63.59, ""Self-trust""]]"
+scene_plan.json,16,65.03,71.345,S04P9,iceberg,"Invisible
+self-doubt.",And that creates a problem most people don't talk about. You can lose confidence in yourself... without anyone else ever noticing.,"[[69.35, ""Unseen by others""]]"
+scene_plan.json,17,71.345,76.225,S05P1,timeline,"You said
+you would show up.",Think about someone who constantly breaks promises to other people. They say they'll show up. They don't.,"[[74.945, ""Show up""]]"
+scene_plan.json,18,76.225,84.14,S05P3,stack,"Words lose
+their weight.","They say they'll finish something. They don't. They keep saying, “You can count on me.” But eventually... their words stop meaning very much.","[[76.865, ""Finish""], [79.585, ""Words""]]"
+scene_plan.json,19,84.14,90.86,S05P7,bridge,"Trust follows
+repeated action.",Why? Because trust isn't built by what someone says. It's built by what they repeatedly do.,"[[89.42, ""Repeated action""]]"
+scene_plan.json,20,90.86,95.899994,S05P9,focus,"The same rule
+works inside.",And here's the part that's easy to miss. The same thing can happen inside your own head.,"[[93.34, ""Same approach""], [94.38, ""Your relationship with you""]]"
+scene_plan.json,21,95.899994,100.305,S06P1,bridge,"A private
+agreement.",Every time you promise yourself something... you're making a small agreement with yourself.,"[[98.945, ""Agreement""]]"
+scene_plan.json,22,100.305,105.104996,S06P3,evidence,"Follow through.
+Build evidence.",When you repeatedly follow through... you build evidence that your decisions mean something.,"[[101.104996, ""Follow through""], [102.784996, ""Evidence""]]"
+scene_plan.json,23,105.104996,110.13,S06P4,split,"Abandon it.
+Build doubt.",But when you repeatedly make promises and abandon them... you build a different kind of evidence.,"[[107.265, ""Abandon""], [109.424995, ""Evidence""]]"
+scene_plan.json,24,110.13,115.25,S07P1,thought,"Failure,
+expected early.",You start expecting yourself to quit. You start planning for failure before you've even begun.,"[[111.729996, ""Expecting to quit""], [113.25, ""Expected failure""]]"
+scene_plan.json,25,115.25,120.689995,S07P1,paths,"The excuse
+is already ready.",You might decide to exercise tomorrow... but another part of you is already preparing an excuse.,"[[116.13, ""Exercise""], [116.53, ""Tomorrow""], [119.81, ""The excuse""]]"
+scene_plan.json,26,120.689995,125.315,S07P2,split,"Starting without
+committing.",You might start a project... but you don't fully commit because you assume you'll lose interest.,"[[121.409996, ""The project""], [124.45, ""Losing interest""]]"
+scene_plan.json,27,125.315,132.195,S07P3,thought,"A goal you
+don’t believe.",You might set a goal... but you hesitate to take it seriously because you've watched yourself abandon similar goals before.,"[[129.955, ""Abandon""], [130.995, ""Goals remain""]]"
+scene_plan.json,28,132.195,136.995,S07P6,focus,"You doubt
+the decision-maker.",And eventually... you don't just doubt the plan. You doubt the person making the plan.,"[[133.715, ""Doubt the plan""], [134.995, ""Doubt the decision-maker""]]"
+scene_plan.json,29,136.995,144.7,S07P7,timeline,"Past behavior.
+Future expectations.",That's what makes this cycle so frustrating. Your past behavior starts influencing what you believe is possible for your future self.,"[[139.65999, ""Past behavior""], [143.65999, ""Future expectations""]]"
+scene_plan.json,30,144.7,149.98,S07P8,stairs,"Doubt raises
+the first step.",And the more you expect yourself to quit... the harder it becomes to begin with genuine confidence.,"[[146.22, ""Expecting to quit""]]"
+scene_plan.json,31,149.98,154.625,S07P5,thought,"Why repeat
+the promise?",But why does this happen? Why do we keep making promises we struggle to keep?,"[[149.98, ""Why repeat the promise?""]]"
+scene_plan.json,32,154.625,160.545,S07P9,split,"Two emotional
+states.",One reason is that we often make decisions in one emotional state... and expect ourselves to follow them in another.,"[[157.185, ""One emotional state""], [159.425, ""Another emotional state""]]"
+scene_plan.json,33,160.545,164.6,S08P1,clock,"Sunday night.
+A clean restart.",Think about Sunday night. You've had a week where you didn't do as much as you wanted.,"[[161.105, ""Sunday night""]]"
+scene_plan.json,34,164.6,170.28,S08P2,loop,"Frustration
+becomes a plan.",Maybe you wasted time. Maybe you avoided important work. Maybe you feel frustrated with yourself.,"[[165.08, ""Time lost""], [166.6, ""Avoidance""], [168.84, ""Frustration""]]"
+scene_plan.json,35,170.28,174.36,S08P4,stack,"The perfect
+schedule.",So you decide that Monday will be different. You create a perfect schedule.,"[[171.16, ""Monday""], [173.16, ""Perfect schedule""]]"
+scene_plan.json,36,174.36,177.24,S08P5,stack,"Everything,
+all at once.",Wake up early. Exercise. Eat well.,"[[174.36, ""Wake up early""], [175.48001, ""Exercise""], [176.44, ""Eat well""]]"
+scene_plan.json,37,177.24,181.455,S08P6,stack,"More tasks.
+Same day.",Work without distractions. Read. Learn a skill. Go to bed on time.,"[[177.8, ""Distractions""], [178.575, ""Read""], [179.375, ""Learn""], [180.25499, ""Go to bed""]]"
+scene_plan.json,38,181.455,188.495,S08P9,window,"Control in
+your imagination.",Looking at the plan... you feel in control. Because planning allows you to imagine the result without experiencing the difficulty.,"[[183.295, ""Imagined control""], [185.535, ""Imagined self""], [186.095, ""The result""], [187.61499, ""The difficulty""]]"
+scene_plan.json,39,188.495,192.26,S09P1,clock,"Monday arrives.
+You are tired.",But then Monday arrives. You're tired. Your bed feels comfortable.,"[[188.735, ""Monday""], [189.855, ""Tired""], [191.535, ""Comfort""]]"
+scene_plan.json,40,192.26,194.09999,S09P3,focus,"Comfort is
+within reach.",Your phone is right beside you.,"[[192.57999, ""The phone""]]"
+scene_plan.json,41,194.09999,197.45999,S09P4,balance,"Now you feel
+the cost.",The work feels boring. The workout feels inconvenient.,"[[194.81999, ""Boredom""], [196.42, ""Inconvenience""]]"
+scene_plan.json,42,197.45999,201.21999,S09P6,focus,"Last night’s plan.
+Today’s reality.",And suddenly... the plan you made last night feels much less attractive.,"[[197.45999, ""Last night\u2019s plan. Today\u2019s reality.""]]"
+scene_plan.json,43,201.21999,207.765,S09P7,split,"Imagined reward.
+Experienced cost.",The person who created the plan... was imagining the reward. The person who has to execute it... is experiencing the cost.,"[[203.93999, ""Imagined reward""], [207.14, ""Experienced cost""]]"
+scene_plan.json,44,207.765,215.765,S09P8,switch,"A plan for
+your best mood.",And if your plan only works when you're motivated... it isn't a reliable plan. It's a plan for your best mood. Not for your actual life.,"[[209.605, ""Motivation""], [213.205, ""Your best mood""], [214.805, ""Your actual life""]]"
+scene_plan.json,45,215.765,221.99,S10P1,balance,"Too big for
+an ordinary day.",There's another mistake that makes this even worse. We often make promises that are too ambitious to survive an ordinary day.,"[[216.165, ""A mistake""], [219.365, ""Too ambitious""]]"
+scene_plan.json,46,221.99,227.19,S10P2,split,"Ten minutes.
+Or an entire book?","We don't say, “I'll read for ten minutes.” We say, “I'll read an entire book this week.”","[[223.27, ""Read""], [225.83, ""An entire book""]]"
+scene_plan.json,47,227.19,233.19,S10P4,split,"Consistency.
+Or an hour daily?","We don't say, “I'll exercise consistently.” We create a routine that demands an hour every single day.","[[228.47, ""Exercise""], [231.67, ""An hour every day""]]"
+scene_plan.json,48,233.19,240.245,S10P6,split,"One project step.
+Or a new life?","We don't say, “I'll work on my project after dinner.” We plan to transform our entire schedule overnight. Why?","[[234.965, ""The project""], [237.685, ""The entire schedule""]]"
+scene_plan.json,49,240.245,245.125,S11P1,thought,"Big promises
+feel exciting.",Because big promises feel exciting. They allow us to imagine a dramatic transformation.,"[[240.485, ""Big promises""], [242.965, ""Imagined self""], [243.52501, ""Transformation""]]"
+scene_plan.json,50,245.125,249.38,S11P2,focus,"Transformation
+in your imagination.",For a moment... we get to experience the feeling of becoming a completely different person.,"[[245.125, ""Transformation in your imagination.""]]"
+scene_plan.json,51,249.38,252.90001,S11P3,timeline,"Real change
+repeats.",But real change is rarely that dramatic. It's repetitive.,"[[252.1, ""Repetition""]]"
+scene_plan.json,52,252.90001,256.66,S11P6,stack,"Sometimes,
+it is boring.",It's inconvenient. And sometimes... it's incredibly boring.,"[[253.14, ""Inconvenience""], [255.3, ""Ordinary practice""], [255.86, ""Boredom""]]"
+scene_plan.json,53,256.66,263.005,S11P9,stairs,"A plan that
+helps you become.",So we create a plan for the person we wish we already were... instead of creating a plan that helps us become that person.,"[[258.34, ""Who you wish you were""], [261.38, ""How you become""]]"
+scene_plan.json,54,263.005,266.765,S12P1,calendar,"One day
+is missed.",Then reality arrives. We miss one day. The routine breaks.,"[[263.325, ""Reality""], [264.605, ""One missed day""], [265.725, ""The routine breaks""]]"
+scene_plan.json,55,266.765,269.565,S12P3,paths,"Adjust it.
+Or abandon it.",And rather than adjusting the plan... we abandon it.,"[[267.325, ""Adjust""], [268.605, ""Abandon""]]"
+scene_plan.json,56,269.565,275.05002,S12P7,loop,"Another
+fresh start.",We tell ourselves we'll restart next Monday. A fresh start feels better than continuing imperfectly.,"[[270.605, ""Restart""], [271.245, ""Monday""], [272.125, ""Fresh start""]]"
+scene_plan.json,57,275.05002,281.29,S12P4,focus,"New beginning.
+Same approach.",Because starting again allows us to believe that this time will be different... without having to deal with what went wrong last time.,"[[276.01, ""Repeat""]]"
+scene_plan.json,58,281.29,285.85,S12P8,bridge,"Repair before
+you restart.",But every restart without a real change in your approach... can become another broken promise.,"[[281.77002, ""Restart""], [283.45, ""The approach""]]"
+scene_plan.json,59,285.85,294.795,S13P1,identity,"Disappointment
+becomes a label.",And this is where your relationship with yourself starts getting complicated. You don't just feel disappointed about the thing you failed to do. You start turning that disappointment into an identity.,"[[294.075, ""Identity""]]"
+scene_plan.json,60,294.795,297.675,S13P1,thought,"This goal
+didn’t happen.","You stop saying, “I didn't follow through on this goal.”","[[296.23502, ""Follow through""], [296.95502, ""One behavior""]]"
+scene_plan.json,61,297.675,300.95502,S13P2,identity,"“This is
+who I am.”","You start saying, “I'm the kind of person who never follows through.”","[[299.035, ""A whole identity""]]"
+scene_plan.json,62,300.95502,309.23,S13P8,focus,"Behavior is
+not identity.",There's a big difference between those two statements. One describes a behavior. The other turns that behavior into a definition of who you are.,"[[307.63, ""A definition""]]"
+scene_plan.json,63,309.23,314.51,S13P3,loop,"The label
+feeds the loop.",And once you begin believing that definition... you may start acting in ways that reinforce it.,"[[310.67, ""A definition""], [313.47, ""Reinforcement""]]"
+scene_plan.json,64,314.51,320.605,S13P5,paths,"Why commit
+if failure feels certain?",Why commit seriously if you already expect to fail? Why start something difficult if you don't believe you'll finish?,"[[318.36502, ""Difficulty""]]"
+scene_plan.json,65,320.605,323.96503,S13P6,thought,"Expecting
+abandonment.",Why make a plan if you secretly assume you'll abandon it?,"[[320.765, ""The plan""], [323.165, ""Abandon""]]"
+scene_plan.json,66,323.96503,331.15997,S13P7,iceberg,"Quieter.
+Less confident.",You might not even notice that you're doing this. You just feel less confident. Less consistent. Less willing to take yourself seriously.,"[[323.96503, ""Quieter. Less confident.""]]"
+scene_plan.json,67,331.15997,333.87997,S14P1,switch,"Your past is
+not your definition.",But your past doesn't have to become your identity.,"[[333.08, ""Identity""]]"
+scene_plan.json,68,333.87997,338.52,S14P2,focus,"Broken before
+is not incapable.",The fact that you've broken promises before... doesn't mean you're incapable of keeping them.,"[[337.0, ""Not incapable""]]"
+scene_plan.json,69,338.52,341.96,S14P3,paths,"Change
+the approach.",It means the way you've been approaching those promises needs to change.,"[[338.52, ""Change the approach.""]]"
+scene_plan.json,70,341.96,345.905,S15P1,switch,"Not a
+bigger promise.",So how do you rebuild trust in yourself? Not by making a bigger promise.,"[[345.0, ""Bigger promise""]]"
+scene_plan.json,71,345.905,352.785,S15P7,thought,"Not a
+perfect routine.",Not by creating a more complicated routine. And definitely not by waiting for a magical moment when you suddenly become disciplined.,"[[347.185, ""Complicated routine""], [350.065, ""A magical moment""]]"
+scene_plan.json,72,352.785,357.905,S15P9,evidence,"Trust needs
+consistent evidence.",You rebuild trust the same way trust is built anywhere else. Through consistent evidence.,"[[353.905, ""Same approach""], [356.385, ""Consistent evidence""], [356.945, ""Evidence""]]"
+scene_plan.json,73,357.905,364.42,S15P2,stairs,"Smaller.
+More honest.",Start by making smaller promises. Promises so realistic that you can keep them even when the day isn't perfect.,"[[358.625, ""Smaller promises""]]"
+scene_plan.json,74,364.42,367.22,S15P3,pages,"Five pages.
+Keep the promise.",If you want to start reading... begin with five pages.,"[[366.1, ""5 pages""]]"
+scene_plan.json,75,367.22,370.98,S15P4,timeline,"A workout
+you can repeat.",If you want to exercise... choose a manageable workout you can repeat.,"[[367.7, ""Exercise""], [368.98, ""A repeatable workout""], [370.18002, ""Repeat""]]"
+scene_plan.json,76,370.98,374.435,S15P5,clock,"Twenty focused
+minutes.",If you want to learn a skill... commit to twenty focused minutes.,"[[371.46002, ""Learn""], [373.06, ""20 focused minutes""]]"
+scene_plan.json,77,374.435,378.915,S15P6,focus,"One concrete
+task today.",If you want to build something... decide on one concrete task you can complete today.,"[[376.67502, ""One concrete task""]]"
+scene_plan.json,78,378.915,384.915,S16P1,timeline,"A pattern.
+Not a performance.",The goal isn't to impress yourself with how ambitious your plan looks. The goal is to create a pattern of following through.,"[[383.39502, ""A pattern""]]"
+scene_plan.json,79,384.915,391.22,S16P2,evidence,"Evidence beats
+a motivation burst.",Because every completed promise gives you something more valuable than a temporary burst of motivation. It gives you evidence.,"[[388.915, ""A motivation burst""], [390.34003, ""Evidence""]]"
+scene_plan.json,80,391.22,394.58002,S16P3,bridge,"Your decision
+means something.",Evidence that when you decide to do something... you can actually do it.,"[[391.22, ""Evidence""]]"
+scene_plan.json,81,394.58002,397.62003,S16P7,stack,"Small evidence
+still counts.",And at first... that evidence might feel small.,"[[395.78, ""Evidence""]]"
+scene_plan.json,82,397.62003,405.055,S16P8,stack,"Pages. Minutes.
+One finished task.",Five pages don't look impressive. Twenty minutes doesn't look life-changing. One completed task doesn't look like a transformation.,"[[397.62003, ""5 pages""], [399.7, ""20 minutes done""], [402.255, ""A completed task""]]"
+scene_plan.json,83,405.055,409.13498,S16P9,bridge,"You are
+rebuilding trust.",But remember... you're not just building a habit. You're rebuilding trust.,"[[407.935, ""Rebuilding trust""]]"
+scene_plan.json,84,409.13498,413.775,S17P1,switch,"Imperfect is
+not failure.",Here's another important part. Stop treating every imperfect day as a failure.,"[[411.775, ""Imperfect""], [413.055, ""Expected failure""]]"
+scene_plan.json,85,413.775,419.83,S17P2,split,"Twenty minutes
+is not nothing.",Suppose you planned to work for an hour... but you only managed twenty minutes. That isn't the same as doing nothing.,"[[415.29498, ""An hour planned""], [418.87, ""Not nothing""]]"
+scene_plan.json,86,419.83,423.75,S17P3,calendar,"One missed workout.
+Not a ruined week.",Suppose you missed a workout. That doesn't mean the entire week is ruined.,"[[420.31, ""One missed workout""], [422.55, ""Not a ruined week""]]"
+scene_plan.json,87,423.75,427.67,S17P5,paths,"A scrolling evening.
+Then a return.",Suppose you spent an evening scrolling... when you intended to study.,"[[425.11, ""Scrolling""]]"
+scene_plan.json,88,427.67,435.625,S17P6,timeline,"Not next Monday.
+Your next decision.",You don't have to wait until Monday to return to your plan. You can return the next morning. Or the next hour. Or even the next decision.,"[[428.95, ""Monday""], [429.51, ""Return""], [432.98502, ""Next hour""], [434.505, ""Next decision""]]"
+scene_plan.json,89,435.625,444.025,S18P3,paths,"Consistency
+means returning.",Consistency doesn't mean performing perfectly every single day. It means learning how to return... without turning one mistake into a complete abandonment.,"[[440.105, ""Return""], [441.865, ""A mistake""]]"
+scene_plan.json,90,444.025,453.22998,S18P5,bridge,"Recovering beats
+disappearing.",A person who can recover after a bad day... is often more reliable than someone who follows a perfect routine for a week and disappears after the first setback.,"[[444.825, ""Recover""], [451.07, ""Disappears""]]"
+scene_plan.json,91,453.22998,456.99,S18P6,thought,"Not: how do I
+never mess up?","So stop asking yourself, “How can I make sure I never mess up?”","[[455.94998, ""Never mess up?""]]"
+scene_plan.json,92,456.99,460.925,S18P7,paths,"What happens
+on a difficult day?","Ask yourself, “What will I do when I inevitably have a difficult day?”","[[459.94998, ""A difficult day""]]"
+scene_plan.json,93,460.925,463.005,S19P1,focus,"Plan for
+that person too.","Build a plan for that person, too.","[[460.925, ""Plan for that person too.""]]"
+scene_plan.json,94,463.005,467.405,S19P2,stack,"Tired. Distracted.
+Unmotivated.",The tired version of you. The distracted version of you. The version that doesn't feel motivated.,"[[463.165, ""Tired you""], [464.365, ""Distracted you""], [466.205, ""Unmotivated you""], [466.605, ""Motivation""]]"
+scene_plan.json,95,467.405,475.81998,S19P8,split,"A real human.
+Not an ideal one.",Because that version of you is also part of your life. And your system needs to work for a real human being... not an imaginary version of you who always feels ready.,"[[471.485, ""A real human""], [473.245, ""An imaginary ideal""]]"
+scene_plan.json,96,475.81998,481.81998,S20P1,switch,"Honesty,
+not another vow.",There's one more thing you need to understand. You don't rebuild self-trust by promising yourself that you'll never quit again.,"[[480.94, ""Expecting to quit""]]"
+scene_plan.json,97,481.81998,485.34,S20P5,focus,"What can you
+actually commit to?",You rebuild it by becoming honest about what you can actually commit to.,"[[483.02, ""Honest commitments""]]"
+scene_plan.json,98,485.34,489.855,S20P2,clock,"Limited time.
+A realistic schedule.",If you know you have limited time... stop creating a schedule that requires unlimited time.,"[[486.06, ""Limited time""], [488.78, ""Unlimited demands""]]"
+scene_plan.json,99,489.855,494.815,S20P3,paths,"Distractions need
+an environment change.",If you know you get distracted easily... stop pretending that willpower alone will solve everything.,"[[492.73502, ""Willpower alone""]]"
+scene_plan.json,100,494.815,498.415,S20P4,stairs,"Break the task
+into steps.",If you know a task feels overwhelming... break it into smaller steps.,"[[496.015, ""Overwhelming task""], [496.89502, ""Broken before evening""], [497.535, ""Smaller steps""]]"
+scene_plan.json,101,498.415,503.49,S20P6,paths,"Adjust deliberately.
+Don’t disappear.",And if you genuinely cannot keep a commitment... adjust it deliberately instead of silently abandoning it.,"[[500.73502, ""Deliberate adjustment""], [502.255, ""Silent abandonment""]]"
+scene_plan.json,102,503.49,512.77,S20P5,focus,"Reality is not
+a character flaw.",There's no shame in changing a plan that doesn't work. The problem is repeatedly making promises without considering reality... then blaming yourself when reality doesn't cooperate.,"[[509.09, ""Reality""]]"
+scene_plan.json,103,512.77,516.915,S20P8,paths,"Ambitious direction.
+Realistic next step.",Be ambitious about the direction you're moving in. Be realistic about the next step.,"[[513.81, ""Ambitious direction""], [516.29, ""The next step""]]"
+scene_plan.json,104,516.915,522.83496,S20P9,timeline,"A different future.
+Not a different you by dawn.",You can want a completely different future... without demanding a completely different version of yourself by tomorrow morning.,"[[521.71497, ""Not by tomorrow morning""]]"
+scene_plan.json,105,522.83496,525.235,S21P1,evidence,"Change starts
+quietly.",And eventually... something begins to change.,"[[522.83496, ""Change starts quietly.""]]"
+scene_plan.json,106,525.235,529.01,S21P2,timeline,"Follow through.
+Then repeat.",You wake up and follow through on a small commitment. Then you do it again.,"[[525.95496, ""Follow through""], [528.435, ""Repeat""]]"
+scene_plan.json,107,529.01,532.69,S21P3,paths,"A difficult day.
+You return.",You have a difficult day... but you return instead of giving up.,"[[529.57, ""A difficult day""], [530.93, ""Return""], [531.89, ""Without giving up""]]"
+scene_plan.json,108,532.69,536.77,S21P4,bridge,"A mistake.
+Not abandonment.",You make a mistake... but you don't use it as an excuse to abandon everything.,"[[533.17, ""A mistake""], [534.93, ""The excuse""], [535.49, ""Abandon""]]"
+scene_plan.json,109,536.77,539.49,S21P6,identity,"You see yourself
+differently.",Slowly... you start seeing yourself differently.,"[[537.89, ""A changed view""]]"
+scene_plan.json,110,539.49,546.685,S21P7,split,"Not affirmations.
+Actual experiences.",Not because you keep repeating affirmations. Not because someone tells you that you're capable. But because you have actual experiences to look back on.,"[[540.61, ""Affirmations""], [544.525, ""Actual experiences""]]"
+scene_plan.json,111,546.685,552.445,S21P8,evidence,"The days
+you showed up.",You remember the days you showed up when you didn't feel like it. You remember the projects you continued when progress was slow.,"[[547.72504, ""You showed up""], [551.16504, ""Slow progress""]]"
+scene_plan.json,112,552.445,556.365,S21P5,paths,"You came back
+instead of disappearing.",You remember the times you made a mistake... and came back instead of disappearing.,"[[553.72504, ""A mistake""], [554.525, ""You came back""]]"
+scene_plan.json,113,556.365,562.96,S21P9,timeline,"A promise backed
+by your past.",And one day... when you make a new promise to yourself... you don't have to rely entirely on hope. You have evidence from your past.,"[[557.885, ""A private promise""], [560.56, ""Not only hope""], [561.44, ""Evidence""]]"
+scene_plan.json,114,562.96,567.2,S21P9,stairs,"“I can take
+the next step.”","You can think, “I've followed through before. I know I can take the next step.”","[[564.0, ""Evidence from before""], [566.4, ""The next step""]]"
+scene_plan.json,115,567.2,571.835,S22P5,focus,"Quiet
+confidence.",That kind of confidence is different. It's quieter. It doesn't need to announce itself.,"[[569.28, ""Quiet confidence""]]"
+scene_plan.json,116,571.835,577.355,S22P8,bridge,"Not perfect.
+An honest effort.",It comes from knowing that you can depend on yourself... not to be perfect... but to keep making an honest effort.,"[[574.475, ""Not perfection""], [576.395, ""Honest commitments""]]"
+scene_plan.json,117,577.355,582.875,S23P1,switch,"Not your
+whole life tonight.",So if you've spent years making plans and breaking promises... don't try to fix your entire life tonight.,"[[581.675, ""Not your entire life""]]"
+scene_plan.json,118,582.875,588.47,S23P2,thought,"No enormous
+new routine.",Don't create another enormous routine. Don't promise yourself that tomorrow you'll become a completely different person.,"[[585.99, ""Tomorrow""]]"
+scene_plan.json,119,588.47,590.87,S23P2,focus,"Choose
+one commitment.",Choose one thing. One commitment.,"[[588.47, ""Choose one thing""], [589.75, ""One commitment""]]"
+scene_plan.json,120,590.87,594.87,S23P3,focus,"Small enough.
+Meaningful enough.",Something small enough to complete... but meaningful enough that it matters to you.,"[[592.79, ""Meaningful""]]"
+scene_plan.json,121,594.87,597.19,S23P4,stack,"Write it.
+Choose when.",Write it down. Decide when you'll do it.,"[[594.87, ""Write it""], [596.23, ""Choose when""]]"
+scene_plan.json,122,597.19,598.79,S23P5,stairs,"Make the first
+step clear.",Make the first step clear.,"[[597.58997, ""Clear first step""]]"
+scene_plan.json,123,598.79,601.845,S23P7,timeline,"Follow through.
+Repeat tomorrow.",Then follow through. And tomorrow... do it again.,"[[599.02997, ""Follow through""], [600.245, ""Tomorrow""], [601.125, ""Repeat""]]"
+scene_plan.json,124,601.845,609.765,S23P8,bridge,"Not a competition.
+Your word matters.",Not because you're trying to prove that you're better than someone else. Not because you need to become perfect. But because you want your own word to mean something to you again.,"[[603.365, ""Not a competition""], [607.685, ""Your word matters""], [609.045, ""Repeat""]]"
+scene_plan.json,125,609.765,617.3,S24P1,bridge,"You carry yourself
+into every beginning.","Because the relationship you have with yourself... is the one relationship you carry into every goal, every challenge, and every new beginning.","[[614.02, ""Every goal""], [615.14, ""Every challenge""], [616.26, ""Every beginning""]]"
+scene_plan.json,126,617.3,621.38,S24P7,evidence,"Stronger than
+disappointment.",And you deserve to build that relationship on something stronger than disappointment.,"[[617.3, ""Stronger than disappointment.""]]"
+scene_plan.json,127,621.38,629.02496,S24P2,paths,"Struggle without
+self-abandonment.",You don't need to become someone who never struggles. You need to become someone who doesn't automatically abandon themselves when things get difficult.,"[[623.3, ""Struggle""], [626.385, ""Abandon""], [628.14496, ""Difficulty""]]"
+scene_plan.json,128,629.02496,631.505,S24P3,bridge,"Mistakes
+without giving up.",Someone who can make a mistake without giving up.,"[[629.90497, ""A mistake""], [630.625, ""Without giving up""]]"
+scene_plan.json,129,631.505,634.70496,S24P4,stairs,"Small is not
+insignificant.",Someone who can start small without feeling insignificant.,"[[633.505, ""Not insignificant""]]"
+scene_plan.json,130,634.70496,638.37994,S24P5,focus,"A promise kept
+without an audience.",Someone who can keep a promise... even when nobody else knows about it.,"[[636.785, ""No audience needed""]]"
+scene_plan.json,131,638.37994,647.7056,S24P6,stairs,"Confidence in
+the next step.",Because confidence isn't always believing you can do something extraordinary. Sometimes... it's simply knowing that when you tell yourself you'll take the next step... you actually will.,"[[641.33997, ""Not extraordinary""], [645.89996, ""The next step""]]"
+scene_plan.json,132,647.7056,653.9456,S24P8,stack,"Small.
+Honest. Kept.",Start there. Keep the promise small. Keep it honest. And give yourself a reason to trust yourself again.,"[[648.7456, ""Keep it small""], [650.2656, ""Keep it honest""], [652.6656, ""Trust yourself again""], [653.2256, ""Repeat""]]"
+scene_plan.json,133,653.9456,658.023855,S24P9,finish,"Think deeper.
+Live better. Become more.",Think deeper. Live better. Become more. This is Why We Become.,"[[653.9456, ""Think deeper""], [654.90564, ""Live better""], [655.5456, ""Become more""]]"
+short_01-scene_plan.json,1,0,2.0,S04P8,thought,"Your promise
+feels empty.",You don't just doubt your plan You,"[[0.0, ""Not today""]]"
+short_01-scene_plan.json,2,2.0,8.559999,S06P4,loop,"Broken promises
+build expectations.",doubt the person making it Every time you promise yourself you'll change then quietly abandon the promise you give yourself another reason to,"[[2.0, ""Doubt the decision-maker""], [6.08, ""Abandon""]]"
+short_01-scene_plan.json,3,8.559999,14.065001,S13P8,split,"Past is not
+identity.",expect the same ending But that expectation is not your identity Your past is evidence of what,"[[9.04, ""Same approach""], [11.759999, ""Identity""], [13.425, ""Evidence""]]"
+short_01-scene_plan.json,4,14.065001,18.865,S15P3,stairs,"One small
+honest promise.",happened not a verdict on what you can become Rebuild trust with one promise small enough to,"[[14.065001, ""One small honest promise.""]]"
+short_01-scene_plan.json,5,18.865,26.945,S16P2,evidence,"Build evidence.
+Not a performance.",keep on an ordinary day Read five pages Finish one useful task Then repeat You're not trying to impress yourself You're giving yourself a reason,"[[20.305, ""Read""], [20.625, ""5 pages""], [23.265, ""Repeat""]]"
+short_01-scene_plan.json,6,26.945,32.731429,S24P9,finish,"Think deeper.
+Live better. Become more.",to believe your own word again Think deeper Live better Become more This is Why We Become,"[[27.825, ""Repeat""], [28.426437, ""Think deeper""], [29.466438, ""Live better""]]"
+short_02-scene_plan.json,1,0,5.12,S08P1,split,"Sunday’s plan.
+Monday’s reality.",Sunday night your new routine looks perfect Monday morning you're tired your phone is beside you and,"[[0.0, ""Sunday night""], [2.24, ""Monday""], [3.04, ""Tired""]]"
+short_02-scene_plan.json,2,5.12,9.36,S09P1,thought,"Your tired self
+needs a plan too.",the work feels boring The person who made the plan imagined the reward The,"[[5.68, ""Boredom""], [8.4, ""Imagined reward""]]"
+short_02-scene_plan.json,3,9.36,14.445,S09P7,balance,"Reward imagined.
+Cost experienced.",person doing it experiences the cost If your routine only works when you're motivated it's a,"[[10.88, ""Experienced cost""], [13.28, ""Motivation""]]"
+short_02-scene_plan.json,4,14.445,20.045,S19P2,switch,"Plan for
+your actual life.",plan for your best mood not your actual life Make the first step smaller Put the phone out of,"[[15.005, ""Your best mood""], [16.365, ""Your actual life""], [19.485, ""The phone""]]"
+short_02-scene_plan.json,5,20.045,25.083,S20P3,paths,"Reduce friction.
+Make it doable.",reach Decide what you'll do on a difficult day Be ambitious about your direction and realistic,"[[21.885, ""A difficult day""], [21.885, ""Difficulty""], [23.963001, ""Ambitious direction""]]"
+short_02-scene_plan.json,6,25.083,27.803001,S20P8,stairs,"Big direction.
+Small next step.",about your next step Build a plan the tired version,"[[25.563, ""The next step""], [27.163, ""Tired you""]]"
+short_02-scene_plan.json,7,27.803001,33.888,S24P9,finish,"Think deeper.
+Live better. Become more.",of you can actually follow Think deeper Live better Become more This is Why We Become,"[[29.403, ""Think deeper""], [30.443, ""Live better""], [31.483002, ""Become more""]]"
+short_03-scene_plan.json,1,0,6.3999996,S17P3,calendar,"One bad day
+is not the ending.",You missed a workout You scrolled instead of studying Now you're telling yourself you'll restart next Monday But,"[[0.32, ""One missed workout""], [4.88, ""Restart""], [5.52, ""Monday""]]"
+short_03-scene_plan.json,2,6.3999996,10.08,S12P7,focus,"Not next
+Monday.",one imperfect day does not have to become complete abandonment Twenty,"[[6.64, ""Imperfect""]]"
+short_03-scene_plan.json,3,10.08,15.684999,S17P2,focus,"Twenty minutes
+is not nothing.",minutes of work is not the same as nothing A missed workout does not erase the rest of your week Consistency,"[[11.28, ""Same approach""]]"
+short_03-scene_plan.json,4,15.684999,20.005,S18P3,paths,"Consistency
+means returning.",isn't never slipping It's learning to return Ask a better question,"[[17.685, ""Return""]]"
+short_03-scene_plan.json,5,20.005,26.07,S18P7,stairs,"Plan your
+recovery step.",not how do I make sure I never mess up But what will I do when a difficult day happens Return the,"[[21.765, ""Never mess up?""], [24.085, ""A difficult day""], [24.085, ""Difficulty""]]"
+short_03-scene_plan.json,6,26.07,29.99,S17P6,timeline,"Your next
+decision.",next morning the next hour or the next decision Keep the promise,"[[26.07, ""Next morning""], [27.11, ""Next hour""], [27.35, ""An hour planned""]]"
+short_03-scene_plan.json,7,29.99,36.675918,S24P9,finish,"Think deeper.
+Live better. Become more.",small Keep it honest Think deeper Live better Become more This is Why We Become,"[[30.79, ""Keep it honest""], [31.19, ""Honest commitments""], [31.91, ""Think deeper""]]"

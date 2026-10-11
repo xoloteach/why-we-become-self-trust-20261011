@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "start": 0,
+    "end": 2.0,
+    "art": "S04P8",
+    "title": "Your promise\nfeels empty.",
+    "kind": "thought",
+    "labels": [
+      "Not today"
+    ],
+    "cues": [
+      0.0
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "You don't just doubt your plan You"
+  },
+  {
+    "id": 2,
+    "start": 2.0,
+    "end": 8.559999,
+    "art": "S06P4",
+    "title": "Broken promises\nbuild expectations.",
+    "kind": "loop",
+    "labels": [
+      "Doubt the decision-maker",
+      "Abandon"
+    ],
+    "cues": [
+      2.0,
+      6.08
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "doubt the person making it Every time you promise yourself you'll change then quietly abandon the promise you give yourself another reason to"
+  },
+  {
+    "id": 3,
+    "start": 8.559999,
+    "end": 14.065001,
+    "art": "S13P8",
+    "title": "Past is not\nidentity.",
+    "kind": "split",
+    "labels": [
+      "Same approach",
+      "Identity",
+      "Evidence"
+    ],
+    "cues": [
+      9.04,
+      11.759999,
+      13.425
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "expect the same ending But that expectation is not your identity Your past is evidence of what"
+  },
+  {
+    "id": 4,
+    "start": 14.065001,
+    "end": 18.865,
+    "art": "S15P3",
+    "title": "One small\nhonest promise.",
+    "kind": "stairs",
+    "labels": [
+      "One small honest promise."
+    ],
+    "cues": [
+      14.065001
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "happened not a verdict on what you can become Rebuild trust with one promise small enough to"
+  },
+  {
+    "id": 5,
+    "start": 18.865,
+    "end": 26.945,
+    "art": "S16P2",
+    "title": "Build evidence.\nNot a performance.",
+    "kind": "evidence",
+    "labels": [
+      "Read",
+      "5 pages",
+      "Repeat"
+    ],
+    "cues": [
+      20.305,
+      20.625,
+      23.265
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "keep on an ordinary day Read five pages Finish one useful task Then repeat You're not trying to impress yourself You're giving yourself a reason"
+  },
+  {
+    "id": 6,
+    "start": 26.945,
+    "end": 32.731429,
+    "art": "S24P9",
+    "title": "Think deeper.\nLive better. Become more.",
+    "kind": "finish",
+    "labels": [
+      "Repeat",
+      "Think deeper",
+      "Live better"
+    ],
+    "cues": [
+      27.825,
+      28.426437,
+      29.466438
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "to believe your own word again Think deeper Live better Become more This is Why We Become"
+  }
+]

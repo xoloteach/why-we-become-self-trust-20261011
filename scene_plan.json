@@ -1,0 +1,3426 @@
+[
+  {
+    "id": 1,
+    "start": 0,
+    "end": 6.48,
+    "art": "S01P1",
+    "kind": "thought",
+    "title": "Your word.\nYour witness.",
+    "labels": [
+      "A private promise",
+      "Broken before evening"
+    ],
+    "cues": [
+      3.36,
+      4.48
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "Have you ever noticed something strange about yourself? You can make a promise to yourself... and break it before the day is even over.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 2,
+    "start": 6.48,
+    "end": 9.12,
+    "art": "S01P3",
+    "kind": "clock",
+    "title": "The alarm\ncomes first.",
+    "labels": [
+      "Wake up early",
+      "Not today"
+    ],
+    "cues": [
+      7.3599997,
+      8.32
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "You tell yourself you'll wake up early. You don't.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 3,
+    "start": 9.12,
+    "end": 13.599999,
+    "art": "S01P4",
+    "kind": "feed",
+    "title": "Two more hours\nof scrolling.",
+    "labels": [
+      "The phone",
+      "Two hours",
+      "Scrolling"
+    ],
+    "cues": [
+      10.88,
+      12.16,
+      12.639999
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "You promise you'll stop wasting time on your phone. You spend another two hours scrolling.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 4,
+    "start": 13.599999,
+    "end": 18.275,
+    "art": "S01P7",
+    "kind": "stack",
+    "title": "This week\nwill be different.",
+    "labels": [
+      "Exercise",
+      "Learn"
+    ],
+    "cues": [
+      15.955,
+      17.155
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "You decide that this week will be different. You'll exercise. You'll learn something useful.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 5,
+    "start": 18.275,
+    "end": 21.555,
+    "art": "S01P9",
+    "kind": "focus",
+    "title": "The project\nstill waits.",
+    "labels": [
+      "The project"
+    ],
+    "cues": [
+      19.395
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "You'll finally work on that project you've been thinking about for months.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 6,
+    "start": 21.555,
+    "end": 25.154999,
+    "art": "S02P1",
+    "kind": "thought",
+    "title": "For a moment,\nyou believe it.",
+    "labels": [
+      "Believe",
+      "Motivation"
+    ],
+    "cues": [
+      23.075,
+      24.435001
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "And for a moment... you genuinely believe yourself. You feel motivated.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 7,
+    "start": 25.154999,
+    "end": 28.38,
+    "art": "S02P4",
+    "kind": "window",
+    "title": "Meet your\nimagined self.",
+    "labels": [
+      "The plan",
+      "Imagined self"
+    ],
+    "cues": [
+      25.315,
+      26.435001
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "You make a plan. You imagine the person you're about to become.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 8,
+    "start": 28.38,
+    "end": 31.5,
+    "art": "S03P1",
+    "kind": "timeline",
+    "title": "A few days\npass.",
+    "labels": [
+      "Time passes",
+      "Disappears"
+    ],
+    "cues": [
+      28.939999,
+      30.539999
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "Then a few days pass. The excitement disappears.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 9,
+    "start": 31.5,
+    "end": 33.579998,
+    "art": "S03P2",
+    "kind": "paths",
+    "title": "Reality adds\nfriction.",
+    "labels": [
+      "Difficulty"
+    ],
+    "cues": [
+      32.14
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "Something gets difficult. And slowly...",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 10,
+    "start": 33.579998,
+    "end": 36.62,
+    "art": "S03P9",
+    "kind": "loop",
+    "title": "Back in\nthe loop.",
+    "labels": [
+      "Return",
+      "Old habits",
+      "Repeat"
+    ],
+    "cues": [
+      33.739998,
+      34.3,
+      35.34
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "you return to your old habits. Again. And again.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 11,
+    "start": 36.62,
+    "end": 40.22,
+    "art": "S04P1",
+    "kind": "thought",
+    "title": "The promise\nloses weight.",
+    "labels": [
+      "Belief fades"
+    ],
+    "cues": [
+      38.54
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "Until one day, something changes. You stop believing your own promises.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 12,
+    "start": 40.22,
+    "end": 45.075,
+    "art": "S04P5",
+    "kind": "split",
+    "title": "Goals remain.\nBelief fades.",
+    "labels": [
+      "Goals remain",
+      "Imagined self"
+    ],
+    "cues": [
+      42.14,
+      43.155
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "You still make plans. You still have goals. You still imagine a better version of yourself.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 13,
+    "start": 45.075,
+    "end": 49.954998,
+    "art": "S04P8",
+    "kind": "thought",
+    "title": "Will you\nactually do it?",
+    "labels": [
+      "Private doubt",
+      "Will you do it?"
+    ],
+    "cues": [
+      46.835,
+      48.434998
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "But somewhere in the back of your mind... there's a quiet voice asking, \u201cAre you actually going to do it this time?\u201d",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 14,
+    "start": 49.954998,
+    "end": 57.83,
+    "art": "S04P3",
+    "kind": "timeline",
+    "title": "You recognize\nthe ending.",
+    "labels": [
+      "A familiar promise",
+      "A familiar ending"
+    ],
+    "cues": [
+      54.035,
+      56.595
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "And the uncomfortable part... is that you already know what your answer might be. Because you've heard yourself make this promise before. You know how this story usually ends.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 15,
+    "start": 57.83,
+    "end": 65.03,
+    "art": "S04P6",
+    "kind": "split",
+    "title": "Knowing is not\nthe same as doing.",
+    "labels": [
+      "Knowing",
+      "Self-trust"
+    ],
+    "cues": [
+      61.75,
+      63.59
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "And maybe... that's why changing your life feels harder than it used to. Not because you don't know what to do. But because you've stopped trusting yourself to do it.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 16,
+    "start": 65.03,
+    "end": 71.345,
+    "art": "S04P9",
+    "kind": "iceberg",
+    "title": "Invisible\nself-doubt.",
+    "labels": [
+      "Unseen by others"
+    ],
+    "cues": [
+      69.35
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "And that creates a problem most people don't talk about. You can lose confidence in yourself... without anyone else ever noticing.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 17,
+    "start": 71.345,
+    "end": 76.225,
+    "art": "S05P1",
+    "kind": "timeline",
+    "title": "You said\nyou would show up.",
+    "labels": [
+      "Show up"
+    ],
+    "cues": [
+      74.945
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Think about someone who constantly breaks promises to other people. They say they'll show up. They don't.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 18,
+    "start": 76.225,
+    "end": 84.14,
+    "art": "S05P3",
+    "kind": "stack",
+    "title": "Words lose\ntheir weight.",
+    "labels": [
+      "Finish",
+      "Words"
+    ],
+    "cues": [
+      76.865,
+      79.585
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "They say they'll finish something. They don't. They keep saying, \u201cYou can count on me.\u201d But eventually... their words stop meaning very much.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 19,
+    "start": 84.14,
+    "end": 90.86,
+    "art": "S05P7",
+    "kind": "bridge",
+    "title": "Trust follows\nrepeated action.",
+    "labels": [
+      "Repeated action"
+    ],
+    "cues": [
+      89.42
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Why? Because trust isn't built by what someone says. It's built by what they repeatedly do.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 20,
+    "start": 90.86,
+    "end": 95.899994,
+    "art": "S05P9",
+    "kind": "focus",
+    "title": "The same rule\nworks inside.",
+    "labels": [
+      "Same approach",
+      "Your relationship with you"
+    ],
+    "cues": [
+      93.34,
+      94.38
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "And here's the part that's easy to miss. The same thing can happen inside your own head.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 21,
+    "start": 95.899994,
+    "end": 100.305,
+    "art": "S06P1",
+    "kind": "bridge",
+    "title": "A private\nagreement.",
+    "labels": [
+      "Agreement"
+    ],
+    "cues": [
+      98.945
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "Every time you promise yourself something... you're making a small agreement with yourself.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 22,
+    "start": 100.305,
+    "end": 105.104996,
+    "art": "S06P3",
+    "kind": "evidence",
+    "title": "Follow through.\nBuild evidence.",
+    "labels": [
+      "Follow through",
+      "Evidence"
+    ],
+    "cues": [
+      101.104996,
+      102.784996
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "When you repeatedly follow through... you build evidence that your decisions mean something.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 23,
+    "start": 105.104996,
+    "end": 110.13,
+    "art": "S06P4",
+    "kind": "split",
+    "title": "Abandon it.\nBuild doubt.",
+    "labels": [
+      "Abandon",
+      "Evidence"
+    ],
+    "cues": [
+      107.265,
+      109.424995
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "But when you repeatedly make promises and abandon them... you build a different kind of evidence.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 24,
+    "start": 110.13,
+    "end": 115.25,
+    "art": "S07P1",
+    "kind": "thought",
+    "title": "Failure,\nexpected early.",
+    "labels": [
+      "Expecting to quit",
+      "Expected failure"
+    ],
+    "cues": [
+      111.729996,
+      113.25
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "You start expecting yourself to quit. You start planning for failure before you've even begun.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 25,
+    "start": 115.25,
+    "end": 120.689995,
+    "art": "S07P1",
+    "kind": "paths",
+    "title": "The excuse\nis already ready.",
+    "labels": [
+      "Exercise",
+      "Tomorrow",
+      "The excuse"
+    ],
+    "cues": [
+      116.13,
+      116.53,
+      119.81
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "You might decide to exercise tomorrow... but another part of you is already preparing an excuse.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 26,
+    "start": 120.689995,
+    "end": 125.315,
+    "art": "S07P2",
+    "kind": "split",
+    "title": "Starting without\ncommitting.",
+    "labels": [
+      "The project",
+      "Losing interest"
+    ],
+    "cues": [
+      121.409996,
+      124.45
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "You might start a project... but you don't fully commit because you assume you'll lose interest.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 27,
+    "start": 125.315,
+    "end": 132.195,
+    "art": "S07P3",
+    "kind": "thought",
+    "title": "A goal you\ndon\u2019t believe.",
+    "labels": [
+      "Abandon",
+      "Goals remain"
+    ],
+    "cues": [
+      129.955,
+      130.995
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "You might set a goal... but you hesitate to take it seriously because you've watched yourself abandon similar goals before.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 28,
+    "start": 132.195,
+    "end": 136.995,
+    "art": "S07P6",
+    "kind": "focus",
+    "title": "You doubt\nthe decision-maker.",
+    "labels": [
+      "Doubt the plan",
+      "Doubt the decision-maker"
+    ],
+    "cues": [
+      133.715,
+      134.995
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "And eventually... you don't just doubt the plan. You doubt the person making the plan.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 29,
+    "start": 136.995,
+    "end": 144.7,
+    "art": "S07P7",
+    "kind": "timeline",
+    "title": "Past behavior.\nFuture expectations.",
+    "labels": [
+      "Past behavior",
+      "Future expectations"
+    ],
+    "cues": [
+      139.65999,
+      143.65999
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "That's what makes this cycle so frustrating. Your past behavior starts influencing what you believe is possible for your future self.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 30,
+    "start": 144.7,
+    "end": 149.98,
+    "art": "S07P8",
+    "kind": "stairs",
+    "title": "Doubt raises\nthe first step.",
+    "labels": [
+      "Expecting to quit"
+    ],
+    "cues": [
+      146.22
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "And the more you expect yourself to quit... the harder it becomes to begin with genuine confidence.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 31,
+    "start": 149.98,
+    "end": 154.625,
+    "art": "S07P5",
+    "kind": "thought",
+    "title": "Why repeat\nthe promise?",
+    "labels": [
+      "Why repeat the promise?"
+    ],
+    "cues": [
+      149.98
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "But why does this happen? Why do we keep making promises we struggle to keep?",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 32,
+    "start": 154.625,
+    "end": 160.545,
+    "art": "S07P9",
+    "kind": "split",
+    "title": "Two emotional\nstates.",
+    "labels": [
+      "One emotional state",
+      "Another emotional state"
+    ],
+    "cues": [
+      157.185,
+      159.425
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "One reason is that we often make decisions in one emotional state... and expect ourselves to follow them in another.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 33,
+    "start": 160.545,
+    "end": 164.6,
+    "art": "S08P1",
+    "kind": "clock",
+    "title": "Sunday night.\nA clean restart.",
+    "labels": [
+      "Sunday night"
+    ],
+    "cues": [
+      161.105
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "Think about Sunday night. You've had a week where you didn't do as much as you wanted.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 34,
+    "start": 164.6,
+    "end": 170.28,
+    "art": "S08P2",
+    "kind": "loop",
+    "title": "Frustration\nbecomes a plan.",
+    "labels": [
+      "Time lost",
+      "Avoidance",
+      "Frustration"
+    ],
+    "cues": [
+      165.08,
+      166.6,
+      168.84
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "Maybe you wasted time. Maybe you avoided important work. Maybe you feel frustrated with yourself.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 35,
+    "start": 170.28,
+    "end": 174.36,
+    "art": "S08P4",
+    "kind": "stack",
+    "title": "The perfect\nschedule.",
+    "labels": [
+      "Monday",
+      "Perfect schedule"
+    ],
+    "cues": [
+      171.16,
+      173.16
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "So you decide that Monday will be different. You create a perfect schedule.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 36,
+    "start": 174.36,
+    "end": 177.24,
+    "art": "S08P5",
+    "kind": "stack",
+    "title": "Everything,\nall at once.",
+    "labels": [
+      "Wake up early",
+      "Exercise",
+      "Eat well"
+    ],
+    "cues": [
+      174.36,
+      175.48001,
+      176.44
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "Wake up early. Exercise. Eat well.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 37,
+    "start": 177.24,
+    "end": 181.455,
+    "art": "S08P6",
+    "kind": "stack",
+    "title": "More tasks.\nSame day.",
+    "labels": [
+      "Distractions",
+      "Read",
+      "Learn",
+      "Go to bed"
+    ],
+    "cues": [
+      177.8,
+      178.575,
+      179.375,
+      180.25499
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "Work without distractions. Read. Learn a skill. Go to bed on time.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 38,
+    "start": 181.455,
+    "end": 188.495,
+    "art": "S08P9",
+    "kind": "window",
+    "title": "Control in\nyour imagination.",
+    "labels": [
+      "Imagined control",
+      "Imagined self",
+      "The result",
+      "The difficulty"
+    ],
+    "cues": [
+      183.295,
+      185.535,
+      186.095,
+      187.61499
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "Looking at the plan... you feel in control. Because planning allows you to imagine the result without experiencing the difficulty.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 39,
+    "start": 188.495,
+    "end": 192.26,
+    "art": "S09P1",
+    "kind": "clock",
+    "title": "Monday arrives.\nYou are tired.",
+    "labels": [
+      "Monday",
+      "Tired",
+      "Comfort"
+    ],
+    "cues": [
+      188.735,
+      189.855,
+      191.535
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "But then Monday arrives. You're tired. Your bed feels comfortable.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 40,
+    "start": 192.26,
+    "end": 194.09999,
+    "art": "S09P3",
+    "kind": "focus",
+    "title": "Comfort is\nwithin reach.",
+    "labels": [
+      "The phone"
+    ],
+    "cues": [
+      192.57999
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "Your phone is right beside you.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 41,
+    "start": 194.09999,
+    "end": 197.45999,
+    "art": "S09P4",
+    "kind": "balance",
+    "title": "Now you feel\nthe cost.",
+    "labels": [
+      "Boredom",
+      "Inconvenience"
+    ],
+    "cues": [
+      194.81999,
+      196.42
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "The work feels boring. The workout feels inconvenient.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 42,
+    "start": 197.45999,
+    "end": 201.21999,
+    "art": "S09P6",
+    "kind": "focus",
+    "title": "Last night\u2019s plan.\nToday\u2019s reality.",
+    "labels": [
+      "Last night\u2019s plan. Today\u2019s reality."
+    ],
+    "cues": [
+      197.45999
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "And suddenly... the plan you made last night feels much less attractive.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 43,
+    "start": 201.21999,
+    "end": 207.765,
+    "art": "S09P7",
+    "kind": "split",
+    "title": "Imagined reward.\nExperienced cost.",
+    "labels": [
+      "Imagined reward",
+      "Experienced cost"
+    ],
+    "cues": [
+      203.93999,
+      207.14
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "The person who created the plan... was imagining the reward. The person who has to execute it... is experiencing the cost.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 44,
+    "start": 207.765,
+    "end": 215.765,
+    "art": "S09P8",
+    "kind": "switch",
+    "title": "A plan for\nyour best mood.",
+    "labels": [
+      "Motivation",
+      "Your best mood",
+      "Your actual life"
+    ],
+    "cues": [
+      209.605,
+      213.205,
+      214.805
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "And if your plan only works when you're motivated... it isn't a reliable plan. It's a plan for your best mood. Not for your actual life.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 45,
+    "start": 215.765,
+    "end": 221.99,
+    "art": "S10P1",
+    "kind": "balance",
+    "title": "Too big for\nan ordinary day.",
+    "labels": [
+      "A mistake",
+      "Too ambitious"
+    ],
+    "cues": [
+      216.165,
+      219.365
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "There's another mistake that makes this even worse. We often make promises that are too ambitious to survive an ordinary day.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 46,
+    "start": 221.99,
+    "end": 227.19,
+    "art": "S10P2",
+    "kind": "split",
+    "title": "Ten minutes.\nOr an entire book?",
+    "labels": [
+      "Read",
+      "An entire book"
+    ],
+    "cues": [
+      223.27,
+      225.83
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "We don't say, \u201cI'll read for ten minutes.\u201d We say, \u201cI'll read an entire book this week.\u201d",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 47,
+    "start": 227.19,
+    "end": 233.19,
+    "art": "S10P4",
+    "kind": "split",
+    "title": "Consistency.\nOr an hour daily?",
+    "labels": [
+      "Exercise",
+      "An hour every day"
+    ],
+    "cues": [
+      228.47,
+      231.67
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "We don't say, \u201cI'll exercise consistently.\u201d We create a routine that demands an hour every single day.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 48,
+    "start": 233.19,
+    "end": 240.245,
+    "art": "S10P6",
+    "kind": "split",
+    "title": "One project step.\nOr a new life?",
+    "labels": [
+      "The project",
+      "The entire schedule"
+    ],
+    "cues": [
+      234.965,
+      237.685
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "We don't say, \u201cI'll work on my project after dinner.\u201d We plan to transform our entire schedule overnight. Why?",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 49,
+    "start": 240.245,
+    "end": 245.125,
+    "art": "S11P1",
+    "kind": "thought",
+    "title": "Big promises\nfeel exciting.",
+    "labels": [
+      "Big promises",
+      "Imagined self",
+      "Transformation"
+    ],
+    "cues": [
+      240.485,
+      242.965,
+      243.52501
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 11,
+    "feature": false,
+    "phrase": "Because big promises feel exciting. They allow us to imagine a dramatic transformation.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 50,
+    "start": 245.125,
+    "end": 249.38,
+    "art": "S11P2",
+    "kind": "focus",
+    "title": "Transformation\nin your imagination.",
+    "labels": [
+      "Transformation in your imagination."
+    ],
+    "cues": [
+      245.125
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 11,
+    "feature": false,
+    "phrase": "For a moment... we get to experience the feeling of becoming a completely different person.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 51,
+    "start": 249.38,
+    "end": 252.90001,
+    "art": "S11P3",
+    "kind": "timeline",
+    "title": "Real change\nrepeats.",
+    "labels": [
+      "Repetition"
+    ],
+    "cues": [
+      252.1
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 11,
+    "feature": false,
+    "phrase": "But real change is rarely that dramatic. It's repetitive.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 52,
+    "start": 252.90001,
+    "end": 256.66,
+    "art": "S11P6",
+    "kind": "stack",
+    "title": "Sometimes,\nit is boring.",
+    "labels": [
+      "Inconvenience",
+      "Ordinary practice",
+      "Boredom"
+    ],
+    "cues": [
+      253.14,
+      255.3,
+      255.86
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 11,
+    "feature": false,
+    "phrase": "It's inconvenient. And sometimes... it's incredibly boring.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 53,
+    "start": 256.66,
+    "end": 263.005,
+    "art": "S11P9",
+    "kind": "stairs",
+    "title": "A plan that\nhelps you become.",
+    "labels": [
+      "Who you wish you were",
+      "How you become"
+    ],
+    "cues": [
+      258.34,
+      261.38
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 11,
+    "feature": false,
+    "phrase": "So we create a plan for the person we wish we already were... instead of creating a plan that helps us become that person.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 54,
+    "start": 263.005,
+    "end": 266.765,
+    "art": "S12P1",
+    "kind": "calendar",
+    "title": "One day\nis missed.",
+    "labels": [
+      "Reality",
+      "One missed day",
+      "The routine breaks"
+    ],
+    "cues": [
+      263.325,
+      264.605,
+      265.725
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 12,
+    "feature": false,
+    "phrase": "Then reality arrives. We miss one day. The routine breaks.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 55,
+    "start": 266.765,
+    "end": 269.565,
+    "art": "S12P3",
+    "kind": "paths",
+    "title": "Adjust it.\nOr abandon it.",
+    "labels": [
+      "Adjust",
+      "Abandon"
+    ],
+    "cues": [
+      267.325,
+      268.605
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 12,
+    "feature": false,
+    "phrase": "And rather than adjusting the plan... we abandon it.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 56,
+    "start": 269.565,
+    "end": 275.05002,
+    "art": "S12P7",
+    "kind": "loop",
+    "title": "Another\nfresh start.",
+    "labels": [
+      "Restart",
+      "Monday",
+      "Fresh start"
+    ],
+    "cues": [
+      270.605,
+      271.245,
+      272.125
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 12,
+    "feature": false,
+    "phrase": "We tell ourselves we'll restart next Monday. A fresh start feels better than continuing imperfectly.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 57,
+    "start": 275.05002,
+    "end": 281.29,
+    "art": "S12P4",
+    "kind": "focus",
+    "title": "New beginning.\nSame approach.",
+    "labels": [
+      "Repeat"
+    ],
+    "cues": [
+      276.01
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 12,
+    "feature": false,
+    "phrase": "Because starting again allows us to believe that this time will be different... without having to deal with what went wrong last time.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 58,
+    "start": 281.29,
+    "end": 285.85,
+    "art": "S12P8",
+    "kind": "bridge",
+    "title": "Repair before\nyou restart.",
+    "labels": [
+      "Restart",
+      "The approach"
+    ],
+    "cues": [
+      281.77002,
+      283.45
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 12,
+    "feature": false,
+    "phrase": "But every restart without a real change in your approach... can become another broken promise.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 59,
+    "start": 285.85,
+    "end": 294.795,
+    "art": "S13P1",
+    "kind": "identity",
+    "title": "Disappointment\nbecomes a label.",
+    "labels": [
+      "Identity"
+    ],
+    "cues": [
+      294.075
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 13,
+    "feature": true,
+    "phrase": "And this is where your relationship with yourself starts getting complicated. You don't just feel disappointed about the thing you failed to do. You start turning that disappointment into an identity.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 60,
+    "start": 294.795,
+    "end": 297.675,
+    "art": "S13P1",
+    "kind": "thought",
+    "title": "This goal\ndidn\u2019t happen.",
+    "labels": [
+      "Follow through",
+      "One behavior"
+    ],
+    "cues": [
+      296.23502,
+      296.95502
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 13,
+    "feature": false,
+    "phrase": "You stop saying, \u201cI didn't follow through on this goal.\u201d",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 61,
+    "start": 297.675,
+    "end": 300.95502,
+    "art": "S13P2",
+    "kind": "identity",
+    "title": "\u201cThis is\nwho I am.\u201d",
+    "labels": [
+      "A whole identity"
+    ],
+    "cues": [
+      299.035
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 13,
+    "feature": false,
+    "phrase": "You start saying, \u201cI'm the kind of person who never follows through.\u201d",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 62,
+    "start": 300.95502,
+    "end": 309.23,
+    "art": "S13P8",
+    "kind": "focus",
+    "title": "Behavior is\nnot identity.",
+    "labels": [
+      "A definition"
+    ],
+    "cues": [
+      307.63
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 13,
+    "feature": false,
+    "phrase": "There's a big difference between those two statements. One describes a behavior. The other turns that behavior into a definition of who you are.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 63,
+    "start": 309.23,
+    "end": 314.51,
+    "art": "S13P3",
+    "kind": "loop",
+    "title": "The label\nfeeds the loop.",
+    "labels": [
+      "A definition",
+      "Reinforcement"
+    ],
+    "cues": [
+      310.67,
+      313.47
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 13,
+    "feature": false,
+    "phrase": "And once you begin believing that definition... you may start acting in ways that reinforce it.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 64,
+    "start": 314.51,
+    "end": 320.605,
+    "art": "S13P5",
+    "kind": "paths",
+    "title": "Why commit\nif failure feels certain?",
+    "labels": [
+      "Difficulty"
+    ],
+    "cues": [
+      318.36502
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 13,
+    "feature": false,
+    "phrase": "Why commit seriously if you already expect to fail? Why start something difficult if you don't believe you'll finish?",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 65,
+    "start": 320.605,
+    "end": 323.96503,
+    "art": "S13P6",
+    "kind": "thought",
+    "title": "Expecting\nabandonment.",
+    "labels": [
+      "The plan",
+      "Abandon"
+    ],
+    "cues": [
+      320.765,
+      323.165
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 13,
+    "feature": false,
+    "phrase": "Why make a plan if you secretly assume you'll abandon it?",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 66,
+    "start": 323.96503,
+    "end": 331.15997,
+    "art": "S13P7",
+    "kind": "iceberg",
+    "title": "Quieter.\nLess confident.",
+    "labels": [
+      "Quieter. Less confident."
+    ],
+    "cues": [
+      323.96503
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 13,
+    "feature": false,
+    "phrase": "You might not even notice that you're doing this. You just feel less confident. Less consistent. Less willing to take yourself seriously.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 67,
+    "start": 331.15997,
+    "end": 333.87997,
+    "art": "S14P1",
+    "kind": "switch",
+    "title": "Your past is\nnot your definition.",
+    "labels": [
+      "Identity"
+    ],
+    "cues": [
+      333.08
+    ],
+    "dark": true,
+    "layout": "left",
+    "chapter": 14,
+    "feature": false,
+    "phrase": "But your past doesn't have to become your identity.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 68,
+    "start": 333.87997,
+    "end": 338.52,
+    "art": "S14P2",
+    "kind": "focus",
+    "title": "Broken before\nis not incapable.",
+    "labels": [
+      "Not incapable"
+    ],
+    "cues": [
+      337.0
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 14,
+    "feature": false,
+    "phrase": "The fact that you've broken promises before... doesn't mean you're incapable of keeping them.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 69,
+    "start": 338.52,
+    "end": 341.96,
+    "art": "S14P3",
+    "kind": "paths",
+    "title": "Change\nthe approach.",
+    "labels": [
+      "Change the approach."
+    ],
+    "cues": [
+      338.52
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 14,
+    "feature": false,
+    "phrase": "It means the way you've been approaching those promises needs to change.",
+    "emotional_intent": "recognition",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 70,
+    "start": 341.96,
+    "end": 345.905,
+    "art": "S15P1",
+    "kind": "switch",
+    "title": "Not a\nbigger promise.",
+    "labels": [
+      "Bigger promise"
+    ],
+    "cues": [
+      345.0
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "So how do you rebuild trust in yourself? Not by making a bigger promise.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 71,
+    "start": 345.905,
+    "end": 352.785,
+    "art": "S15P7",
+    "kind": "thought",
+    "title": "Not a\nperfect routine.",
+    "labels": [
+      "Complicated routine",
+      "A magical moment"
+    ],
+    "cues": [
+      347.185,
+      350.065
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "Not by creating a more complicated routine. And definitely not by waiting for a magical moment when you suddenly become disciplined.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 72,
+    "start": 352.785,
+    "end": 357.905,
+    "art": "S15P9",
+    "kind": "evidence",
+    "title": "Trust needs\nconsistent evidence.",
+    "labels": [
+      "Same approach",
+      "Consistent evidence",
+      "Evidence"
+    ],
+    "cues": [
+      353.905,
+      356.385,
+      356.945
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "You rebuild trust the same way trust is built anywhere else. Through consistent evidence.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 73,
+    "start": 357.905,
+    "end": 364.42,
+    "art": "S15P2",
+    "kind": "stairs",
+    "title": "Smaller.\nMore honest.",
+    "labels": [
+      "Smaller promises"
+    ],
+    "cues": [
+      358.625
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "Start by making smaller promises. Promises so realistic that you can keep them even when the day isn't perfect.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 74,
+    "start": 364.42,
+    "end": 367.22,
+    "art": "S15P3",
+    "kind": "pages",
+    "title": "Five pages.\nKeep the promise.",
+    "labels": [
+      "5 pages"
+    ],
+    "cues": [
+      366.1
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "If you want to start reading... begin with five pages.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 75,
+    "start": 367.22,
+    "end": 370.98,
+    "art": "S15P4",
+    "kind": "timeline",
+    "title": "A workout\nyou can repeat.",
+    "labels": [
+      "Exercise",
+      "A repeatable workout",
+      "Repeat"
+    ],
+    "cues": [
+      367.7,
+      368.98,
+      370.18002
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "If you want to exercise... choose a manageable workout you can repeat.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 76,
+    "start": 370.98,
+    "end": 374.435,
+    "art": "S15P5",
+    "kind": "clock",
+    "title": "Twenty focused\nminutes.",
+    "labels": [
+      "Learn",
+      "20 focused minutes"
+    ],
+    "cues": [
+      371.46002,
+      373.06
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "If you want to learn a skill... commit to twenty focused minutes.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 77,
+    "start": 374.435,
+    "end": 378.915,
+    "art": "S15P6",
+    "kind": "focus",
+    "title": "One concrete\ntask today.",
+    "labels": [
+      "One concrete task"
+    ],
+    "cues": [
+      376.67502
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "If you want to build something... decide on one concrete task you can complete today.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 78,
+    "start": 378.915,
+    "end": 384.915,
+    "art": "S16P1",
+    "kind": "timeline",
+    "title": "A pattern.\nNot a performance.",
+    "labels": [
+      "A pattern"
+    ],
+    "cues": [
+      383.39502
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "The goal isn't to impress yourself with how ambitious your plan looks. The goal is to create a pattern of following through.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 79,
+    "start": 384.915,
+    "end": 391.22,
+    "art": "S16P2",
+    "kind": "evidence",
+    "title": "Evidence beats\na motivation burst.",
+    "labels": [
+      "A motivation burst",
+      "Evidence"
+    ],
+    "cues": [
+      388.915,
+      390.34003
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "Because every completed promise gives you something more valuable than a temporary burst of motivation. It gives you evidence.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 80,
+    "start": 391.22,
+    "end": 394.58002,
+    "art": "S16P3",
+    "kind": "bridge",
+    "title": "Your decision\nmeans something.",
+    "labels": [
+      "Evidence"
+    ],
+    "cues": [
+      391.22
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "Evidence that when you decide to do something... you can actually do it.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 81,
+    "start": 394.58002,
+    "end": 397.62003,
+    "art": "S16P7",
+    "kind": "stack",
+    "title": "Small evidence\nstill counts.",
+    "labels": [
+      "Evidence"
+    ],
+    "cues": [
+      395.78
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "And at first... that evidence might feel small.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 82,
+    "start": 397.62003,
+    "end": 405.055,
+    "art": "S16P8",
+    "kind": "stack",
+    "title": "Pages. Minutes.\nOne finished task.",
+    "labels": [
+      "5 pages",
+      "20 minutes done",
+      "A completed task"
+    ],
+    "cues": [
+      397.62003,
+      399.7,
+      402.255
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "Five pages don't look impressive. Twenty minutes doesn't look life-changing. One completed task doesn't look like a transformation.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 83,
+    "start": 405.055,
+    "end": 409.13498,
+    "art": "S16P9",
+    "kind": "bridge",
+    "title": "You are\nrebuilding trust.",
+    "labels": [
+      "Rebuilding trust"
+    ],
+    "cues": [
+      407.935
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "But remember... you're not just building a habit. You're rebuilding trust.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 84,
+    "start": 409.13498,
+    "end": 413.775,
+    "art": "S17P1",
+    "kind": "switch",
+    "title": "Imperfect is\nnot failure.",
+    "labels": [
+      "Imperfect",
+      "Expected failure"
+    ],
+    "cues": [
+      411.775,
+      413.055
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 17,
+    "feature": false,
+    "phrase": "Here's another important part. Stop treating every imperfect day as a failure.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 85,
+    "start": 413.775,
+    "end": 419.83,
+    "art": "S17P2",
+    "kind": "split",
+    "title": "Twenty minutes\nis not nothing.",
+    "labels": [
+      "An hour planned",
+      "Not nothing"
+    ],
+    "cues": [
+      415.29498,
+      418.87
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 17,
+    "feature": false,
+    "phrase": "Suppose you planned to work for an hour... but you only managed twenty minutes. That isn't the same as doing nothing.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 86,
+    "start": 419.83,
+    "end": 423.75,
+    "art": "S17P3",
+    "kind": "calendar",
+    "title": "One missed workout.\nNot a ruined week.",
+    "labels": [
+      "One missed workout",
+      "Not a ruined week"
+    ],
+    "cues": [
+      420.31,
+      422.55
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 17,
+    "feature": false,
+    "phrase": "Suppose you missed a workout. That doesn't mean the entire week is ruined.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 87,
+    "start": 423.75,
+    "end": 427.67,
+    "art": "S17P5",
+    "kind": "paths",
+    "title": "A scrolling evening.\nThen a return.",
+    "labels": [
+      "Scrolling"
+    ],
+    "cues": [
+      425.11
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 17,
+    "feature": false,
+    "phrase": "Suppose you spent an evening scrolling... when you intended to study.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 88,
+    "start": 427.67,
+    "end": 435.625,
+    "art": "S17P6",
+    "kind": "timeline",
+    "title": "Not next Monday.\nYour next decision.",
+    "labels": [
+      "Monday",
+      "Return",
+      "Next hour",
+      "Next decision"
+    ],
+    "cues": [
+      428.95,
+      429.51,
+      432.98502,
+      434.505
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 17,
+    "feature": false,
+    "phrase": "You don't have to wait until Monday to return to your plan. You can return the next morning. Or the next hour. Or even the next decision.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 89,
+    "start": 435.625,
+    "end": 444.025,
+    "art": "S18P3",
+    "kind": "paths",
+    "title": "Consistency\nmeans returning.",
+    "labels": [
+      "Return",
+      "A mistake"
+    ],
+    "cues": [
+      440.105,
+      441.865
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 18,
+    "feature": false,
+    "phrase": "Consistency doesn't mean performing perfectly every single day. It means learning how to return... without turning one mistake into a complete abandonment.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 90,
+    "start": 444.025,
+    "end": 453.22998,
+    "art": "S18P5",
+    "kind": "bridge",
+    "title": "Recovering beats\ndisappearing.",
+    "labels": [
+      "Recover",
+      "Disappears"
+    ],
+    "cues": [
+      444.825,
+      451.07
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 18,
+    "feature": false,
+    "phrase": "A person who can recover after a bad day... is often more reliable than someone who follows a perfect routine for a week and disappears after the first setback.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 91,
+    "start": 453.22998,
+    "end": 456.99,
+    "art": "S18P6",
+    "kind": "thought",
+    "title": "Not: how do I\nnever mess up?",
+    "labels": [
+      "Never mess up?"
+    ],
+    "cues": [
+      455.94998
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 18,
+    "feature": false,
+    "phrase": "So stop asking yourself, \u201cHow can I make sure I never mess up?\u201d",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 92,
+    "start": 456.99,
+    "end": 460.925,
+    "art": "S18P7",
+    "kind": "paths",
+    "title": "What happens\non a difficult day?",
+    "labels": [
+      "A difficult day"
+    ],
+    "cues": [
+      459.94998
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 18,
+    "feature": false,
+    "phrase": "Ask yourself, \u201cWhat will I do when I inevitably have a difficult day?\u201d",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 93,
+    "start": 460.925,
+    "end": 463.005,
+    "art": "S19P1",
+    "kind": "focus",
+    "title": "Plan for\nthat person too.",
+    "labels": [
+      "Plan for that person too."
+    ],
+    "cues": [
+      460.925
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 19,
+    "feature": false,
+    "phrase": "Build a plan for that person, too.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 94,
+    "start": 463.005,
+    "end": 467.405,
+    "art": "S19P2",
+    "kind": "stack",
+    "title": "Tired. Distracted.\nUnmotivated.",
+    "labels": [
+      "Tired you",
+      "Distracted you",
+      "Unmotivated you",
+      "Motivation"
+    ],
+    "cues": [
+      463.165,
+      464.365,
+      466.205,
+      466.605
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 19,
+    "feature": false,
+    "phrase": "The tired version of you. The distracted version of you. The version that doesn't feel motivated.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 95,
+    "start": 467.405,
+    "end": 475.81998,
+    "art": "S19P8",
+    "kind": "split",
+    "title": "A real human.\nNot an ideal one.",
+    "labels": [
+      "A real human",
+      "An imaginary ideal"
+    ],
+    "cues": [
+      471.485,
+      473.245
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 19,
+    "feature": false,
+    "phrase": "Because that version of you is also part of your life. And your system needs to work for a real human being... not an imaginary version of you who always feels ready.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 96,
+    "start": 475.81998,
+    "end": 481.81998,
+    "art": "S20P1",
+    "kind": "switch",
+    "title": "Honesty,\nnot another vow.",
+    "labels": [
+      "Expecting to quit"
+    ],
+    "cues": [
+      480.94
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 20,
+    "feature": false,
+    "phrase": "There's one more thing you need to understand. You don't rebuild self-trust by promising yourself that you'll never quit again.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 97,
+    "start": 481.81998,
+    "end": 485.34,
+    "art": "S20P5",
+    "kind": "focus",
+    "title": "What can you\nactually commit to?",
+    "labels": [
+      "Honest commitments"
+    ],
+    "cues": [
+      483.02
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 20,
+    "feature": false,
+    "phrase": "You rebuild it by becoming honest about what you can actually commit to.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 98,
+    "start": 485.34,
+    "end": 489.855,
+    "art": "S20P2",
+    "kind": "clock",
+    "title": "Limited time.\nA realistic schedule.",
+    "labels": [
+      "Limited time",
+      "Unlimited demands"
+    ],
+    "cues": [
+      486.06,
+      488.78
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 20,
+    "feature": false,
+    "phrase": "If you know you have limited time... stop creating a schedule that requires unlimited time.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 99,
+    "start": 489.855,
+    "end": 494.815,
+    "art": "S20P3",
+    "kind": "paths",
+    "title": "Distractions need\nan environment change.",
+    "labels": [
+      "Willpower alone"
+    ],
+    "cues": [
+      492.73502
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 20,
+    "feature": false,
+    "phrase": "If you know you get distracted easily... stop pretending that willpower alone will solve everything.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 100,
+    "start": 494.815,
+    "end": 498.415,
+    "art": "S20P4",
+    "kind": "stairs",
+    "title": "Break the task\ninto steps.",
+    "labels": [
+      "Overwhelming task",
+      "Broken before evening",
+      "Smaller steps"
+    ],
+    "cues": [
+      496.015,
+      496.89502,
+      497.535
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 20,
+    "feature": false,
+    "phrase": "If you know a task feels overwhelming... break it into smaller steps.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 101,
+    "start": 498.415,
+    "end": 503.49,
+    "art": "S20P6",
+    "kind": "paths",
+    "title": "Adjust deliberately.\nDon\u2019t disappear.",
+    "labels": [
+      "Deliberate adjustment",
+      "Silent abandonment"
+    ],
+    "cues": [
+      500.73502,
+      502.255
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 20,
+    "feature": false,
+    "phrase": "And if you genuinely cannot keep a commitment... adjust it deliberately instead of silently abandoning it.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 102,
+    "start": 503.49,
+    "end": 512.77,
+    "art": "S20P5",
+    "kind": "focus",
+    "title": "Reality is not\na character flaw.",
+    "labels": [
+      "Reality"
+    ],
+    "cues": [
+      509.09
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 20,
+    "feature": false,
+    "phrase": "There's no shame in changing a plan that doesn't work. The problem is repeatedly making promises without considering reality... then blaming yourself when reality doesn't cooperate.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 103,
+    "start": 512.77,
+    "end": 516.915,
+    "art": "S20P8",
+    "kind": "paths",
+    "title": "Ambitious direction.\nRealistic next step.",
+    "labels": [
+      "Ambitious direction",
+      "The next step"
+    ],
+    "cues": [
+      513.81,
+      516.29
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 20,
+    "feature": false,
+    "phrase": "Be ambitious about the direction you're moving in. Be realistic about the next step.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 104,
+    "start": 516.915,
+    "end": 522.83496,
+    "art": "S20P9",
+    "kind": "timeline",
+    "title": "A different future.\nNot a different you by dawn.",
+    "labels": [
+      "Not by tomorrow morning"
+    ],
+    "cues": [
+      521.71497
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 20,
+    "feature": false,
+    "phrase": "You can want a completely different future... without demanding a completely different version of yourself by tomorrow morning.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 105,
+    "start": 522.83496,
+    "end": 525.235,
+    "art": "S21P1",
+    "kind": "evidence",
+    "title": "Change starts\nquietly.",
+    "labels": [
+      "Change starts quietly."
+    ],
+    "cues": [
+      522.83496
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 21,
+    "feature": false,
+    "phrase": "And eventually... something begins to change.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 106,
+    "start": 525.235,
+    "end": 529.01,
+    "art": "S21P2",
+    "kind": "timeline",
+    "title": "Follow through.\nThen repeat.",
+    "labels": [
+      "Follow through",
+      "Repeat"
+    ],
+    "cues": [
+      525.95496,
+      528.435
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 21,
+    "feature": false,
+    "phrase": "You wake up and follow through on a small commitment. Then you do it again.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 107,
+    "start": 529.01,
+    "end": 532.69,
+    "art": "S21P3",
+    "kind": "paths",
+    "title": "A difficult day.\nYou return.",
+    "labels": [
+      "A difficult day",
+      "Return",
+      "Without giving up"
+    ],
+    "cues": [
+      529.57,
+      530.93,
+      531.89
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 21,
+    "feature": false,
+    "phrase": "You have a difficult day... but you return instead of giving up.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 108,
+    "start": 532.69,
+    "end": 536.77,
+    "art": "S21P4",
+    "kind": "bridge",
+    "title": "A mistake.\nNot abandonment.",
+    "labels": [
+      "A mistake",
+      "The excuse",
+      "Abandon"
+    ],
+    "cues": [
+      533.17,
+      534.93,
+      535.49
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 21,
+    "feature": false,
+    "phrase": "You make a mistake... but you don't use it as an excuse to abandon everything.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 109,
+    "start": 536.77,
+    "end": 539.49,
+    "art": "S21P6",
+    "kind": "identity",
+    "title": "You see yourself\ndifferently.",
+    "labels": [
+      "A changed view"
+    ],
+    "cues": [
+      537.89
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 21,
+    "feature": false,
+    "phrase": "Slowly... you start seeing yourself differently.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 110,
+    "start": 539.49,
+    "end": 546.685,
+    "art": "S21P7",
+    "kind": "split",
+    "title": "Not affirmations.\nActual experiences.",
+    "labels": [
+      "Affirmations",
+      "Actual experiences"
+    ],
+    "cues": [
+      540.61,
+      544.525
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 21,
+    "feature": false,
+    "phrase": "Not because you keep repeating affirmations. Not because someone tells you that you're capable. But because you have actual experiences to look back on.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 111,
+    "start": 546.685,
+    "end": 552.445,
+    "art": "S21P8",
+    "kind": "evidence",
+    "title": "The days\nyou showed up.",
+    "labels": [
+      "You showed up",
+      "Slow progress"
+    ],
+    "cues": [
+      547.72504,
+      551.16504
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 21,
+    "feature": false,
+    "phrase": "You remember the days you showed up when you didn't feel like it. You remember the projects you continued when progress was slow.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 112,
+    "start": 552.445,
+    "end": 556.365,
+    "art": "S21P5",
+    "kind": "paths",
+    "title": "You came back\ninstead of disappearing.",
+    "labels": [
+      "A mistake",
+      "You came back"
+    ],
+    "cues": [
+      553.72504,
+      554.525
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 21,
+    "feature": false,
+    "phrase": "You remember the times you made a mistake... and came back instead of disappearing.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 113,
+    "start": 556.365,
+    "end": 562.96,
+    "art": "S21P9",
+    "kind": "timeline",
+    "title": "A promise backed\nby your past.",
+    "labels": [
+      "A private promise",
+      "Not only hope",
+      "Evidence"
+    ],
+    "cues": [
+      557.885,
+      560.56,
+      561.44
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 21,
+    "feature": false,
+    "phrase": "And one day... when you make a new promise to yourself... you don't have to rely entirely on hope. You have evidence from your past.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 114,
+    "start": 562.96,
+    "end": 567.2,
+    "art": "S21P9",
+    "kind": "stairs",
+    "title": "\u201cI can take\nthe next step.\u201d",
+    "labels": [
+      "Evidence from before",
+      "The next step"
+    ],
+    "cues": [
+      564.0,
+      566.4
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 21,
+    "feature": false,
+    "phrase": "You can think, \u201cI've followed through before. I know I can take the next step.\u201d",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 115,
+    "start": 567.2,
+    "end": 571.835,
+    "art": "S22P5",
+    "kind": "focus",
+    "title": "Quiet\nconfidence.",
+    "labels": [
+      "Quiet confidence"
+    ],
+    "cues": [
+      569.28
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 22,
+    "feature": false,
+    "phrase": "That kind of confidence is different. It's quieter. It doesn't need to announce itself.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 116,
+    "start": 571.835,
+    "end": 577.355,
+    "art": "S22P8",
+    "kind": "bridge",
+    "title": "Not perfect.\nAn honest effort.",
+    "labels": [
+      "Not perfection",
+      "Honest commitments"
+    ],
+    "cues": [
+      574.475,
+      576.395
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 22,
+    "feature": false,
+    "phrase": "It comes from knowing that you can depend on yourself... not to be perfect... but to keep making an honest effort.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 117,
+    "start": 577.355,
+    "end": 582.875,
+    "art": "S23P1",
+    "kind": "switch",
+    "title": "Not your\nwhole life tonight.",
+    "labels": [
+      "Not your entire life"
+    ],
+    "cues": [
+      581.675
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 23,
+    "feature": false,
+    "phrase": "So if you've spent years making plans and breaking promises... don't try to fix your entire life tonight.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 118,
+    "start": 582.875,
+    "end": 588.47,
+    "art": "S23P2",
+    "kind": "thought",
+    "title": "No enormous\nnew routine.",
+    "labels": [
+      "Tomorrow"
+    ],
+    "cues": [
+      585.99
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 23,
+    "feature": false,
+    "phrase": "Don't create another enormous routine. Don't promise yourself that tomorrow you'll become a completely different person.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 119,
+    "start": 588.47,
+    "end": 590.87,
+    "art": "S23P2",
+    "kind": "focus",
+    "title": "Choose\none commitment.",
+    "labels": [
+      "Choose one thing",
+      "One commitment"
+    ],
+    "cues": [
+      588.47,
+      589.75
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 23,
+    "feature": false,
+    "phrase": "Choose one thing. One commitment.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 120,
+    "start": 590.87,
+    "end": 594.87,
+    "art": "S23P3",
+    "kind": "focus",
+    "title": "Small enough.\nMeaningful enough.",
+    "labels": [
+      "Meaningful"
+    ],
+    "cues": [
+      592.79
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 23,
+    "feature": false,
+    "phrase": "Something small enough to complete... but meaningful enough that it matters to you.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 121,
+    "start": 594.87,
+    "end": 597.19,
+    "art": "S23P4",
+    "kind": "stack",
+    "title": "Write it.\nChoose when.",
+    "labels": [
+      "Write it",
+      "Choose when"
+    ],
+    "cues": [
+      594.87,
+      596.23
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 23,
+    "feature": false,
+    "phrase": "Write it down. Decide when you'll do it.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 122,
+    "start": 597.19,
+    "end": 598.79,
+    "art": "S23P5",
+    "kind": "stairs",
+    "title": "Make the first\nstep clear.",
+    "labels": [
+      "Clear first step"
+    ],
+    "cues": [
+      597.58997
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 23,
+    "feature": false,
+    "phrase": "Make the first step clear.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 123,
+    "start": 598.79,
+    "end": 601.845,
+    "art": "S23P7",
+    "kind": "timeline",
+    "title": "Follow through.\nRepeat tomorrow.",
+    "labels": [
+      "Follow through",
+      "Tomorrow",
+      "Repeat"
+    ],
+    "cues": [
+      599.02997,
+      600.245,
+      601.125
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 23,
+    "feature": false,
+    "phrase": "Then follow through. And tomorrow... do it again.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 124,
+    "start": 601.845,
+    "end": 609.765,
+    "art": "S23P8",
+    "kind": "bridge",
+    "title": "Not a competition.\nYour word matters.",
+    "labels": [
+      "Not a competition",
+      "Your word matters",
+      "Repeat"
+    ],
+    "cues": [
+      603.365,
+      607.685,
+      609.045
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 23,
+    "feature": false,
+    "phrase": "Not because you're trying to prove that you're better than someone else. Not because you need to become perfect. But because you want your own word to mean something to you again.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 125,
+    "start": 609.765,
+    "end": 617.3,
+    "art": "S24P1",
+    "kind": "bridge",
+    "title": "You carry yourself\ninto every beginning.",
+    "labels": [
+      "Every goal",
+      "Every challenge",
+      "Every beginning"
+    ],
+    "cues": [
+      614.02,
+      615.14,
+      616.26
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 24,
+    "feature": false,
+    "phrase": "Because the relationship you have with yourself... is the one relationship you carry into every goal, every challenge, and every new beginning.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 126,
+    "start": 617.3,
+    "end": 621.38,
+    "art": "S24P7",
+    "kind": "evidence",
+    "title": "Stronger than\ndisappointment.",
+    "labels": [
+      "Stronger than disappointment."
+    ],
+    "cues": [
+      617.3
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 24,
+    "feature": false,
+    "phrase": "And you deserve to build that relationship on something stronger than disappointment.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 127,
+    "start": 621.38,
+    "end": 629.02496,
+    "art": "S24P2",
+    "kind": "paths",
+    "title": "Struggle without\nself-abandonment.",
+    "labels": [
+      "Struggle",
+      "Abandon",
+      "Difficulty"
+    ],
+    "cues": [
+      623.3,
+      626.385,
+      628.14496
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 24,
+    "feature": false,
+    "phrase": "You don't need to become someone who never struggles. You need to become someone who doesn't automatically abandon themselves when things get difficult.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 128,
+    "start": 629.02496,
+    "end": 631.505,
+    "art": "S24P3",
+    "kind": "bridge",
+    "title": "Mistakes\nwithout giving up.",
+    "labels": [
+      "A mistake",
+      "Without giving up"
+    ],
+    "cues": [
+      629.90497,
+      630.625
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 24,
+    "feature": false,
+    "phrase": "Someone who can make a mistake without giving up.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 129,
+    "start": 631.505,
+    "end": 634.70496,
+    "art": "S24P4",
+    "kind": "stairs",
+    "title": "Small is not\ninsignificant.",
+    "labels": [
+      "Not insignificant"
+    ],
+    "cues": [
+      633.505
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 24,
+    "feature": false,
+    "phrase": "Someone who can start small without feeling insignificant.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 130,
+    "start": 634.70496,
+    "end": 638.37994,
+    "art": "S24P5",
+    "kind": "focus",
+    "title": "A promise kept\nwithout an audience.",
+    "labels": [
+      "No audience needed"
+    ],
+    "cues": [
+      636.785
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 24,
+    "feature": false,
+    "phrase": "Someone who can keep a promise... even when nobody else knows about it.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 131,
+    "start": 638.37994,
+    "end": 647.7056,
+    "art": "S24P6",
+    "kind": "stairs",
+    "title": "Confidence in\nthe next step.",
+    "labels": [
+      "Not extraordinary",
+      "The next step"
+    ],
+    "cues": [
+      641.33997,
+      645.89996
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 24,
+    "feature": false,
+    "phrase": "Because confidence isn't always believing you can do something extraordinary. Sometimes... it's simply knowing that when you tell yourself you'll take the next step... you actually will.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 132,
+    "start": 647.7056,
+    "end": 653.9456,
+    "art": "S24P8",
+    "kind": "stack",
+    "title": "Small.\nHonest. Kept.",
+    "labels": [
+      "Keep it small",
+      "Keep it honest",
+      "Trust yourself again",
+      "Repeat"
+    ],
+    "cues": [
+      648.7456,
+      650.2656,
+      652.6656,
+      653.2256
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 24,
+    "feature": false,
+    "phrase": "Start there. Keep the promise small. Keep it honest. And give yourself a reason to trust yourself again.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  },
+  {
+    "id": 133,
+    "start": 653.9456,
+    "end": 658.023855,
+    "art": "S24P9",
+    "kind": "finish",
+    "title": "Think deeper.\nLive better. Become more.",
+    "labels": [
+      "Think deeper",
+      "Live better",
+      "Become more"
+    ],
+    "cues": [
+      653.9456,
+      654.90564,
+      655.5456
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 24,
+    "feature": false,
+    "phrase": "Think deeper. Live better. Become more. This is Why We Become.",
+    "emotional_intent": "grounded agency",
+    "motion_personality": "investigative; critically damped",
+    "primary": "concept reveal",
+    "secondary": "art settlement and cue labels",
+    "ambient": "restrained independent paper/art drift"
+  }
+]

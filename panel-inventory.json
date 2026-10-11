@@ -1,0 +1,7465 @@
+{
+  "S01P1": {
+    "sheet": 1,
+    "panel": 1,
+    "source_file": "Character_breaking_daily_promises_20261011230000.jpg",
+    "grid_crop": [
+      46,
+      66,
+      451,
+      272
+    ],
+    "native_size": [
+      405,
+      206
+    ],
+    "content_bbox": [
+      171,
+      23,
+      387,
+      206
+    ],
+    "layer_size": [
+      864,
+      732
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 1,
+        "start": 0,
+        "end": 6.48,
+        "phrase": "Have you ever noticed something strange about yourself? You can make a promise to yourself... and break it before the day is even over."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S01P2": {
+    "sheet": 1,
+    "panel": 2,
+    "source_file": "Character_breaking_daily_promises_20261011230000.jpg",
+    "grid_crop": [
+      485,
+      66,
+      892,
+      272
+    ],
+    "native_size": [
+      407,
+      206
+    ],
+    "content_bbox": [
+      20,
+      24,
+      243,
+      206
+    ],
+    "layer_size": [
+      892,
+      728
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S01P3": {
+    "sheet": 1,
+    "panel": 3,
+    "source_file": "Character_breaking_daily_promises_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      66,
+      1330,
+      272
+    ],
+    "native_size": [
+      404,
+      206
+    ],
+    "content_bbox": [
+      104,
+      60,
+      404,
+      206
+    ],
+    "layer_size": [
+      1200,
+      584
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 2,
+        "start": 6.48,
+        "end": 9.12,
+        "phrase": "You tell yourself you'll wake up early. You don't."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S01P4": {
+    "sheet": 1,
+    "panel": 4,
+    "source_file": "Character_breaking_daily_promises_20261011230000.jpg",
+    "grid_crop": [
+      46,
+      304,
+      451,
+      504
+    ],
+    "native_size": [
+      405,
+      200
+    ],
+    "content_bbox": [
+      16,
+      12,
+      251,
+      200
+    ],
+    "layer_size": [
+      940,
+      752
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 3,
+        "start": 9.12,
+        "end": 13.599999,
+        "phrase": "You promise you'll stop wasting time on your phone. You spend another two hours scrolling."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S01P5": {
+    "sheet": 1,
+    "panel": 5,
+    "source_file": "Character_breaking_daily_promises_20261011230000.jpg",
+    "grid_crop": [
+      485,
+      304,
+      892,
+      504
+    ],
+    "native_size": [
+      407,
+      200
+    ],
+    "content_bbox": [
+      127,
+      69,
+      291,
+      200
+    ],
+    "layer_size": [
+      656,
+      524
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S01P6": {
+    "sheet": 1,
+    "panel": 6,
+    "source_file": "Character_breaking_daily_promises_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      304,
+      1330,
+      504
+    ],
+    "native_size": [
+      404,
+      200
+    ],
+    "content_bbox": [
+      219,
+      6,
+      383,
+      200
+    ],
+    "layer_size": [
+      656,
+      776
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S01P7": {
+    "sheet": 1,
+    "panel": 7,
+    "source_file": "Character_breaking_daily_promises_20261011230000.jpg",
+    "grid_crop": [
+      46,
+      536,
+      451,
+      738
+    ],
+    "native_size": [
+      405,
+      202
+    ],
+    "content_bbox": [
+      216,
+      6,
+      362,
+      202
+    ],
+    "layer_size": [
+      584,
+      784
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 4,
+        "start": 13.599999,
+        "end": 18.275,
+        "phrase": "You decide that this week will be different. You'll exercise. You'll learn something useful."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S01P8": {
+    "sheet": 1,
+    "panel": 8,
+    "source_file": "Character_breaking_daily_promises_20261011230000.jpg",
+    "grid_crop": [
+      485,
+      536,
+      892,
+      738
+    ],
+    "native_size": [
+      407,
+      202
+    ],
+    "content_bbox": [
+      58,
+      15,
+      251,
+      202
+    ],
+    "layer_size": [
+      772,
+      748
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S01P9": {
+    "sheet": 1,
+    "panel": 9,
+    "source_file": "Character_breaking_daily_promises_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      536,
+      1330,
+      738
+    ],
+    "native_size": [
+      404,
+      202
+    ],
+    "content_bbox": [
+      92,
+      15,
+      318,
+      202
+    ],
+    "layer_size": [
+      904,
+      748
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 5,
+        "start": 18.275,
+        "end": 21.555,
+        "phrase": "You'll finally work on that project you've been thinking about for months."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S02P1": {
+    "sheet": 2,
+    "panel": 1,
+    "source_file": "Character_beginning_new_self_jou\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      463,
+      248
+    ],
+    "native_size": [
+      456,
+      241
+    ],
+    "content_bbox": [
+      288,
+      24,
+      430,
+      241
+    ],
+    "layer_size": [
+      568,
+      868
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 6,
+        "start": 21.555,
+        "end": 25.154999,
+        "phrase": "And for a moment... you genuinely believe yourself. You feel motivated."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S02P2": {
+    "sheet": 2,
+    "panel": 2,
+    "source_file": "Character_beginning_new_self_jou\u2026_20261011230000.jpg",
+    "grid_crop": [
+      480,
+      7,
+      898,
+      248
+    ],
+    "native_size": [
+      418,
+      241
+    ],
+    "content_bbox": [
+      23,
+      48,
+      280,
+      241
+    ],
+    "layer_size": [
+      1028,
+      772
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S02P3": {
+    "sheet": 2,
+    "panel": 3,
+    "source_file": "Character_beginning_new_self_jou\u2026_20261011230000.jpg",
+    "grid_crop": [
+      914,
+      7,
+      1369,
+      248
+    ],
+    "native_size": [
+      455,
+      241
+    ],
+    "content_bbox": [
+      48,
+      74,
+      286,
+      241
+    ],
+    "layer_size": [
+      952,
+      668
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S02P4": {
+    "sheet": 2,
+    "panel": 4,
+    "source_file": "Character_beginning_new_self_jou\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      264,
+      463,
+      506
+    ],
+    "native_size": [
+      456,
+      242
+    ],
+    "content_bbox": [
+      187,
+      1,
+      435,
+      242
+    ],
+    "layer_size": [
+      992,
+      964
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 7,
+        "start": 25.154999,
+        "end": 28.38,
+        "phrase": "You make a plan. You imagine the person you're about to become."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S02P5": {
+    "sheet": 2,
+    "panel": 5,
+    "source_file": "Character_beginning_new_self_jou\u2026_20261011230000.jpg",
+    "grid_crop": [
+      480,
+      264,
+      898,
+      506
+    ],
+    "native_size": [
+      418,
+      242
+    ],
+    "content_bbox": [
+      7,
+      33,
+      334,
+      242
+    ],
+    "layer_size": [
+      1308,
+      836
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S02P6": {
+    "sheet": 2,
+    "panel": 6,
+    "source_file": "Character_beginning_new_self_jou\u2026_20261011230000.jpg",
+    "grid_crop": [
+      914,
+      264,
+      1369,
+      506
+    ],
+    "native_size": [
+      455,
+      242
+    ],
+    "content_bbox": [
+      3,
+      66,
+      265,
+      242
+    ],
+    "layer_size": [
+      1048,
+      704
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S02P7": {
+    "sheet": 2,
+    "panel": 7,
+    "source_file": "Character_beginning_new_self_jou\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      522,
+      463,
+      761
+    ],
+    "native_size": [
+      456,
+      239
+    ],
+    "content_bbox": [
+      284,
+      17,
+      423,
+      234
+    ],
+    "layer_size": [
+      556,
+      868
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S02P8": {
+    "sheet": 2,
+    "panel": 8,
+    "source_file": "Character_beginning_new_self_jou\u2026_20261011230000.jpg",
+    "grid_crop": [
+      480,
+      522,
+      898,
+      761
+    ],
+    "native_size": [
+      418,
+      239
+    ],
+    "content_bbox": [
+      106,
+      19,
+      274,
+      239
+    ],
+    "layer_size": [
+      672,
+      880
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S02P9": {
+    "sheet": 2,
+    "panel": 9,
+    "source_file": "Character_beginning_new_self_jou\u2026_20261011230000.jpg",
+    "grid_crop": [
+      914,
+      522,
+      1369,
+      761
+    ],
+    "native_size": [
+      455,
+      239
+    ],
+    "content_bbox": [
+      52,
+      46,
+      317,
+      233
+    ],
+    "layer_size": [
+      1060,
+      748
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S03P1": {
+    "sheet": 3,
+    "panel": 1,
+    "source_file": "Character_motivation_fades_durin\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      451,
+      247
+    ],
+    "native_size": [
+      444,
+      240
+    ],
+    "content_bbox": [
+      36,
+      17,
+      407,
+      232
+    ],
+    "layer_size": [
+      1484,
+      860
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 8,
+        "start": 28.38,
+        "end": 31.5,
+        "phrase": "Then a few days pass. The excitement disappears."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S03P2": {
+    "sheet": 3,
+    "panel": 2,
+    "source_file": "Character_motivation_fades_durin\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      7,
+      910,
+      247
+    ],
+    "native_size": [
+      443,
+      240
+    ],
+    "content_bbox": [
+      94,
+      20,
+      360,
+      236
+    ],
+    "layer_size": [
+      1064,
+      864
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 9,
+        "start": 31.5,
+        "end": 33.579998,
+        "phrase": "Something gets difficult. And slowly..."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S03P3": {
+    "sheet": 3,
+    "panel": 3,
+    "source_file": "Character_motivation_fades_durin\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      7,
+      1369,
+      247
+    ],
+    "native_size": [
+      443,
+      240
+    ],
+    "content_bbox": [
+      162,
+      73,
+      271,
+      232
+    ],
+    "layer_size": [
+      436,
+      636
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S03P4": {
+    "sheet": 3,
+    "panel": 4,
+    "source_file": "Character_motivation_fades_durin\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      263,
+      451,
+      506
+    ],
+    "native_size": [
+      444,
+      243
+    ],
+    "content_bbox": [
+      201,
+      67,
+      429,
+      213
+    ],
+    "layer_size": [
+      912,
+      584
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S03P5": {
+    "sheet": 3,
+    "panel": 5,
+    "source_file": "Character_motivation_fades_durin\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      263,
+      910,
+      506
+    ],
+    "native_size": [
+      443,
+      243
+    ],
+    "content_bbox": [
+      0,
+      51,
+      272,
+      230
+    ],
+    "layer_size": [
+      1088,
+      716
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S03P6": {
+    "sheet": 3,
+    "panel": 6,
+    "source_file": "Character_motivation_fades_durin\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      263,
+      1369,
+      506
+    ],
+    "native_size": [
+      443,
+      243
+    ],
+    "content_bbox": [
+      156,
+      62,
+      313,
+      228
+    ],
+    "layer_size": [
+      628,
+      664
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S03P7": {
+    "sheet": 3,
+    "panel": 7,
+    "source_file": "Character_motivation_fades_durin\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      522,
+      451,
+      761
+    ],
+    "native_size": [
+      444,
+      239
+    ],
+    "content_bbox": [
+      9,
+      18,
+      374,
+      176
+    ],
+    "layer_size": [
+      1460,
+      632
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S03P8": {
+    "sheet": 3,
+    "panel": 8,
+    "source_file": "Character_motivation_fades_durin\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      522,
+      910,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      35,
+      19,
+      394,
+      195
+    ],
+    "layer_size": [
+      1436,
+      704
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S03P9": {
+    "sheet": 3,
+    "panel": 9,
+    "source_file": "Character_motivation_fades_durin\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      522,
+      1369,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      91,
+      9,
+      346,
+      208
+    ],
+    "layer_size": [
+      1020,
+      796
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 10,
+        "start": 33.579998,
+        "end": 36.62,
+        "phrase": "you return to your old habits. Again. And again."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S04P1": {
+    "sheet": 4,
+    "panel": 1,
+    "source_file": "Character_doubting_personal_foll\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      451,
+      247
+    ],
+    "native_size": [
+      444,
+      240
+    ],
+    "content_bbox": [
+      287,
+      41,
+      397,
+      240
+    ],
+    "layer_size": [
+      440,
+      796
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 11,
+        "start": 36.62,
+        "end": 40.22,
+        "phrase": "Until one day, something changes. You stop believing your own promises."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S04P2": {
+    "sheet": 4,
+    "panel": 2,
+    "source_file": "Character_doubting_personal_foll\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      7,
+      910,
+      247
+    ],
+    "native_size": [
+      443,
+      240
+    ],
+    "content_bbox": [
+      33,
+      7,
+      214,
+      240
+    ],
+    "layer_size": [
+      724,
+      932
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "omitted: source clipped at the lower grid line; replaced by intact supplied S04P8 thought pose",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S04P3": {
+    "sheet": 4,
+    "panel": 3,
+    "source_file": "Character_doubting_personal_foll\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      7,
+      1369,
+      247
+    ],
+    "native_size": [
+      443,
+      240
+    ],
+    "content_bbox": [
+      164,
+      95,
+      286,
+      240
+    ],
+    "layer_size": [
+      488,
+      580
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 14,
+        "start": 49.954998,
+        "end": 57.83,
+        "phrase": "And the uncomfortable part... is that you already know what your answer might be. Because you've heard yourself make this promise before. You know how this story usually ends."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S04P4": {
+    "sheet": 4,
+    "panel": 4,
+    "source_file": "Character_doubting_personal_foll\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      263,
+      451,
+      504
+    ],
+    "native_size": [
+      444,
+      241
+    ],
+    "content_bbox": [
+      220,
+      40,
+      417,
+      241
+    ],
+    "layer_size": [
+      788,
+      804
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S04P5": {
+    "sheet": 4,
+    "panel": 5,
+    "source_file": "Character_doubting_personal_foll\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      263,
+      910,
+      504
+    ],
+    "native_size": [
+      443,
+      241
+    ],
+    "content_bbox": [
+      29,
+      29,
+      272,
+      241
+    ],
+    "layer_size": [
+      972,
+      848
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 12,
+        "start": 40.22,
+        "end": 45.075,
+        "phrase": "You still make plans. You still have goals. You still imagine a better version of yourself."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S04P6": {
+    "sheet": 4,
+    "panel": 6,
+    "source_file": "Character_doubting_personal_foll\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      263,
+      1369,
+      504
+    ],
+    "native_size": [
+      443,
+      241
+    ],
+    "content_bbox": [
+      151,
+      118,
+      306,
+      234
+    ],
+    "layer_size": [
+      620,
+      464
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 15,
+        "start": 57.83,
+        "end": 65.03,
+        "phrase": "And maybe... that's why changing your life feels harder than it used to. Not because you don't know what to do. But because you've stopped trusting yourself to do it."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S04P7": {
+    "sheet": 4,
+    "panel": 7,
+    "source_file": "Character_doubting_personal_foll\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      520,
+      451,
+      761
+    ],
+    "native_size": [
+      444,
+      241
+    ],
+    "content_bbox": [
+      260,
+      31,
+      397,
+      241
+    ],
+    "layer_size": [
+      548,
+      840
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S04P8": {
+    "sheet": 4,
+    "panel": 8,
+    "source_file": "Character_doubting_personal_foll\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      520,
+      910,
+      761
+    ],
+    "native_size": [
+      443,
+      241
+    ],
+    "content_bbox": [
+      54,
+      14,
+      200,
+      241
+    ],
+    "layer_size": [
+      584,
+      908
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 13,
+        "start": 45.075,
+        "end": 49.954998,
+        "phrase": "But somewhere in the back of your mind... there's a quiet voice asking, \u201cAre you actually going to do it this time?\u201d"
+      },
+      {
+        "target": "short_01-scene_plan.json",
+        "scene_id": 1,
+        "start": 0,
+        "end": 2.0,
+        "phrase": "You don't just doubt your plan You"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S04P9": {
+    "sheet": 4,
+    "panel": 9,
+    "source_file": "Character_doubting_personal_foll\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      520,
+      1369,
+      761
+    ],
+    "native_size": [
+      443,
+      241
+    ],
+    "content_bbox": [
+      170,
+      61,
+      264,
+      235
+    ],
+    "layer_size": [
+      376,
+      696
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 16,
+        "start": 65.03,
+        "end": 71.345,
+        "phrase": "And that creates a problem most people don't talk about. You can lose confidence in yourself... without anyone else ever noticing."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S05P1": {
+    "sheet": 5,
+    "panel": 1,
+    "source_file": "Characters_building_trust_throug\u2026_20261011230000.jpg",
+    "grid_crop": [
+      43,
+      79,
+      462,
+      290
+    ],
+    "native_size": [
+      419,
+      211
+    ],
+    "content_bbox": [
+      235,
+      4,
+      419,
+      209
+    ],
+    "layer_size": [
+      736,
+      820
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 17,
+        "start": 71.345,
+        "end": 76.225,
+        "phrase": "Think about someone who constantly breaks promises to other people. They say they'll show up. They don't."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S05P2": {
+    "sheet": 5,
+    "panel": 2,
+    "source_file": "Characters_building_trust_throug\u2026_20261011230000.jpg",
+    "grid_crop": [
+      478,
+      79,
+      900,
+      290
+    ],
+    "native_size": [
+      422,
+      211
+    ],
+    "content_bbox": [
+      21,
+      34,
+      124,
+      209
+    ],
+    "layer_size": [
+      412,
+      700
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S05P3": {
+    "sheet": 5,
+    "panel": 3,
+    "source_file": "Characters_building_trust_throug\u2026_20261011230000.jpg",
+    "grid_crop": [
+      915,
+      79,
+      1332,
+      290
+    ],
+    "native_size": [
+      417,
+      211
+    ],
+    "content_bbox": [
+      119,
+      36,
+      308,
+      206
+    ],
+    "layer_size": [
+      756,
+      680
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 18,
+        "start": 76.225,
+        "end": 84.14,
+        "phrase": "They say they'll finish something. They don't. They keep saying, \u201cYou can count on me.\u201d But eventually... their words stop meaning very much."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S05P4": {
+    "sheet": 5,
+    "panel": 4,
+    "source_file": "Characters_building_trust_throug\u2026_20261011230000.jpg",
+    "grid_crop": [
+      43,
+      306,
+      462,
+      518
+    ],
+    "native_size": [
+      419,
+      212
+    ],
+    "content_bbox": [
+      200,
+      29,
+      391,
+      202
+    ],
+    "layer_size": [
+      764,
+      692
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S05P5": {
+    "sheet": 5,
+    "panel": 5,
+    "source_file": "Characters_building_trust_throug\u2026_20261011230000.jpg",
+    "grid_crop": [
+      478,
+      306,
+      900,
+      518
+    ],
+    "native_size": [
+      422,
+      212
+    ],
+    "content_bbox": [
+      20,
+      88,
+      170,
+      199
+    ],
+    "layer_size": [
+      600,
+      444
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S05P6": {
+    "sheet": 5,
+    "panel": 6,
+    "source_file": "Characters_building_trust_throug\u2026_20261011230000.jpg",
+    "grid_crop": [
+      915,
+      306,
+      1332,
+      518
+    ],
+    "native_size": [
+      417,
+      212
+    ],
+    "content_bbox": [
+      110,
+      94,
+      305,
+      190
+    ],
+    "layer_size": [
+      780,
+      384
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S05P7": {
+    "sheet": 5,
+    "panel": 7,
+    "source_file": "Characters_building_trust_throug\u2026_20261011230000.jpg",
+    "grid_crop": [
+      43,
+      534,
+      462,
+      736
+    ],
+    "native_size": [
+      419,
+      202
+    ],
+    "content_bbox": [
+      187,
+      33,
+      383,
+      195
+    ],
+    "layer_size": [
+      784,
+      648
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 19,
+        "start": 84.14,
+        "end": 90.86,
+        "phrase": "Why? Because trust isn't built by what someone says. It's built by what they repeatedly do."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S05P8": {
+    "sheet": 5,
+    "panel": 8,
+    "source_file": "Characters_building_trust_throug\u2026_20261011230000.jpg",
+    "grid_crop": [
+      478,
+      534,
+      900,
+      736
+    ],
+    "native_size": [
+      422,
+      202
+    ],
+    "content_bbox": [
+      90,
+      9,
+      335,
+      200
+    ],
+    "layer_size": [
+      980,
+      764
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S05P9": {
+    "sheet": 5,
+    "panel": 9,
+    "source_file": "Characters_building_trust_throug\u2026_20261011230000.jpg",
+    "grid_crop": [
+      915,
+      534,
+      1332,
+      736
+    ],
+    "native_size": [
+      417,
+      202
+    ],
+    "content_bbox": [
+      96,
+      17,
+      327,
+      202
+    ],
+    "layer_size": [
+      924,
+      740
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 20,
+        "start": 90.86,
+        "end": 95.899994,
+        "phrase": "And here's the part that's easy to miss. The same thing can happen inside your own head."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S06P1": {
+    "sheet": 6,
+    "panel": 1,
+    "source_file": "Character_making_private_agreements_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      451,
+      247
+    ],
+    "native_size": [
+      444,
+      240
+    ],
+    "content_bbox": [
+      262,
+      43,
+      419,
+      234
+    ],
+    "layer_size": [
+      628,
+      764
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 21,
+        "start": 95.899994,
+        "end": 100.305,
+        "phrase": "Every time you promise yourself something... you're making a small agreement with yourself."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S06P2": {
+    "sheet": 6,
+    "panel": 2,
+    "source_file": "Character_making_private_agreements_20261011230000.jpg",
+    "grid_crop": [
+      468,
+      7,
+      909,
+      247
+    ],
+    "native_size": [
+      441,
+      240
+    ],
+    "content_bbox": [
+      144,
+      53,
+      302,
+      229
+    ],
+    "layer_size": [
+      632,
+      704
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S06P3": {
+    "sheet": 6,
+    "panel": 3,
+    "source_file": "Character_making_private_agreements_20261011230000.jpg",
+    "grid_crop": [
+      925,
+      7,
+      1369,
+      247
+    ],
+    "native_size": [
+      444,
+      240
+    ],
+    "content_bbox": [
+      113,
+      49,
+      324,
+      218
+    ],
+    "layer_size": [
+      844,
+      676
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 22,
+        "start": 100.305,
+        "end": 105.104996,
+        "phrase": "When you repeatedly follow through... you build evidence that your decisions mean something."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S06P4": {
+    "sheet": 6,
+    "panel": 4,
+    "source_file": "Character_making_private_agreements_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      263,
+      451,
+      506
+    ],
+    "native_size": [
+      444,
+      243
+    ],
+    "content_bbox": [
+      31,
+      33,
+      397,
+      205
+    ],
+    "layer_size": [
+      1464,
+      688
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 23,
+        "start": 105.104996,
+        "end": 110.13,
+        "phrase": "But when you repeatedly make promises and abandon them... you build a different kind of evidence."
+      },
+      {
+        "target": "short_01-scene_plan.json",
+        "scene_id": 2,
+        "start": 2.0,
+        "end": 8.559999,
+        "phrase": "doubt the person making it Every time you promise yourself you'll change then quietly abandon the promise you give yourself another reason to"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S06P5": {
+    "sheet": 6,
+    "panel": 5,
+    "source_file": "Character_making_private_agreements_20261011230000.jpg",
+    "grid_crop": [
+      468,
+      263,
+      909,
+      506
+    ],
+    "native_size": [
+      441,
+      243
+    ],
+    "content_bbox": [
+      36,
+      27,
+      376,
+      237
+    ],
+    "layer_size": [
+      1360,
+      840
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S06P6": {
+    "sheet": 6,
+    "panel": 6,
+    "source_file": "Character_making_private_agreements_20261011230000.jpg",
+    "grid_crop": [
+      925,
+      263,
+      1369,
+      506
+    ],
+    "native_size": [
+      444,
+      243
+    ],
+    "content_bbox": [
+      71,
+      25,
+      371,
+      231
+    ],
+    "layer_size": [
+      1200,
+      824
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S06P7": {
+    "sheet": 6,
+    "panel": 7,
+    "source_file": "Character_making_private_agreements_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      522,
+      451,
+      761
+    ],
+    "native_size": [
+      444,
+      239
+    ],
+    "content_bbox": [
+      245,
+      19,
+      426,
+      234
+    ],
+    "layer_size": [
+      724,
+      860
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S06P8": {
+    "sheet": 6,
+    "panel": 8,
+    "source_file": "Character_making_private_agreements_20261011230000.jpg",
+    "grid_crop": [
+      468,
+      522,
+      909,
+      761
+    ],
+    "native_size": [
+      441,
+      239
+    ],
+    "content_bbox": [
+      176,
+      16,
+      280,
+      229
+    ],
+    "layer_size": [
+      416,
+      852
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S06P9": {
+    "sheet": 6,
+    "panel": 9,
+    "source_file": "Character_making_private_agreements_20261011230000.jpg",
+    "grid_crop": [
+      925,
+      522,
+      1369,
+      761
+    ],
+    "native_size": [
+      444,
+      239
+    ],
+    "content_bbox": [
+      85,
+      12,
+      361,
+      228
+    ],
+    "layer_size": [
+      1104,
+      864
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S07P1": {
+    "sheet": 7,
+    "panel": 1,
+    "source_file": "Expecting_yourself_to_quit_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      451,
+      247
+    ],
+    "native_size": [
+      444,
+      240
+    ],
+    "content_bbox": [
+      225,
+      45,
+      442,
+      238
+    ],
+    "layer_size": [
+      868,
+      772
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 24,
+        "start": 110.13,
+        "end": 115.25,
+        "phrase": "You start expecting yourself to quit. You start planning for failure before you've even begun."
+      },
+      {
+        "target": "scene_plan.json",
+        "scene_id": 25,
+        "start": 115.25,
+        "end": 120.689995,
+        "phrase": "You might decide to exercise tomorrow... but another part of you is already preparing an excuse."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S07P2": {
+    "sheet": 7,
+    "panel": 2,
+    "source_file": "Expecting_yourself_to_quit_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      7,
+      910,
+      247
+    ],
+    "native_size": [
+      443,
+      240
+    ],
+    "content_bbox": [
+      37,
+      50,
+      237,
+      238
+    ],
+    "layer_size": [
+      800,
+      752
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 26,
+        "start": 120.689995,
+        "end": 125.315,
+        "phrase": "You might start a project... but you don't fully commit because you assume you'll lose interest."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S07P3": {
+    "sheet": 7,
+    "panel": 3,
+    "source_file": "Expecting_yourself_to_quit_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      7,
+      1369,
+      247
+    ],
+    "native_size": [
+      443,
+      240
+    ],
+    "content_bbox": [
+      165,
+      46,
+      279,
+      235
+    ],
+    "layer_size": [
+      456,
+      756
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 27,
+        "start": 125.315,
+        "end": 132.195,
+        "phrase": "You might set a goal... but you hesitate to take it seriously because you've watched yourself abandon similar goals before."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S07P4": {
+    "sheet": 7,
+    "panel": 4,
+    "source_file": "Expecting_yourself_to_quit_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      263,
+      451,
+      506
+    ],
+    "native_size": [
+      444,
+      243
+    ],
+    "content_bbox": [
+      145,
+      7,
+      444,
+      243
+    ],
+    "layer_size": [
+      1196,
+      944
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S07P5": {
+    "sheet": 7,
+    "panel": 5,
+    "source_file": "Expecting_yourself_to_quit_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      263,
+      910,
+      506
+    ],
+    "native_size": [
+      443,
+      243
+    ],
+    "content_bbox": [
+      13,
+      50,
+      279,
+      226
+    ],
+    "layer_size": [
+      1064,
+      704
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 31,
+        "start": 149.98,
+        "end": 154.625,
+        "phrase": "But why does this happen? Why do we keep making promises we struggle to keep?"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S07P6": {
+    "sheet": 7,
+    "panel": 6,
+    "source_file": "Expecting_yourself_to_quit_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      263,
+      1369,
+      506
+    ],
+    "native_size": [
+      443,
+      243
+    ],
+    "content_bbox": [
+      143,
+      59,
+      303,
+      234
+    ],
+    "layer_size": [
+      640,
+      700
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 28,
+        "start": 132.195,
+        "end": 136.995,
+        "phrase": "And eventually... you don't just doubt the plan. You doubt the person making the plan."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S07P7": {
+    "sheet": 7,
+    "panel": 7,
+    "source_file": "Expecting_yourself_to_quit_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      522,
+      451,
+      761
+    ],
+    "native_size": [
+      444,
+      239
+    ],
+    "content_bbox": [
+      38,
+      18,
+      444,
+      239
+    ],
+    "layer_size": [
+      1624,
+      884
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 29,
+        "start": 136.995,
+        "end": 144.7,
+        "phrase": "That's what makes this cycle so frustrating. Your past behavior starts influencing what you believe is possible for your future self."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S07P8": {
+    "sheet": 7,
+    "panel": 8,
+    "source_file": "Expecting_yourself_to_quit_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      522,
+      910,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      78,
+      30,
+      397,
+      222
+    ],
+    "layer_size": [
+      1276,
+      768
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 30,
+        "start": 144.7,
+        "end": 149.98,
+        "phrase": "And the more you expect yourself to quit... the harder it becomes to begin with genuine confidence."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S07P9": {
+    "sheet": 7,
+    "panel": 9,
+    "source_file": "Expecting_yourself_to_quit_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      522,
+      1369,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      22,
+      3,
+      426,
+      225
+    ],
+    "layer_size": [
+      1616,
+      888
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 32,
+        "start": 154.625,
+        "end": 160.545,
+        "phrase": "One reason is that we often make decisions in one emotional state... and expect ourselves to follow them in another."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S08P1": {
+    "sheet": 8,
+    "panel": 1,
+    "source_file": "Sunday_night_planning_character_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      450,
+      246
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      259,
+      0,
+      409,
+      230
+    ],
+    "layer_size": [
+      600,
+      920
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 33,
+        "start": 160.545,
+        "end": 164.6,
+        "phrase": "Think about Sunday night. You've had a week where you didn't do as much as you wanted."
+      },
+      {
+        "target": "short_02-scene_plan.json",
+        "scene_id": 1,
+        "start": 0,
+        "end": 5.12,
+        "phrase": "Sunday night your new routine looks perfect Monday morning you're tired your phone is beside you and"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S08P2": {
+    "sheet": 8,
+    "panel": 2,
+    "source_file": "Sunday_night_planning_character_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      7,
+      910,
+      246
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      12,
+      56,
+      217,
+      222
+    ],
+    "layer_size": [
+      820,
+      664
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 34,
+        "start": 164.6,
+        "end": 170.28,
+        "phrase": "Maybe you wasted time. Maybe you avoided important work. Maybe you feel frustrated with yourself."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S08P3": {
+    "sheet": 8,
+    "panel": 3,
+    "source_file": "Sunday_night_planning_character_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      7,
+      1369,
+      246
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      156,
+      81,
+      296,
+      229
+    ],
+    "layer_size": [
+      560,
+      592
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S08P4": {
+    "sheet": 8,
+    "panel": 4,
+    "source_file": "Sunday_night_planning_character_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      262,
+      450,
+      506
+    ],
+    "native_size": [
+      443,
+      244
+    ],
+    "content_bbox": [
+      214,
+      43,
+      434,
+      216
+    ],
+    "layer_size": [
+      880,
+      692
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 35,
+        "start": 170.28,
+        "end": 174.36,
+        "phrase": "So you decide that Monday will be different. You create a perfect schedule."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S08P5": {
+    "sheet": 8,
+    "panel": 5,
+    "source_file": "Sunday_night_planning_character_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      262,
+      910,
+      506
+    ],
+    "native_size": [
+      443,
+      244
+    ],
+    "content_bbox": [
+      12,
+      71,
+      286,
+      214
+    ],
+    "layer_size": [
+      1096,
+      572
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 36,
+        "start": 174.36,
+        "end": 177.24,
+        "phrase": "Wake up early. Exercise. Eat well."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S08P6": {
+    "sheet": 8,
+    "panel": 6,
+    "source_file": "Sunday_night_planning_character_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      262,
+      1369,
+      506
+    ],
+    "native_size": [
+      443,
+      244
+    ],
+    "content_bbox": [
+      87,
+      55,
+      345,
+      205
+    ],
+    "layer_size": [
+      1032,
+      600
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 37,
+        "start": 177.24,
+        "end": 181.455,
+        "phrase": "Work without distractions. Read. Learn a skill. Go to bed on time."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S08P7": {
+    "sheet": 8,
+    "panel": 7,
+    "source_file": "Sunday_night_planning_character_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      522,
+      450,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      12,
+      5,
+      438,
+      226
+    ],
+    "layer_size": [
+      1704,
+      884
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S08P8": {
+    "sheet": 8,
+    "panel": 8,
+    "source_file": "Sunday_night_planning_character_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      522,
+      910,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      9,
+      4,
+      224,
+      226
+    ],
+    "layer_size": [
+      860,
+      888
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S08P9": {
+    "sheet": 8,
+    "panel": 9,
+    "source_file": "Sunday_night_planning_character_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      522,
+      1369,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      91,
+      34,
+      347,
+      219
+    ],
+    "layer_size": [
+      1024,
+      740
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 38,
+        "start": 181.455,
+        "end": 188.495,
+        "phrase": "Looking at the plan... you feel in control. Because planning allows you to imagine the result without experiencing the difficulty."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S09P1": {
+    "sheet": 9,
+    "panel": 1,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000_2.jpg",
+    "grid_crop": [
+      7,
+      7,
+      453,
+      248
+    ],
+    "native_size": [
+      446,
+      241
+    ],
+    "content_bbox": [
+      193,
+      48,
+      446,
+      241
+    ],
+    "layer_size": [
+      1012,
+      772
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 39,
+        "start": 188.495,
+        "end": 192.26,
+        "phrase": "But then Monday arrives. You're tired. Your bed feels comfortable."
+      },
+      {
+        "target": "short_02-scene_plan.json",
+        "scene_id": 2,
+        "start": 5.12,
+        "end": 9.36,
+        "phrase": "the work feels boring The person who made the plan imagined the reward The"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S09P2": {
+    "sheet": 9,
+    "panel": 2,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000_2.jpg",
+    "grid_crop": [
+      469,
+      7,
+      907,
+      248
+    ],
+    "native_size": [
+      438,
+      241
+    ],
+    "content_bbox": [
+      0,
+      45,
+      276,
+      241
+    ],
+    "layer_size": [
+      1104,
+      784
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S09P3": {
+    "sheet": 9,
+    "panel": 3,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000_2.jpg",
+    "grid_crop": [
+      923,
+      7,
+      1369,
+      248
+    ],
+    "native_size": [
+      446,
+      241
+    ],
+    "content_bbox": [
+      0,
+      84,
+      279,
+      241
+    ],
+    "layer_size": [
+      1116,
+      628
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 40,
+        "start": 192.26,
+        "end": 194.09999,
+        "phrase": "Your phone is right beside you."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S09P4": {
+    "sheet": 9,
+    "panel": 4,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000_2.jpg",
+    "grid_crop": [
+      7,
+      264,
+      453,
+      503
+    ],
+    "native_size": [
+      446,
+      239
+    ],
+    "content_bbox": [
+      259,
+      50,
+      446,
+      239
+    ],
+    "layer_size": [
+      748,
+      756
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 41,
+        "start": 194.09999,
+        "end": 197.45999,
+        "phrase": "The work feels boring. The workout feels inconvenient."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S09P5": {
+    "sheet": 9,
+    "panel": 5,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000_2.jpg",
+    "grid_crop": [
+      469,
+      264,
+      907,
+      503
+    ],
+    "native_size": [
+      438,
+      239
+    ],
+    "content_bbox": [
+      26,
+      29,
+      180,
+      239
+    ],
+    "layer_size": [
+      616,
+      840
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S09P6": {
+    "sheet": 9,
+    "panel": 6,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000_2.jpg",
+    "grid_crop": [
+      923,
+      264,
+      1369,
+      503
+    ],
+    "native_size": [
+      446,
+      239
+    ],
+    "content_bbox": [
+      132,
+      45,
+      272,
+      239
+    ],
+    "layer_size": [
+      560,
+      776
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 42,
+        "start": 197.45999,
+        "end": 201.21999,
+        "phrase": "And suddenly... the plan you made last night feels much less attractive."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S09P7": {
+    "sheet": 9,
+    "panel": 7,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000_2.jpg",
+    "grid_crop": [
+      7,
+      520,
+      453,
+      761
+    ],
+    "native_size": [
+      446,
+      241
+    ],
+    "content_bbox": [
+      218,
+      35,
+      446,
+      235
+    ],
+    "layer_size": [
+      912,
+      800
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 43,
+        "start": 201.21999,
+        "end": 207.765,
+        "phrase": "The person who created the plan... was imagining the reward. The person who has to execute it... is experiencing the cost."
+      },
+      {
+        "target": "short_02-scene_plan.json",
+        "scene_id": 3,
+        "start": 9.36,
+        "end": 14.445,
+        "phrase": "person doing it experiences the cost If your routine only works when you're motivated it's a"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S09P8": {
+    "sheet": 9,
+    "panel": 8,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000_2.jpg",
+    "grid_crop": [
+      469,
+      520,
+      907,
+      761
+    ],
+    "native_size": [
+      438,
+      241
+    ],
+    "content_bbox": [
+      26,
+      2,
+      213,
+      230
+    ],
+    "layer_size": [
+      748,
+      912
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 44,
+        "start": 207.765,
+        "end": 215.765,
+        "phrase": "And if your plan only works when you're motivated... it isn't a reliable plan. It's a plan for your best mood. Not for your actual life."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S09P9": {
+    "sheet": 9,
+    "panel": 9,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000_2.jpg",
+    "grid_crop": [
+      923,
+      520,
+      1369,
+      761
+    ],
+    "native_size": [
+      446,
+      241
+    ],
+    "content_bbox": [
+      139,
+      0,
+      302,
+      236
+    ],
+    "layer_size": [
+      652,
+      944
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S10P1": {
+    "sheet": 10,
+    "panel": 1,
+    "source_file": "Character_making_promises_too_large_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      452,
+      264
+    ],
+    "native_size": [
+      445,
+      257
+    ],
+    "content_bbox": [
+      259,
+      12,
+      443,
+      250
+    ],
+    "layer_size": [
+      736,
+      952
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 45,
+        "start": 215.765,
+        "end": 221.99,
+        "phrase": "There's another mistake that makes this even worse. We often make promises that are too ambitious to survive an ordinary day."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S10P2": {
+    "sheet": 10,
+    "panel": 2,
+    "source_file": "Character_making_promises_too_large_20261011230000.jpg",
+    "grid_crop": [
+      469,
+      7,
+      908,
+      264
+    ],
+    "native_size": [
+      439,
+      257
+    ],
+    "content_bbox": [
+      30,
+      115,
+      198,
+      249
+    ],
+    "layer_size": [
+      672,
+      536
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 46,
+        "start": 221.99,
+        "end": 227.19,
+        "phrase": "We don't say, \u201cI'll read for ten minutes.\u201d We say, \u201cI'll read an entire book this week.\u201d"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S10P3": {
+    "sheet": 10,
+    "panel": 3,
+    "source_file": "Character_making_promises_too_large_20261011230000.jpg",
+    "grid_crop": [
+      924,
+      7,
+      1369,
+      264
+    ],
+    "native_size": [
+      445,
+      257
+    ],
+    "content_bbox": [
+      39,
+      93,
+      394,
+      241
+    ],
+    "layer_size": [
+      1420,
+      592
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S10P4": {
+    "sheet": 10,
+    "panel": 4,
+    "source_file": "Character_making_promises_too_large_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      280,
+      452,
+      500
+    ],
+    "native_size": [
+      445,
+      220
+    ],
+    "content_bbox": [
+      219,
+      90,
+      432,
+      205
+    ],
+    "layer_size": [
+      852,
+      460
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 47,
+        "start": 227.19,
+        "end": 233.19,
+        "phrase": "We don't say, \u201cI'll exercise consistently.\u201d We create a routine that demands an hour every single day."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S10P5": {
+    "sheet": 10,
+    "panel": 5,
+    "source_file": "Character_making_promises_too_large_20261011230000.jpg",
+    "grid_crop": [
+      469,
+      280,
+      908,
+      500
+    ],
+    "native_size": [
+      439,
+      220
+    ],
+    "content_bbox": [
+      11,
+      18,
+      219,
+      213
+    ],
+    "layer_size": [
+      832,
+      780
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S10P6": {
+    "sheet": 10,
+    "panel": 6,
+    "source_file": "Character_making_promises_too_large_20261011230000.jpg",
+    "grid_crop": [
+      924,
+      280,
+      1369,
+      500
+    ],
+    "native_size": [
+      445,
+      220
+    ],
+    "content_bbox": [
+      153,
+      58,
+      288,
+      207
+    ],
+    "layer_size": [
+      540,
+      596
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 48,
+        "start": 233.19,
+        "end": 240.245,
+        "phrase": "We don't say, \u201cI'll work on my project after dinner.\u201d We plan to transform our entire schedule overnight. Why?"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S10P7": {
+    "sheet": 10,
+    "panel": 7,
+    "source_file": "Character_making_promises_too_large_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      516,
+      452,
+      761
+    ],
+    "native_size": [
+      445,
+      245
+    ],
+    "content_bbox": [
+      0,
+      0,
+      445,
+      221
+    ],
+    "layer_size": [
+      1780,
+      884
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S10P8": {
+    "sheet": 10,
+    "panel": 8,
+    "source_file": "Character_making_promises_too_large_20261011230000.jpg",
+    "grid_crop": [
+      469,
+      516,
+      908,
+      761
+    ],
+    "native_size": [
+      439,
+      245
+    ],
+    "content_bbox": [
+      34,
+      38,
+      228,
+      224
+    ],
+    "layer_size": [
+      776,
+      744
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S10P9": {
+    "sheet": 10,
+    "panel": 9,
+    "source_file": "Character_making_promises_too_large_20261011230000.jpg",
+    "grid_crop": [
+      924,
+      516,
+      1369,
+      761
+    ],
+    "native_size": [
+      445,
+      245
+    ],
+    "content_bbox": [
+      78,
+      56,
+      327,
+      228
+    ],
+    "layer_size": [
+      996,
+      688
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S11P1": {
+    "sheet": 11,
+    "panel": 1,
+    "source_file": "Character_building_walkway_from_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      450,
+      247
+    ],
+    "native_size": [
+      443,
+      240
+    ],
+    "content_bbox": [
+      227,
+      2,
+      435,
+      240
+    ],
+    "layer_size": [
+      832,
+      952
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 49,
+        "start": 240.245,
+        "end": 245.125,
+        "phrase": "Because big promises feel exciting. They allow us to imagine a dramatic transformation."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S11P2": {
+    "sheet": 11,
+    "panel": 2,
+    "source_file": "Character_building_walkway_from_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      7,
+      910,
+      247
+    ],
+    "native_size": [
+      443,
+      240
+    ],
+    "content_bbox": [
+      0,
+      13,
+      216,
+      240
+    ],
+    "layer_size": [
+      864,
+      908
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 50,
+        "start": 245.125,
+        "end": 249.38,
+        "phrase": "For a moment... we get to experience the feeling of becoming a completely different person."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S11P3": {
+    "sheet": 11,
+    "panel": 3,
+    "source_file": "Character_building_walkway_from_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      927,
+      7,
+      1369,
+      247
+    ],
+    "native_size": [
+      442,
+      240
+    ],
+    "content_bbox": [
+      139,
+      84,
+      291,
+      240
+    ],
+    "layer_size": [
+      608,
+      624
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 51,
+        "start": 249.38,
+        "end": 252.90001,
+        "phrase": "But real change is rarely that dramatic. It's repetitive."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S11P4": {
+    "sheet": 11,
+    "panel": 4,
+    "source_file": "Character_building_walkway_from_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      263,
+      450,
+      506
+    ],
+    "native_size": [
+      443,
+      243
+    ],
+    "content_bbox": [
+      220,
+      124,
+      435,
+      237
+    ],
+    "layer_size": [
+      860,
+      452
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S11P5": {
+    "sheet": 11,
+    "panel": 5,
+    "source_file": "Character_building_walkway_from_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      263,
+      910,
+      506
+    ],
+    "native_size": [
+      443,
+      243
+    ],
+    "content_bbox": [
+      28,
+      29,
+      231,
+      234
+    ],
+    "layer_size": [
+      812,
+      820
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S11P6": {
+    "sheet": 11,
+    "panel": 6,
+    "source_file": "Character_building_walkway_from_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      927,
+      263,
+      1369,
+      506
+    ],
+    "native_size": [
+      442,
+      243
+    ],
+    "content_bbox": [
+      84,
+      81,
+      222,
+      241
+    ],
+    "layer_size": [
+      552,
+      640
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 52,
+        "start": 252.90001,
+        "end": 256.66,
+        "phrase": "It's inconvenient. And sometimes... it's incredibly boring."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S11P7": {
+    "sheet": 11,
+    "panel": 7,
+    "source_file": "Character_building_walkway_from_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      522,
+      450,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      237,
+      40,
+      403,
+      227
+    ],
+    "layer_size": [
+      664,
+      748
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S11P8": {
+    "sheet": 11,
+    "panel": 8,
+    "source_file": "Character_building_walkway_from_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      522,
+      910,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      41,
+      80,
+      164,
+      228
+    ],
+    "layer_size": [
+      492,
+      592
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S11P9": {
+    "sheet": 11,
+    "panel": 9,
+    "source_file": "Character_building_walkway_from_\u2026_20261011230000.jpg",
+    "grid_crop": [
+      927,
+      522,
+      1369,
+      761
+    ],
+    "native_size": [
+      442,
+      239
+    ],
+    "content_bbox": [
+      68,
+      88,
+      316,
+      228
+    ],
+    "layer_size": [
+      992,
+      560
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 53,
+        "start": 256.66,
+        "end": 263.005,
+        "phrase": "So we create a plan for the person we wish we already were... instead of creating a plan that helps us become that person."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S12P1": {
+    "sheet": 12,
+    "panel": 1,
+    "source_file": "Avoiding_the_restart_trap_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      453,
+      257
+    ],
+    "native_size": [
+      446,
+      250
+    ],
+    "content_bbox": [
+      183,
+      27,
+      430,
+      250
+    ],
+    "layer_size": [
+      988,
+      892
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 54,
+        "start": 263.005,
+        "end": 266.765,
+        "phrase": "Then reality arrives. We miss one day. The routine breaks."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S12P2": {
+    "sheet": 12,
+    "panel": 2,
+    "source_file": "Avoiding_the_restart_trap_20261011230000.jpg",
+    "grid_crop": [
+      469,
+      7,
+      906,
+      257
+    ],
+    "native_size": [
+      437,
+      250
+    ],
+    "content_bbox": [
+      37,
+      36,
+      364,
+      250
+    ],
+    "layer_size": [
+      1308,
+      856
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S12P3": {
+    "sheet": 12,
+    "panel": 3,
+    "source_file": "Avoiding_the_restart_trap_20261011230000.jpg",
+    "grid_crop": [
+      923,
+      7,
+      1369,
+      257
+    ],
+    "native_size": [
+      446,
+      250
+    ],
+    "content_bbox": [
+      0,
+      39,
+      392,
+      250
+    ],
+    "layer_size": [
+      1568,
+      844
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 55,
+        "start": 266.765,
+        "end": 269.565,
+        "phrase": "And rather than adjusting the plan... we abandon it."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S12P4": {
+    "sheet": 12,
+    "panel": 4,
+    "source_file": "Avoiding_the_restart_trap_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      273,
+      453,
+      505
+    ],
+    "native_size": [
+      446,
+      232
+    ],
+    "content_bbox": [
+      191,
+      35,
+      446,
+      232
+    ],
+    "layer_size": [
+      1020,
+      788
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 57,
+        "start": 275.05002,
+        "end": 281.29,
+        "phrase": "Because starting again allows us to believe that this time will be different... without having to deal with what went wrong last time."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S12P5": {
+    "sheet": 12,
+    "panel": 5,
+    "source_file": "Avoiding_the_restart_trap_20261011230000.jpg",
+    "grid_crop": [
+      469,
+      273,
+      906,
+      505
+    ],
+    "native_size": [
+      437,
+      232
+    ],
+    "content_bbox": [
+      48,
+      20,
+      343,
+      232
+    ],
+    "layer_size": [
+      1180,
+      848
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S12P6": {
+    "sheet": 12,
+    "panel": 6,
+    "source_file": "Avoiding_the_restart_trap_20261011230000.jpg",
+    "grid_crop": [
+      923,
+      273,
+      1369,
+      505
+    ],
+    "native_size": [
+      446,
+      232
+    ],
+    "content_bbox": [
+      38,
+      16,
+      349,
+      232
+    ],
+    "layer_size": [
+      1244,
+      864
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S12P7": {
+    "sheet": 12,
+    "panel": 7,
+    "source_file": "Avoiding_the_restart_trap_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      522,
+      453,
+      761
+    ],
+    "native_size": [
+      446,
+      239
+    ],
+    "content_bbox": [
+      208,
+      11,
+      443,
+      223
+    ],
+    "layer_size": [
+      940,
+      848
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 56,
+        "start": 269.565,
+        "end": 275.05002,
+        "phrase": "We tell ourselves we'll restart next Monday. A fresh start feels better than continuing imperfectly."
+      },
+      {
+        "target": "short_03-scene_plan.json",
+        "scene_id": 2,
+        "start": 6.3999996,
+        "end": 10.08,
+        "phrase": "one imperfect day does not have to become complete abandonment Twenty"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S12P8": {
+    "sheet": 12,
+    "panel": 8,
+    "source_file": "Avoiding_the_restart_trap_20261011230000.jpg",
+    "grid_crop": [
+      469,
+      522,
+      906,
+      761
+    ],
+    "native_size": [
+      437,
+      239
+    ],
+    "content_bbox": [
+      30,
+      33,
+      402,
+      230
+    ],
+    "layer_size": [
+      1488,
+      788
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 58,
+        "start": 281.29,
+        "end": 285.85,
+        "phrase": "But every restart without a real change in your approach... can become another broken promise."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S12P9": {
+    "sheet": 12,
+    "panel": 9,
+    "source_file": "Avoiding_the_restart_trap_20261011230000.jpg",
+    "grid_crop": [
+      923,
+      522,
+      1369,
+      761
+    ],
+    "native_size": [
+      446,
+      239
+    ],
+    "content_bbox": [
+      14,
+      8,
+      417,
+      222
+    ],
+    "layer_size": [
+      1612,
+      856
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S13P1": {
+    "sheet": 13,
+    "panel": 1,
+    "source_file": "Behavior_becomes_identity_projec\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      454,
+      247
+    ],
+    "native_size": [
+      447,
+      240
+    ],
+    "content_bbox": [
+      240,
+      47,
+      427,
+      240
+    ],
+    "layer_size": [
+      748,
+      772
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 59,
+        "start": 285.85,
+        "end": 294.795,
+        "phrase": "And this is where your relationship with yourself starts getting complicated. You don't just feel disappointed about the thing you failed to do. You start turning that disappointment into an identity."
+      },
+      {
+        "target": "scene_plan.json",
+        "scene_id": 60,
+        "start": 294.795,
+        "end": 297.675,
+        "phrase": "You stop saying, \u201cI didn't follow through on this goal.\u201d"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S13P2": {
+    "sheet": 13,
+    "panel": 2,
+    "source_file": "Behavior_becomes_identity_projec\u2026_20261011230000.jpg",
+    "grid_crop": [
+      470,
+      7,
+      908,
+      247
+    ],
+    "native_size": [
+      438,
+      240
+    ],
+    "content_bbox": [
+      28,
+      29,
+      182,
+      240
+    ],
+    "layer_size": [
+      616,
+      844
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 61,
+        "start": 297.675,
+        "end": 300.95502,
+        "phrase": "You start saying, \u201cI'm the kind of person who never follows through.\u201d"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S13P3": {
+    "sheet": 13,
+    "panel": 3,
+    "source_file": "Behavior_becomes_identity_projec\u2026_20261011230000.jpg",
+    "grid_crop": [
+      925,
+      7,
+      1369,
+      247
+    ],
+    "native_size": [
+      444,
+      240
+    ],
+    "content_bbox": [
+      57,
+      75,
+      351,
+      240
+    ],
+    "layer_size": [
+      1176,
+      660
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 63,
+        "start": 309.23,
+        "end": 314.51,
+        "phrase": "And once you begin believing that definition... you may start acting in ways that reinforce it."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S13P4": {
+    "sheet": 13,
+    "panel": 4,
+    "source_file": "Behavior_becomes_identity_projec\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      264,
+      454,
+      506
+    ],
+    "native_size": [
+      447,
+      242
+    ],
+    "content_bbox": [
+      234,
+      17,
+      443,
+      242
+    ],
+    "layer_size": [
+      836,
+      900
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S13P5": {
+    "sheet": 13,
+    "panel": 5,
+    "source_file": "Behavior_becomes_identity_projec\u2026_20261011230000.jpg",
+    "grid_crop": [
+      470,
+      264,
+      908,
+      506
+    ],
+    "native_size": [
+      438,
+      242
+    ],
+    "content_bbox": [
+      52,
+      11,
+      433,
+      239
+    ],
+    "layer_size": [
+      1524,
+      912
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 64,
+        "start": 314.51,
+        "end": 320.605,
+        "phrase": "Why commit seriously if you already expect to fail? Why start something difficult if you don't believe you'll finish?"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S13P6": {
+    "sheet": 13,
+    "panel": 6,
+    "source_file": "Behavior_becomes_identity_projec\u2026_20261011230000.jpg",
+    "grid_crop": [
+      925,
+      264,
+      1369,
+      506
+    ],
+    "native_size": [
+      444,
+      242
+    ],
+    "content_bbox": [
+      18,
+      15,
+      416,
+      242
+    ],
+    "layer_size": [
+      1592,
+      908
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 65,
+        "start": 320.605,
+        "end": 323.96503,
+        "phrase": "Why make a plan if you secretly assume you'll abandon it?"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S13P7": {
+    "sheet": 13,
+    "panel": 7,
+    "source_file": "Behavior_becomes_identity_projec\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      523,
+      454,
+      761
+    ],
+    "native_size": [
+      447,
+      238
+    ],
+    "content_bbox": [
+      235,
+      0,
+      431,
+      231
+    ],
+    "layer_size": [
+      784,
+      924
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 66,
+        "start": 323.96503,
+        "end": 331.15997,
+        "phrase": "You might not even notice that you're doing this. You just feel less confident. Less consistent. Less willing to take yourself seriously."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S13P8": {
+    "sheet": 13,
+    "panel": 8,
+    "source_file": "Behavior_becomes_identity_projec\u2026_20261011230000.jpg",
+    "grid_crop": [
+      470,
+      523,
+      908,
+      761
+    ],
+    "native_size": [
+      438,
+      238
+    ],
+    "content_bbox": [
+      34,
+      22,
+      204,
+      231
+    ],
+    "layer_size": [
+      680,
+      836
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 62,
+        "start": 300.95502,
+        "end": 309.23,
+        "phrase": "There's a big difference between those two statements. One describes a behavior. The other turns that behavior into a definition of who you are."
+      },
+      {
+        "target": "short_01-scene_plan.json",
+        "scene_id": 3,
+        "start": 8.559999,
+        "end": 14.065001,
+        "phrase": "expect the same ending But that expectation is not your identity Your past is evidence of what"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S13P9": {
+    "sheet": 13,
+    "panel": 9,
+    "source_file": "Behavior_becomes_identity_projec\u2026_20261011230000.jpg",
+    "grid_crop": [
+      925,
+      523,
+      1369,
+      761
+    ],
+    "native_size": [
+      444,
+      238
+    ],
+    "content_bbox": [
+      96,
+      30,
+      301,
+      229
+    ],
+    "layer_size": [
+      820,
+      796
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S14P1": {
+    "sheet": 14,
+    "panel": 1,
+    "source_file": "Character_leaving_past_behind_20261011230000.jpg",
+    "grid_crop": [
+      54,
+      68,
+      455,
+      275
+    ],
+    "native_size": [
+      401,
+      207
+    ],
+    "content_bbox": [
+      0,
+      18,
+      360,
+      207
+    ],
+    "layer_size": [
+      1440,
+      756
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 67,
+        "start": 331.15997,
+        "end": 333.87997,
+        "phrase": "But your past doesn't have to become your identity."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S14P2": {
+    "sheet": 14,
+    "panel": 2,
+    "source_file": "Character_leaving_past_behind_20261011230000.jpg",
+    "grid_crop": [
+      489,
+      68,
+      890,
+      275
+    ],
+    "native_size": [
+      401,
+      207
+    ],
+    "content_bbox": [
+      20,
+      14,
+      199,
+      207
+    ],
+    "layer_size": [
+      716,
+      772
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 68,
+        "start": 333.87997,
+        "end": 338.52,
+        "phrase": "The fact that you've broken promises before... doesn't mean you're incapable of keeping them."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S14P3": {
+    "sheet": 14,
+    "panel": 3,
+    "source_file": "Character_leaving_past_behind_20261011230000.jpg",
+    "grid_crop": [
+      923,
+      68,
+      1325,
+      275
+    ],
+    "native_size": [
+      402,
+      207
+    ],
+    "content_bbox": [
+      117,
+      36,
+      317,
+      207
+    ],
+    "layer_size": [
+      800,
+      684
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 69,
+        "start": 338.52,
+        "end": 341.96,
+        "phrase": "It means the way you've been approaching those promises needs to change."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S14P4": {
+    "sheet": 14,
+    "panel": 4,
+    "source_file": "Character_leaving_past_behind_20261011230000.jpg",
+    "grid_crop": [
+      54,
+      306,
+      455,
+      508
+    ],
+    "native_size": [
+      401,
+      202
+    ],
+    "content_bbox": [
+      51,
+      19,
+      380,
+      196
+    ],
+    "layer_size": [
+      1316,
+      708
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S14P5": {
+    "sheet": 14,
+    "panel": 5,
+    "source_file": "Character_leaving_past_behind_20261011230000.jpg",
+    "grid_crop": [
+      489,
+      306,
+      890,
+      508
+    ],
+    "native_size": [
+      401,
+      202
+    ],
+    "content_bbox": [
+      14,
+      27,
+      226,
+      202
+    ],
+    "layer_size": [
+      848,
+      700
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S14P6": {
+    "sheet": 14,
+    "panel": 6,
+    "source_file": "Character_leaving_past_behind_20261011230000.jpg",
+    "grid_crop": [
+      923,
+      306,
+      1325,
+      508
+    ],
+    "native_size": [
+      402,
+      202
+    ],
+    "content_bbox": [
+      20,
+      35,
+      358,
+      199
+    ],
+    "layer_size": [
+      1352,
+      656
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S14P7": {
+    "sheet": 14,
+    "panel": 7,
+    "source_file": "Character_leaving_past_behind_20261011230000.jpg",
+    "grid_crop": [
+      54,
+      540,
+      455,
+      739
+    ],
+    "native_size": [
+      401,
+      199
+    ],
+    "content_bbox": [
+      211,
+      7,
+      359,
+      194
+    ],
+    "layer_size": [
+      592,
+      748
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S14P8": {
+    "sheet": 14,
+    "panel": 8,
+    "source_file": "Character_leaving_past_behind_20261011230000.jpg",
+    "grid_crop": [
+      489,
+      540,
+      890,
+      739
+    ],
+    "native_size": [
+      401,
+      199
+    ],
+    "content_bbox": [
+      22,
+      14,
+      228,
+      198
+    ],
+    "layer_size": [
+      824,
+      736
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S14P9": {
+    "sheet": 14,
+    "panel": 9,
+    "source_file": "Character_leaving_past_behind_20261011230000.jpg",
+    "grid_crop": [
+      923,
+      540,
+      1325,
+      739
+    ],
+    "native_size": [
+      402,
+      199
+    ],
+    "content_bbox": [
+      77,
+      11,
+      323,
+      199
+    ],
+    "layer_size": [
+      984,
+      752
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S15P1": {
+    "sheet": 15,
+    "panel": 1,
+    "source_file": "Character_making_small_promises_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      450,
+      246
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      235,
+      45,
+      436,
+      238
+    ],
+    "layer_size": [
+      804,
+      772
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 70,
+        "start": 341.96,
+        "end": 345.905,
+        "phrase": "So how do you rebuild trust in yourself? Not by making a bigger promise."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S15P2": {
+    "sheet": 15,
+    "panel": 2,
+    "source_file": "Character_making_small_promises_20261011230000.jpg",
+    "grid_crop": [
+      466,
+      7,
+      909,
+      246
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      74,
+      40,
+      171,
+      239
+    ],
+    "layer_size": [
+      388,
+      796
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 73,
+        "start": 357.905,
+        "end": 364.42,
+        "phrase": "Start by making smaller promises. Promises so realistic that you can keep them even when the day isn't perfect."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S15P3": {
+    "sheet": 15,
+    "panel": 3,
+    "source_file": "Character_making_small_promises_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      7,
+      1369,
+      246
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      150,
+      64,
+      291,
+      229
+    ],
+    "layer_size": [
+      564,
+      660
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 74,
+        "start": 364.42,
+        "end": 367.22,
+        "phrase": "If you want to start reading... begin with five pages."
+      },
+      {
+        "target": "short_01-scene_plan.json",
+        "scene_id": 4,
+        "start": 14.065001,
+        "end": 18.865,
+        "phrase": "happened not a verdict on what you can become Rebuild trust with one promise small enough to"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S15P4": {
+    "sheet": 15,
+    "panel": 4,
+    "source_file": "Character_making_small_promises_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      262,
+      450,
+      506
+    ],
+    "native_size": [
+      443,
+      244
+    ],
+    "content_bbox": [
+      218,
+      51,
+      431,
+      240
+    ],
+    "layer_size": [
+      852,
+      756
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 75,
+        "start": 367.22,
+        "end": 370.98,
+        "phrase": "If you want to exercise... choose a manageable workout you can repeat."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S15P5": {
+    "sheet": 15,
+    "panel": 5,
+    "source_file": "Character_making_small_promises_20261011230000.jpg",
+    "grid_crop": [
+      466,
+      262,
+      909,
+      506
+    ],
+    "native_size": [
+      443,
+      244
+    ],
+    "content_bbox": [
+      45,
+      45,
+      223,
+      244
+    ],
+    "layer_size": [
+      712,
+      796
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 76,
+        "start": 370.98,
+        "end": 374.435,
+        "phrase": "If you want to learn a skill... commit to twenty focused minutes."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S15P6": {
+    "sheet": 15,
+    "panel": 6,
+    "source_file": "Character_making_small_promises_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      262,
+      1369,
+      506
+    ],
+    "native_size": [
+      443,
+      244
+    ],
+    "content_bbox": [
+      104,
+      34,
+      330,
+      243
+    ],
+    "layer_size": [
+      904,
+      836
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 77,
+        "start": 374.435,
+        "end": 378.915,
+        "phrase": "If you want to build something... decide on one concrete task you can complete today."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S15P7": {
+    "sheet": 15,
+    "panel": 7,
+    "source_file": "Character_making_small_promises_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      522,
+      450,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      238,
+      12,
+      387,
+      220
+    ],
+    "layer_size": [
+      596,
+      832
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 71,
+        "start": 345.905,
+        "end": 352.785,
+        "phrase": "Not by creating a more complicated routine. And definitely not by waiting for a magical moment when you suddenly become disciplined."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S15P8": {
+    "sheet": 15,
+    "panel": 8,
+    "source_file": "Character_making_small_promises_20261011230000.jpg",
+    "grid_crop": [
+      466,
+      522,
+      909,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      124,
+      16,
+      294,
+      221
+    ],
+    "layer_size": [
+      680,
+      820
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S15P9": {
+    "sheet": 15,
+    "panel": 9,
+    "source_file": "Character_making_small_promises_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      522,
+      1369,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      102,
+      20,
+      328,
+      211
+    ],
+    "layer_size": [
+      904,
+      764
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 72,
+        "start": 352.785,
+        "end": 357.905,
+        "phrase": "You rebuild trust the same way trust is built anywhere else. Through consistent evidence."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S16P1": {
+    "sheet": 16,
+    "panel": 1,
+    "source_file": "Evidence_accumulates_project_art\u2026_20261011230000.jpg",
+    "grid_crop": [
+      45,
+      58,
+      451,
+      260
+    ],
+    "native_size": [
+      406,
+      202
+    ],
+    "content_bbox": [
+      181,
+      21,
+      396,
+      202
+    ],
+    "layer_size": [
+      860,
+      724
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 78,
+        "start": 378.915,
+        "end": 384.915,
+        "phrase": "The goal isn't to impress yourself with how ambitious your plan looks. The goal is to create a pattern of following through."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S16P2": {
+    "sheet": 16,
+    "panel": 2,
+    "source_file": "Evidence_accumulates_project_art\u2026_20261011230000.jpg",
+    "grid_crop": [
+      486,
+      58,
+      891,
+      260
+    ],
+    "native_size": [
+      405,
+      202
+    ],
+    "content_bbox": [
+      16,
+      20,
+      200,
+      202
+    ],
+    "layer_size": [
+      736,
+      728
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 79,
+        "start": 384.915,
+        "end": 391.22,
+        "phrase": "Because every completed promise gives you something more valuable than a temporary burst of motivation. It gives you evidence."
+      },
+      {
+        "target": "short_01-scene_plan.json",
+        "scene_id": 5,
+        "start": 18.865,
+        "end": 26.945,
+        "phrase": "keep on an ordinary day Read five pages Finish one useful task Then repeat You're not trying to impress yourself You're giving yourself a reason"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S16P3": {
+    "sheet": 16,
+    "panel": 3,
+    "source_file": "Evidence_accumulates_project_art\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      58,
+      1331,
+      260
+    ],
+    "native_size": [
+      405,
+      202
+    ],
+    "content_bbox": [
+      55,
+      35,
+      360,
+      202
+    ],
+    "layer_size": [
+      1220,
+      668
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 80,
+        "start": 391.22,
+        "end": 394.58002,
+        "phrase": "Evidence that when you decide to do something... you can actually do it."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S16P4": {
+    "sheet": 16,
+    "panel": 4,
+    "source_file": "Evidence_accumulates_project_art\u2026_20261011230000.jpg",
+    "grid_crop": [
+      45,
+      295,
+      451,
+      497
+    ],
+    "native_size": [
+      406,
+      202
+    ],
+    "content_bbox": [
+      169,
+      11,
+      396,
+      202
+    ],
+    "layer_size": [
+      908,
+      764
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S16P5": {
+    "sheet": 16,
+    "panel": 5,
+    "source_file": "Evidence_accumulates_project_art\u2026_20261011230000.jpg",
+    "grid_crop": [
+      486,
+      295,
+      891,
+      497
+    ],
+    "native_size": [
+      405,
+      202
+    ],
+    "content_bbox": [
+      33,
+      9,
+      323,
+      202
+    ],
+    "layer_size": [
+      1160,
+      772
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S16P6": {
+    "sheet": 16,
+    "panel": 6,
+    "source_file": "Evidence_accumulates_project_art\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      295,
+      1331,
+      497
+    ],
+    "native_size": [
+      405,
+      202
+    ],
+    "content_bbox": [
+      49,
+      0,
+      364,
+      202
+    ],
+    "layer_size": [
+      1260,
+      808
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S16P7": {
+    "sheet": 16,
+    "panel": 7,
+    "source_file": "Evidence_accumulates_project_art\u2026_20261011230000.jpg",
+    "grid_crop": [
+      45,
+      532,
+      451,
+      734
+    ],
+    "native_size": [
+      406,
+      202
+    ],
+    "content_bbox": [
+      111,
+      4,
+      372,
+      202
+    ],
+    "layer_size": [
+      1044,
+      792
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 81,
+        "start": 394.58002,
+        "end": 397.62003,
+        "phrase": "And at first... that evidence might feel small."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S16P8": {
+    "sheet": 16,
+    "panel": 8,
+    "source_file": "Evidence_accumulates_project_art\u2026_20261011230000.jpg",
+    "grid_crop": [
+      486,
+      532,
+      891,
+      734
+    ],
+    "native_size": [
+      405,
+      202
+    ],
+    "content_bbox": [
+      33,
+      11,
+      240,
+      202
+    ],
+    "layer_size": [
+      828,
+      764
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 82,
+        "start": 397.62003,
+        "end": 405.055,
+        "phrase": "Five pages don't look impressive. Twenty minutes doesn't look life-changing. One completed task doesn't look like a transformation."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S16P9": {
+    "sheet": 16,
+    "panel": 9,
+    "source_file": "Evidence_accumulates_project_art\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      532,
+      1331,
+      734
+    ],
+    "native_size": [
+      405,
+      202
+    ],
+    "content_bbox": [
+      73,
+      8,
+      345,
+      202
+    ],
+    "layer_size": [
+      1088,
+      776
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 83,
+        "start": 405.055,
+        "end": 409.13498,
+        "phrase": "But remember... you're not just building a habit. You're rebuilding trust."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S17P1": {
+    "sheet": 17,
+    "panel": 1,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      451,
+      246
+    ],
+    "native_size": [
+      444,
+      239
+    ],
+    "content_bbox": [
+      201,
+      35,
+      421,
+      232
+    ],
+    "layer_size": [
+      880,
+      788
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 84,
+        "start": 409.13498,
+        "end": 413.775,
+        "phrase": "Here's another important part. Stop treating every imperfect day as a failure."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S17P2": {
+    "sheet": 17,
+    "panel": 2,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      7,
+      910,
+      246
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      31,
+      49,
+      265,
+      231
+    ],
+    "layer_size": [
+      936,
+      728
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 85,
+        "start": 413.775,
+        "end": 419.83,
+        "phrase": "Suppose you planned to work for an hour... but you only managed twenty minutes. That isn't the same as doing nothing."
+      },
+      {
+        "target": "short_03-scene_plan.json",
+        "scene_id": 3,
+        "start": 10.08,
+        "end": 15.684999,
+        "phrase": "minutes of work is not the same as nothing A missed workout does not erase the rest of your week Consistency"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S17P3": {
+    "sheet": 17,
+    "panel": 3,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      7,
+      1369,
+      246
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      90,
+      35,
+      318,
+      233
+    ],
+    "layer_size": [
+      912,
+      792
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 86,
+        "start": 419.83,
+        "end": 423.75,
+        "phrase": "Suppose you missed a workout. That doesn't mean the entire week is ruined."
+      },
+      {
+        "target": "short_03-scene_plan.json",
+        "scene_id": 1,
+        "start": 0,
+        "end": 6.3999996,
+        "phrase": "You missed a workout You scrolled instead of studying Now you're telling yourself you'll restart next Monday But"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S17P4": {
+    "sheet": 17,
+    "panel": 4,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      263,
+      451,
+      506
+    ],
+    "native_size": [
+      444,
+      243
+    ],
+    "content_bbox": [
+      220,
+      10,
+      443,
+      235
+    ],
+    "layer_size": [
+      892,
+      900
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S17P5": {
+    "sheet": 17,
+    "panel": 5,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      263,
+      910,
+      506
+    ],
+    "native_size": [
+      443,
+      243
+    ],
+    "content_bbox": [
+      17,
+      43,
+      259,
+      231
+    ],
+    "layer_size": [
+      968,
+      752
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 87,
+        "start": 423.75,
+        "end": 427.67,
+        "phrase": "Suppose you spent an evening scrolling... when you intended to study."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S17P6": {
+    "sheet": 17,
+    "panel": 6,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      263,
+      1369,
+      506
+    ],
+    "native_size": [
+      443,
+      243
+    ],
+    "content_bbox": [
+      85,
+      9,
+      345,
+      240
+    ],
+    "layer_size": [
+      1040,
+      924
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 88,
+        "start": 427.67,
+        "end": 435.625,
+        "phrase": "You don't have to wait until Monday to return to your plan. You can return the next morning. Or the next hour. Or even the next decision."
+      },
+      {
+        "target": "short_03-scene_plan.json",
+        "scene_id": 6,
+        "start": 26.07,
+        "end": 29.99,
+        "phrase": "next morning the next hour or the next decision Keep the promise"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S17P7": {
+    "sheet": 17,
+    "panel": 7,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      522,
+      451,
+      761
+    ],
+    "native_size": [
+      444,
+      239
+    ],
+    "content_bbox": [
+      186,
+      13,
+      429,
+      228
+    ],
+    "layer_size": [
+      972,
+      860
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S17P8": {
+    "sheet": 17,
+    "panel": 8,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      522,
+      910,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      18,
+      45,
+      289,
+      232
+    ],
+    "layer_size": [
+      1084,
+      748
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S17P9": {
+    "sheet": 17,
+    "panel": 9,
+    "source_file": "Character_following_through_on_t\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      522,
+      1369,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      11,
+      21,
+      385,
+      236
+    ],
+    "layer_size": [
+      1496,
+      860
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S18P1": {
+    "sheet": 18,
+    "panel": 1,
+    "source_file": "Character_overcoming_obstacles_a\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      451,
+      247
+    ],
+    "native_size": [
+      444,
+      240
+    ],
+    "content_bbox": [
+      85,
+      35,
+      444,
+      240
+    ],
+    "layer_size": [
+      1436,
+      820
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S18P2": {
+    "sheet": 18,
+    "panel": 2,
+    "source_file": "Character_overcoming_obstacles_a\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      7,
+      910,
+      247
+    ],
+    "native_size": [
+      443,
+      240
+    ],
+    "content_bbox": [
+      4,
+      88,
+      267,
+      231
+    ],
+    "layer_size": [
+      1052,
+      572
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S18P3": {
+    "sheet": 18,
+    "panel": 3,
+    "source_file": "Character_overcoming_obstacles_a\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      7,
+      1369,
+      247
+    ],
+    "native_size": [
+      443,
+      240
+    ],
+    "content_bbox": [
+      0,
+      52,
+      443,
+      223
+    ],
+    "layer_size": [
+      1772,
+      684
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 89,
+        "start": 435.625,
+        "end": 444.025,
+        "phrase": "Consistency doesn't mean performing perfectly every single day. It means learning how to return... without turning one mistake into a complete abandonment."
+      },
+      {
+        "target": "short_03-scene_plan.json",
+        "scene_id": 4,
+        "start": 15.684999,
+        "end": 20.005,
+        "phrase": "isn't never slipping It's learning to return Ask a better question"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S18P4": {
+    "sheet": 18,
+    "panel": 4,
+    "source_file": "Character_overcoming_obstacles_a\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      263,
+      451,
+      506
+    ],
+    "native_size": [
+      444,
+      243
+    ],
+    "content_bbox": [
+      169,
+      22,
+      417,
+      213
+    ],
+    "layer_size": [
+      992,
+      764
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S18P5": {
+    "sheet": 18,
+    "panel": 5,
+    "source_file": "Character_overcoming_obstacles_a\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      263,
+      910,
+      506
+    ],
+    "native_size": [
+      443,
+      243
+    ],
+    "content_bbox": [
+      0,
+      37,
+      356,
+      243
+    ],
+    "layer_size": [
+      1424,
+      824
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 90,
+        "start": 444.025,
+        "end": 453.22998,
+        "phrase": "A person who can recover after a bad day... is often more reliable than someone who follows a perfect routine for a week and disappears after the first setback."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S18P6": {
+    "sheet": 18,
+    "panel": 6,
+    "source_file": "Character_overcoming_obstacles_a\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      263,
+      1369,
+      506
+    ],
+    "native_size": [
+      443,
+      243
+    ],
+    "content_bbox": [
+      0,
+      52,
+      443,
+      224
+    ],
+    "layer_size": [
+      1772,
+      688
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 91,
+        "start": 453.22998,
+        "end": 456.99,
+        "phrase": "So stop asking yourself, \u201cHow can I make sure I never mess up?\u201d"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S18P7": {
+    "sheet": 18,
+    "panel": 7,
+    "source_file": "Character_overcoming_obstacles_a\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      522,
+      451,
+      761
+    ],
+    "native_size": [
+      444,
+      239
+    ],
+    "content_bbox": [
+      158,
+      46,
+      440,
+      238
+    ],
+    "layer_size": [
+      1128,
+      768
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 92,
+        "start": 456.99,
+        "end": 460.925,
+        "phrase": "Ask yourself, \u201cWhat will I do when I inevitably have a difficult day?\u201d"
+      },
+      {
+        "target": "short_03-scene_plan.json",
+        "scene_id": 5,
+        "start": 20.005,
+        "end": 26.07,
+        "phrase": "not how do I make sure I never mess up But what will I do when a difficult day happens Return the"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S18P8": {
+    "sheet": 18,
+    "panel": 8,
+    "source_file": "Character_overcoming_obstacles_a\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      522,
+      910,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      76,
+      47,
+      268,
+      212
+    ],
+    "layer_size": [
+      768,
+      660
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S18P9": {
+    "sheet": 18,
+    "panel": 9,
+    "source_file": "Character_overcoming_obstacles_a\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      522,
+      1369,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      0,
+      0,
+      443,
+      216
+    ],
+    "layer_size": [
+      1772,
+      864
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S19P1": {
+    "sheet": 19,
+    "panel": 1,
+    "source_file": "Planning_for_your_real_self_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      453,
+      247
+    ],
+    "native_size": [
+      446,
+      240
+    ],
+    "content_bbox": [
+      259,
+      64,
+      419,
+      237
+    ],
+    "layer_size": [
+      640,
+      692
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 93,
+        "start": 460.925,
+        "end": 463.005,
+        "phrase": "Build a plan for that person, too."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S19P2": {
+    "sheet": 19,
+    "panel": 2,
+    "source_file": "Planning_for_your_real_self_20261011230000.jpg",
+    "grid_crop": [
+      469,
+      7,
+      908,
+      247
+    ],
+    "native_size": [
+      439,
+      240
+    ],
+    "content_bbox": [
+      56,
+      51,
+      228,
+      238
+    ],
+    "layer_size": [
+      688,
+      748
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 94,
+        "start": 463.005,
+        "end": 467.405,
+        "phrase": "The tired version of you. The distracted version of you. The version that doesn't feel motivated."
+      },
+      {
+        "target": "short_02-scene_plan.json",
+        "scene_id": 4,
+        "start": 14.445,
+        "end": 20.045,
+        "phrase": "plan for your best mood not your actual life Make the first step smaller Put the phone out of"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S19P3": {
+    "sheet": 19,
+    "panel": 3,
+    "source_file": "Planning_for_your_real_self_20261011230000.jpg",
+    "grid_crop": [
+      924,
+      7,
+      1369,
+      247
+    ],
+    "native_size": [
+      445,
+      240
+    ],
+    "content_bbox": [
+      131,
+      54,
+      300,
+      231
+    ],
+    "layer_size": [
+      676,
+      708
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S19P4": {
+    "sheet": 19,
+    "panel": 4,
+    "source_file": "Planning_for_your_real_self_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      263,
+      453,
+      507
+    ],
+    "native_size": [
+      446,
+      244
+    ],
+    "content_bbox": [
+      252,
+      24,
+      424,
+      242
+    ],
+    "layer_size": [
+      688,
+      872
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S19P5": {
+    "sheet": 19,
+    "panel": 5,
+    "source_file": "Planning_for_your_real_self_20261011230000.jpg",
+    "grid_crop": [
+      469,
+      263,
+      908,
+      507
+    ],
+    "native_size": [
+      439,
+      244
+    ],
+    "content_bbox": [
+      4,
+      38,
+      222,
+      233
+    ],
+    "layer_size": [
+      872,
+      780
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S19P6": {
+    "sheet": 19,
+    "panel": 6,
+    "source_file": "Planning_for_your_real_self_20261011230000.jpg",
+    "grid_crop": [
+      924,
+      263,
+      1369,
+      507
+    ],
+    "native_size": [
+      445,
+      244
+    ],
+    "content_bbox": [
+      90,
+      49,
+      350,
+      238
+    ],
+    "layer_size": [
+      1040,
+      756
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S19P7": {
+    "sheet": 19,
+    "panel": 7,
+    "source_file": "Planning_for_your_real_self_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      523,
+      453,
+      761
+    ],
+    "native_size": [
+      446,
+      238
+    ],
+    "content_bbox": [
+      125,
+      41,
+      397,
+      237
+    ],
+    "layer_size": [
+      1088,
+      784
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S19P8": {
+    "sheet": 19,
+    "panel": 8,
+    "source_file": "Planning_for_your_real_self_20261011230000.jpg",
+    "grid_crop": [
+      469,
+      523,
+      908,
+      761
+    ],
+    "native_size": [
+      439,
+      238
+    ],
+    "content_bbox": [
+      106,
+      11,
+      374,
+      230
+    ],
+    "layer_size": [
+      1072,
+      876
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 95,
+        "start": 467.405,
+        "end": 475.81998,
+        "phrase": "Because that version of you is also part of your life. And your system needs to work for a real human being... not an imaginary version of you who always feels ready."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S19P9": {
+    "sheet": 19,
+    "panel": 9,
+    "source_file": "Planning_for_your_real_self_20261011230000.jpg",
+    "grid_crop": [
+      924,
+      523,
+      1369,
+      761
+    ],
+    "native_size": [
+      445,
+      238
+    ],
+    "content_bbox": [
+      72,
+      7,
+      348,
+      226
+    ],
+    "layer_size": [
+      1104,
+      876
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S20P1": {
+    "sheet": 20,
+    "panel": 1,
+    "source_file": "Making_honest_commitments_follow\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      451,
+      246
+    ],
+    "native_size": [
+      444,
+      239
+    ],
+    "content_bbox": [
+      7,
+      33,
+      444,
+      198
+    ],
+    "layer_size": [
+      1748,
+      660
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 96,
+        "start": 475.81998,
+        "end": 481.81998,
+        "phrase": "There's one more thing you need to understand. You don't rebuild self-trust by promising yourself that you'll never quit again."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S20P2": {
+    "sheet": 20,
+    "panel": 2,
+    "source_file": "Making_honest_commitments_follow\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      7,
+      909,
+      246
+    ],
+    "native_size": [
+      442,
+      239
+    ],
+    "content_bbox": [
+      0,
+      27,
+      435,
+      239
+    ],
+    "layer_size": [
+      1740,
+      848
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 98,
+        "start": 485.34,
+        "end": 489.855,
+        "phrase": "If you know you have limited time... stop creating a schedule that requires unlimited time."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S20P3": {
+    "sheet": 20,
+    "panel": 3,
+    "source_file": "Making_honest_commitments_follow\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      7,
+      1369,
+      246
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      7,
+      75,
+      443,
+      200
+    ],
+    "layer_size": [
+      1744,
+      500
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 99,
+        "start": 489.855,
+        "end": 494.815,
+        "phrase": "If you know you get distracted easily... stop pretending that willpower alone will solve everything."
+      },
+      {
+        "target": "short_02-scene_plan.json",
+        "scene_id": 5,
+        "start": 20.045,
+        "end": 25.083,
+        "phrase": "reach Decide what you'll do on a difficult day Be ambitious about your direction and realistic"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S20P4": {
+    "sheet": 20,
+    "panel": 4,
+    "source_file": "Making_honest_commitments_follow\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      262,
+      451,
+      506
+    ],
+    "native_size": [
+      444,
+      244
+    ],
+    "content_bbox": [
+      161,
+      17,
+      438,
+      195
+    ],
+    "layer_size": [
+      1108,
+      712
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 100,
+        "start": 494.815,
+        "end": 498.415,
+        "phrase": "If you know a task feels overwhelming... break it into smaller steps."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S20P5": {
+    "sheet": 20,
+    "panel": 5,
+    "source_file": "Making_honest_commitments_follow\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      262,
+      909,
+      506
+    ],
+    "native_size": [
+      442,
+      244
+    ],
+    "content_bbox": [
+      0,
+      49,
+      442,
+      200
+    ],
+    "layer_size": [
+      1768,
+      604
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 97,
+        "start": 481.81998,
+        "end": 485.34,
+        "phrase": "You rebuild it by becoming honest about what you can actually commit to."
+      },
+      {
+        "target": "scene_plan.json",
+        "scene_id": 102,
+        "start": 503.49,
+        "end": 512.77,
+        "phrase": "There's no shame in changing a plan that doesn't work. The problem is repeatedly making promises without considering reality... then blaming yourself when reality doesn't cooperate."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S20P6": {
+    "sheet": 20,
+    "panel": 6,
+    "source_file": "Making_honest_commitments_follow\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      262,
+      1369,
+      506
+    ],
+    "native_size": [
+      443,
+      244
+    ],
+    "content_bbox": [
+      56,
+      63,
+      392,
+      244
+    ],
+    "layer_size": [
+      1344,
+      724
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 101,
+        "start": 498.415,
+        "end": 503.49,
+        "phrase": "And if you genuinely cannot keep a commitment... adjust it deliberately instead of silently abandoning it."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S20P7": {
+    "sheet": 20,
+    "panel": 7,
+    "source_file": "Making_honest_commitments_follow\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      522,
+      451,
+      705
+    ],
+    "native_size": [
+      444,
+      183
+    ],
+    "content_bbox": [
+      146,
+      10,
+      377,
+      183
+    ],
+    "layer_size": [
+      924,
+      692
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S20P8": {
+    "sheet": 20,
+    "panel": 8,
+    "source_file": "Making_honest_commitments_follow\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      522,
+      909,
+      705
+    ],
+    "native_size": [
+      442,
+      183
+    ],
+    "content_bbox": [
+      91,
+      24,
+      431,
+      183
+    ],
+    "layer_size": [
+      1360,
+      636
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 103,
+        "start": 512.77,
+        "end": 516.915,
+        "phrase": "Be ambitious about the direction you're moving in. Be realistic about the next step."
+      },
+      {
+        "target": "short_02-scene_plan.json",
+        "scene_id": 6,
+        "start": 25.083,
+        "end": 27.803001,
+        "phrase": "about your next step Build a plan the tired version"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S20P9": {
+    "sheet": 20,
+    "panel": 9,
+    "source_file": "Making_honest_commitments_follow\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      522,
+      1369,
+      705
+    ],
+    "native_size": [
+      443,
+      183
+    ],
+    "content_bbox": [
+      124,
+      25,
+      308,
+      183
+    ],
+    "layer_size": [
+      736,
+      632
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 104,
+        "start": 516.915,
+        "end": 522.83496,
+        "phrase": "You can want a completely different future... without demanding a completely different version of yourself by tomorrow morning."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S21P1": {
+    "sheet": 21,
+    "panel": 1,
+    "source_file": "Character_building_self-trust_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      455,
+      246
+    ],
+    "native_size": [
+      448,
+      239
+    ],
+    "content_bbox": [
+      241,
+      60,
+      439,
+      239
+    ],
+    "layer_size": [
+      792,
+      716
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 105,
+        "start": 522.83496,
+        "end": 525.235,
+        "phrase": "And eventually... something begins to change."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S21P2": {
+    "sheet": 21,
+    "panel": 2,
+    "source_file": "Character_building_self-trust_20261011230000.jpg",
+    "grid_crop": [
+      472,
+      7,
+      904,
+      246
+    ],
+    "native_size": [
+      432,
+      239
+    ],
+    "content_bbox": [
+      8,
+      52,
+      211,
+      239
+    ],
+    "layer_size": [
+      812,
+      748
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 106,
+        "start": 525.235,
+        "end": 529.01,
+        "phrase": "You wake up and follow through on a small commitment. Then you do it again."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S21P3": {
+    "sheet": 21,
+    "panel": 3,
+    "source_file": "Character_building_self-trust_20261011230000.jpg",
+    "grid_crop": [
+      921,
+      7,
+      1369,
+      246
+    ],
+    "native_size": [
+      448,
+      239
+    ],
+    "content_bbox": [
+      74,
+      10,
+      448,
+      239
+    ],
+    "layer_size": [
+      1496,
+      916
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 107,
+        "start": 529.01,
+        "end": 532.69,
+        "phrase": "You have a difficult day... but you return instead of giving up."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S21P4": {
+    "sheet": 21,
+    "panel": 4,
+    "source_file": "Character_building_self-trust_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      263,
+      455,
+      506
+    ],
+    "native_size": [
+      448,
+      243
+    ],
+    "content_bbox": [
+      252,
+      49,
+      414,
+      239
+    ],
+    "layer_size": [
+      648,
+      760
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 108,
+        "start": 532.69,
+        "end": 536.77,
+        "phrase": "You make a mistake... but you don't use it as an excuse to abandon everything."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S21P5": {
+    "sheet": 21,
+    "panel": 5,
+    "source_file": "Character_building_self-trust_20261011230000.jpg",
+    "grid_crop": [
+      472,
+      263,
+      904,
+      506
+    ],
+    "native_size": [
+      432,
+      243
+    ],
+    "content_bbox": [
+      7,
+      38,
+      244,
+      243
+    ],
+    "layer_size": [
+      948,
+      820
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 112,
+        "start": 552.445,
+        "end": 556.365,
+        "phrase": "You remember the times you made a mistake... and came back instead of disappearing."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S21P6": {
+    "sheet": 21,
+    "panel": 6,
+    "source_file": "Character_building_self-trust_20261011230000.jpg",
+    "grid_crop": [
+      921,
+      263,
+      1369,
+      506
+    ],
+    "native_size": [
+      448,
+      243
+    ],
+    "content_bbox": [
+      111,
+      29,
+      317,
+      240
+    ],
+    "layer_size": [
+      824,
+      844
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 109,
+        "start": 536.77,
+        "end": 539.49,
+        "phrase": "Slowly... you start seeing yourself differently."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S21P7": {
+    "sheet": 21,
+    "panel": 7,
+    "source_file": "Character_building_self-trust_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      522,
+      455,
+      761
+    ],
+    "native_size": [
+      448,
+      239
+    ],
+    "content_bbox": [
+      248,
+      26,
+      437,
+      237
+    ],
+    "layer_size": [
+      756,
+      844
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 110,
+        "start": 539.49,
+        "end": 546.685,
+        "phrase": "Not because you keep repeating affirmations. Not because someone tells you that you're capable. But because you have actual experiences to look back on."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S21P8": {
+    "sheet": 21,
+    "panel": 8,
+    "source_file": "Character_building_self-trust_20261011230000.jpg",
+    "grid_crop": [
+      472,
+      522,
+      904,
+      761
+    ],
+    "native_size": [
+      432,
+      239
+    ],
+    "content_bbox": [
+      27,
+      66,
+      217,
+      225
+    ],
+    "layer_size": [
+      760,
+      636
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 111,
+        "start": 546.685,
+        "end": 552.445,
+        "phrase": "You remember the days you showed up when you didn't feel like it. You remember the projects you continued when progress was slow."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S21P9": {
+    "sheet": 21,
+    "panel": 9,
+    "source_file": "Character_building_self-trust_20261011230000.jpg",
+    "grid_crop": [
+      921,
+      522,
+      1369,
+      761
+    ],
+    "native_size": [
+      448,
+      239
+    ],
+    "content_bbox": [
+      151,
+      26,
+      280,
+      239
+    ],
+    "layer_size": [
+      516,
+      852
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 113,
+        "start": 556.365,
+        "end": 562.96,
+        "phrase": "And one day... when you make a new promise to yourself... you don't have to rely entirely on hope. You have evidence from your past."
+      },
+      {
+        "target": "scene_plan.json",
+        "scene_id": 114,
+        "start": 562.96,
+        "end": 567.2,
+        "phrase": "You can think, \u201cI've followed through before. I know I can take the next step.\u201d"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S22P1": {
+    "sheet": 22,
+    "panel": 1,
+    "source_file": "Character_building_confidence_th\u2026_20261011230000.jpg",
+    "grid_crop": [
+      30,
+      26,
+      452,
+      248
+    ],
+    "native_size": [
+      422,
+      222
+    ],
+    "content_bbox": [
+      251,
+      43,
+      422,
+      208
+    ],
+    "layer_size": [
+      684,
+      660
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S22P2": {
+    "sheet": 22,
+    "panel": 2,
+    "source_file": "Character_building_confidence_th\u2026_20261011230000.jpg",
+    "grid_crop": [
+      480,
+      26,
+      901,
+      248
+    ],
+    "native_size": [
+      421,
+      222
+    ],
+    "content_bbox": [
+      7,
+      35,
+      209,
+      210
+    ],
+    "layer_size": [
+      808,
+      700
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S22P3": {
+    "sheet": 22,
+    "panel": 3,
+    "source_file": "Character_building_confidence_th\u2026_20261011230000.jpg",
+    "grid_crop": [
+      930,
+      26,
+      1345,
+      248
+    ],
+    "native_size": [
+      415,
+      222
+    ],
+    "content_bbox": [
+      53,
+      28,
+      341,
+      222
+    ],
+    "layer_size": [
+      1152,
+      776
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S22P4": {
+    "sheet": 22,
+    "panel": 4,
+    "source_file": "Character_building_confidence_th\u2026_20261011230000.jpg",
+    "grid_crop": [
+      30,
+      278,
+      452,
+      504
+    ],
+    "native_size": [
+      422,
+      226
+    ],
+    "content_bbox": [
+      244,
+      29,
+      422,
+      219
+    ],
+    "layer_size": [
+      712,
+      760
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S22P5": {
+    "sheet": 22,
+    "panel": 5,
+    "source_file": "Character_building_confidence_th\u2026_20261011230000.jpg",
+    "grid_crop": [
+      480,
+      278,
+      901,
+      504
+    ],
+    "native_size": [
+      421,
+      226
+    ],
+    "content_bbox": [
+      10,
+      18,
+      174,
+      218
+    ],
+    "layer_size": [
+      656,
+      800
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 115,
+        "start": 567.2,
+        "end": 571.835,
+        "phrase": "That kind of confidence is different. It's quieter. It doesn't need to announce itself."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S22P6": {
+    "sheet": 22,
+    "panel": 6,
+    "source_file": "Character_building_confidence_th\u2026_20261011230000.jpg",
+    "grid_crop": [
+      930,
+      278,
+      1345,
+      504
+    ],
+    "native_size": [
+      415,
+      226
+    ],
+    "content_bbox": [
+      77,
+      43,
+      335,
+      226
+    ],
+    "layer_size": [
+      1032,
+      732
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S22P7": {
+    "sheet": 22,
+    "panel": 7,
+    "source_file": "Character_building_confidence_th\u2026_20261011230000.jpg",
+    "grid_crop": [
+      30,
+      520,
+      452,
+      744
+    ],
+    "native_size": [
+      422,
+      224
+    ],
+    "content_bbox": [
+      209,
+      6,
+      395,
+      224
+    ],
+    "layer_size": [
+      744,
+      872
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S22P8": {
+    "sheet": 22,
+    "panel": 8,
+    "source_file": "Character_building_confidence_th\u2026_20261011230000.jpg",
+    "grid_crop": [
+      480,
+      520,
+      901,
+      744
+    ],
+    "native_size": [
+      421,
+      224
+    ],
+    "content_bbox": [
+      33,
+      45,
+      186,
+      214
+    ],
+    "layer_size": [
+      612,
+      676
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 116,
+        "start": 571.835,
+        "end": 577.355,
+        "phrase": "It comes from knowing that you can depend on yourself... not to be perfect... but to keep making an honest effort."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S22P9": {
+    "sheet": 22,
+    "panel": 9,
+    "source_file": "Character_building_confidence_th\u2026_20261011230000.jpg",
+    "grid_crop": [
+      930,
+      520,
+      1345,
+      744
+    ],
+    "native_size": [
+      415,
+      224
+    ],
+    "content_bbox": [
+      51,
+      36,
+      196,
+      223
+    ],
+    "layer_size": [
+      580,
+      748
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S23P1": {
+    "sheet": 23,
+    "panel": 1,
+    "source_file": "Character_choosing_one_small_com\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      451,
+      248
+    ],
+    "native_size": [
+      444,
+      241
+    ],
+    "content_bbox": [
+      202,
+      45,
+      429,
+      241
+    ],
+    "layer_size": [
+      908,
+      784
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 117,
+        "start": 577.355,
+        "end": 582.875,
+        "phrase": "So if you've spent years making plans and breaking promises... don't try to fix your entire life tonight."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S23P2": {
+    "sheet": 23,
+    "panel": 2,
+    "source_file": "Character_choosing_one_small_com\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      7,
+      910,
+      248
+    ],
+    "native_size": [
+      443,
+      241
+    ],
+    "content_bbox": [
+      32,
+      51,
+      248,
+      215
+    ],
+    "layer_size": [
+      864,
+      656
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 118,
+        "start": 582.875,
+        "end": 588.47,
+        "phrase": "Don't create another enormous routine. Don't promise yourself that tomorrow you'll become a completely different person."
+      },
+      {
+        "target": "scene_plan.json",
+        "scene_id": 119,
+        "start": 588.47,
+        "end": 590.87,
+        "phrase": "Choose one thing. One commitment."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S23P3": {
+    "sheet": 23,
+    "panel": 3,
+    "source_file": "Character_choosing_one_small_com\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      7,
+      1369,
+      248
+    ],
+    "native_size": [
+      443,
+      241
+    ],
+    "content_bbox": [
+      128,
+      54,
+      289,
+      234
+    ],
+    "layer_size": [
+      644,
+      720
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 120,
+        "start": 590.87,
+        "end": 594.87,
+        "phrase": "Something small enough to complete... but meaningful enough that it matters to you."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S23P4": {
+    "sheet": 23,
+    "panel": 4,
+    "source_file": "Character_choosing_one_small_com\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      264,
+      451,
+      506
+    ],
+    "native_size": [
+      444,
+      242
+    ],
+    "content_bbox": [
+      200,
+      44,
+      444,
+      237
+    ],
+    "layer_size": [
+      976,
+      772
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 121,
+        "start": 594.87,
+        "end": 597.19,
+        "phrase": "Write it down. Decide when you'll do it."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S23P5": {
+    "sheet": 23,
+    "panel": 5,
+    "source_file": "Character_choosing_one_small_com\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      264,
+      910,
+      506
+    ],
+    "native_size": [
+      443,
+      242
+    ],
+    "content_bbox": [
+      49,
+      29,
+      237,
+      237
+    ],
+    "layer_size": [
+      752,
+      832
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 122,
+        "start": 597.19,
+        "end": 598.79,
+        "phrase": "Make the first step clear."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S23P6": {
+    "sheet": 23,
+    "panel": 6,
+    "source_file": "Character_choosing_one_small_com\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      264,
+      1369,
+      506
+    ],
+    "native_size": [
+      443,
+      242
+    ],
+    "content_bbox": [
+      110,
+      47,
+      295,
+      240
+    ],
+    "layer_size": [
+      740,
+      772
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S23P7": {
+    "sheet": 23,
+    "panel": 7,
+    "source_file": "Character_choosing_one_small_com\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      522,
+      451,
+      761
+    ],
+    "native_size": [
+      444,
+      239
+    ],
+    "content_bbox": [
+      256,
+      23,
+      444,
+      229
+    ],
+    "layer_size": [
+      752,
+      824
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 123,
+        "start": 598.79,
+        "end": 601.845,
+        "phrase": "Then follow through. And tomorrow... do it again."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S23P8": {
+    "sheet": 23,
+    "panel": 8,
+    "source_file": "Character_choosing_one_small_com\u2026_20261011230000.jpg",
+    "grid_crop": [
+      467,
+      522,
+      910,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      48,
+      25,
+      227,
+      239
+    ],
+    "layer_size": [
+      716,
+      856
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 124,
+        "start": 601.845,
+        "end": 609.765,
+        "phrase": "Not because you're trying to prove that you're better than someone else. Not because you need to become perfect. But because you want your own word to mean something to you again."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S23P9": {
+    "sheet": 23,
+    "panel": 9,
+    "source_file": "Character_choosing_one_small_com\u2026_20261011230000.jpg",
+    "grid_crop": [
+      926,
+      522,
+      1369,
+      761
+    ],
+    "native_size": [
+      443,
+      239
+    ],
+    "content_bbox": [
+      69,
+      27,
+      330,
+      226
+    ],
+    "layer_size": [
+      1044,
+      796
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [],
+    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S24P1": {
+    "sheet": 24,
+    "panel": 1,
+    "source_file": "Character_following_through_on_c\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      7,
+      453,
+      246
+    ],
+    "native_size": [
+      446,
+      239
+    ],
+    "content_bbox": [
+      195,
+      56,
+      445,
+      239
+    ],
+    "layer_size": [
+      1000,
+      732
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 125,
+        "start": 609.765,
+        "end": 617.3,
+        "phrase": "Because the relationship you have with yourself... is the one relationship you carry into every goal, every challenge, and every new beginning."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S24P2": {
+    "sheet": 24,
+    "panel": 2,
+    "source_file": "Character_following_through_on_c\u2026_20261011230000.jpg",
+    "grid_crop": [
+      485,
+      7,
+      904,
+      246
+    ],
+    "native_size": [
+      419,
+      239
+    ],
+    "content_bbox": [
+      0,
+      64,
+      295,
+      239
+    ],
+    "layer_size": [
+      1180,
+      700
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 127,
+        "start": 621.38,
+        "end": 629.02496,
+        "phrase": "You don't need to become someone who never struggles. You need to become someone who doesn't automatically abandon themselves when things get difficult."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S24P3": {
+    "sheet": 24,
+    "panel": 3,
+    "source_file": "Character_following_through_on_c\u2026_20261011230000.jpg",
+    "grid_crop": [
+      929,
+      7,
+      1369,
+      246
+    ],
+    "native_size": [
+      440,
+      239
+    ],
+    "content_bbox": [
+      127,
+      93,
+      279,
+      239
+    ],
+    "layer_size": [
+      608,
+      584
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 128,
+        "start": 629.02496,
+        "end": 631.505,
+        "phrase": "Someone who can make a mistake without giving up."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S24P4": {
+    "sheet": 24,
+    "panel": 4,
+    "source_file": "Character_following_through_on_c\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      275,
+      453,
+      506
+    ],
+    "native_size": [
+      446,
+      231
+    ],
+    "content_bbox": [
+      175,
+      49,
+      441,
+      231
+    ],
+    "layer_size": [
+      1064,
+      728
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 129,
+        "start": 631.505,
+        "end": 634.70496,
+        "phrase": "Someone who can start small without feeling insignificant."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S24P5": {
+    "sheet": 24,
+    "panel": 5,
+    "source_file": "Character_following_through_on_c\u2026_20261011230000.jpg",
+    "grid_crop": [
+      485,
+      275,
+      904,
+      506
+    ],
+    "native_size": [
+      419,
+      231
+    ],
+    "content_bbox": [
+      13,
+      31,
+      243,
+      231
+    ],
+    "layer_size": [
+      920,
+      800
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 130,
+        "start": 634.70496,
+        "end": 638.37994,
+        "phrase": "Someone who can keep a promise... even when nobody else knows about it."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S24P6": {
+    "sheet": 24,
+    "panel": 6,
+    "source_file": "Character_following_through_on_c\u2026_20261011230000.jpg",
+    "grid_crop": [
+      929,
+      275,
+      1369,
+      506
+    ],
+    "native_size": [
+      440,
+      231
+    ],
+    "content_bbox": [
+      3,
+      37,
+      418,
+      214
+    ],
+    "layer_size": [
+      1660,
+      708
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 131,
+        "start": 638.37994,
+        "end": 647.7056,
+        "phrase": "Because confidence isn't always believing you can do something extraordinary. Sometimes... it's simply knowing that when you tell yourself you'll take the next step... you actually will."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S24P7": {
+    "sheet": 24,
+    "panel": 7,
+    "source_file": "Character_following_through_on_c\u2026_20261011230000.jpg",
+    "grid_crop": [
+      7,
+      522,
+      453,
+      761
+    ],
+    "native_size": [
+      446,
+      239
+    ],
+    "content_bbox": [
+      173,
+      20,
+      442,
+      230
+    ],
+    "layer_size": [
+      1076,
+      840
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 126,
+        "start": 617.3,
+        "end": 621.38,
+        "phrase": "And you deserve to build that relationship on something stronger than disappointment."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S24P8": {
+    "sheet": 24,
+    "panel": 8,
+    "source_file": "Character_following_through_on_c\u2026_20261011230000.jpg",
+    "grid_crop": [
+      485,
+      522,
+      904,
+      761
+    ],
+    "native_size": [
+      419,
+      239
+    ],
+    "content_bbox": [
+      55,
+      19,
+      193,
+      215
+    ],
+    "layer_size": [
+      552,
+      784
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 132,
+        "start": 647.7056,
+        "end": 653.9456,
+        "phrase": "Start there. Keep the promise small. Keep it honest. And give yourself a reason to trust yourself again."
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  },
+  "S24P9": {
+    "sheet": 24,
+    "panel": 9,
+    "source_file": "Character_following_through_on_c\u2026_20261011230000.jpg",
+    "grid_crop": [
+      929,
+      522,
+      1369,
+      761
+    ],
+    "native_size": [
+      440,
+      239
+    ],
+    "content_bbox": [
+      24,
+      12,
+      396,
+      239
+    ],
+    "layer_size": [
+      1488,
+      908
+    ],
+    "upscale": "4x FSRCNN neural +22% Lanczos blend",
+    "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 133,
+        "start": 653.9456,
+        "end": 658.023855,
+        "phrase": "Think deeper. Live better. Become more. This is Why We Become."
+      },
+      {
+        "target": "short_01-scene_plan.json",
+        "scene_id": 6,
+        "start": 26.945,
+        "end": 32.731429,
+        "phrase": "to believe your own word again Think deeper Live better Become more This is Why We Become"
+      },
+      {
+        "target": "short_02-scene_plan.json",
+        "scene_id": 7,
+        "start": 27.803001,
+        "end": 33.888,
+        "phrase": "of you can actually follow Think deeper Live better Become more This is Why We Become"
+      },
+      {
+        "target": "short_03-scene_plan.json",
+        "scene_id": 7,
+        "start": 29.99,
+        "end": 36.675918,
+        "phrase": "small Keep it honest Think deeper Live better Become more This is Why We Become"
+      }
+    ],
+    "usage_status": "used",
+    "crop_review": "real grid cropped inside divider"
+  }
+}

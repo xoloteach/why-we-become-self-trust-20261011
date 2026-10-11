@@ -1,0 +1,6 @@
+out/
+qa/
+*.wav
+__pycache__/
+.env
+*.log

@@ -1,0 +1,542 @@
+[
+  {
+    "word": "Sunday",
+    "start": 0.0,
+    "end": 0.48
+  },
+  {
+    "word": "night",
+    "start": 0.48,
+    "end": 0.79999995
+  },
+  {
+    "word": "your",
+    "start": 0.79999995,
+    "end": 0.88
+  },
+  {
+    "word": "new",
+    "start": 0.88,
+    "end": 1.04
+  },
+  {
+    "word": "routine",
+    "start": 1.04,
+    "end": 1.36
+  },
+  {
+    "word": "looks",
+    "start": 1.36,
+    "end": 1.68
+  },
+  {
+    "word": "perfect",
+    "start": 1.68,
+    "end": 2.24
+  },
+  {
+    "word": "Monday",
+    "start": 2.24,
+    "end": 2.6399999
+  },
+  {
+    "word": "morning",
+    "start": 2.6399999,
+    "end": 3.04
+  },
+  {
+    "word": "you're",
+    "start": 3.04,
+    "end": 3.1999998
+  },
+  {
+    "word": "tired",
+    "start": 3.1999998,
+    "end": 3.76
+  },
+  {
+    "word": "your",
+    "start": 3.76,
+    "end": 3.9199998
+  },
+  {
+    "word": "phone",
+    "start": 3.9199998,
+    "end": 4.16
+  },
+  {
+    "word": "is",
+    "start": 4.16,
+    "end": 4.3199997
+  },
+  {
+    "word": "beside",
+    "start": 4.3199997,
+    "end": 4.64
+  },
+  {
+    "word": "you",
+    "start": 4.64,
+    "end": 5.04
+  },
+  {
+    "word": "and",
+    "start": 5.04,
+    "end": 5.12
+  },
+  {
+    "word": "the",
+    "start": 5.12,
+    "end": 5.2
+  },
+  {
+    "word": "work",
+    "start": 5.2,
+    "end": 5.3599997
+  },
+  {
+    "word": "feels",
+    "start": 5.3599997,
+    "end": 5.68
+  },
+  {
+    "word": "boring",
+    "start": 5.68,
+    "end": 6.32
+  },
+  {
+    "word": "The",
+    "start": 6.3999996,
+    "end": 6.64
+  },
+  {
+    "word": "person",
+    "start": 6.64,
+    "end": 6.8799996
+  },
+  {
+    "word": "who",
+    "start": 6.8799996,
+    "end": 7.04
+  },
+  {
+    "word": "made",
+    "start": 7.04,
+    "end": 7.2799997
+  },
+  {
+    "word": "the",
+    "start": 7.2799997,
+    "end": 7.3599997
+  },
+  {
+    "word": "plan",
+    "start": 7.3599997,
+    "end": 7.68
+  },
+  {
+    "word": "imagined",
+    "start": 7.68,
+    "end": 8.24
+  },
+  {
+    "word": "the",
+    "start": 8.24,
+    "end": 8.4
+  },
+  {
+    "word": "reward",
+    "start": 8.4,
+    "end": 9.04
+  },
+  {
+    "word": "The",
+    "start": 9.12,
+    "end": 9.36
+  },
+  {
+    "word": "person",
+    "start": 9.36,
+    "end": 9.599999
+  },
+  {
+    "word": "doing",
+    "start": 9.599999,
+    "end": 9.84
+  },
+  {
+    "word": "it",
+    "start": 9.84,
+    "end": 10.08
+  },
+  {
+    "word": "experiences",
+    "start": 10.08,
+    "end": 10.559999
+  },
+  {
+    "word": "the",
+    "start": 10.559999,
+    "end": 10.88
+  },
+  {
+    "word": "cost",
+    "start": 10.88,
+    "end": 11.5199995
+  },
+  {
+    "word": "If",
+    "start": 11.599999,
+    "end": 11.84
+  },
+  {
+    "word": "your",
+    "start": 11.84,
+    "end": 12.0
+  },
+  {
+    "word": "routine",
+    "start": 12.0,
+    "end": 12.32
+  },
+  {
+    "word": "only",
+    "start": 12.32,
+    "end": 12.639999
+  },
+  {
+    "word": "works",
+    "start": 12.639999,
+    "end": 12.88
+  },
+  {
+    "word": "when",
+    "start": 12.88,
+    "end": 13.04
+  },
+  {
+    "word": "you're",
+    "start": 13.04,
+    "end": 13.28
+  },
+  {
+    "word": "motivated",
+    "start": 13.28,
+    "end": 13.679999
+  },
+  {
+    "word": "it's",
+    "start": 13.965,
+    "end": 14.365
+  },
+  {
+    "word": "a",
+    "start": 14.365,
+    "end": 14.445
+  },
+  {
+    "word": "plan",
+    "start": 14.445,
+    "end": 14.685
+  },
+  {
+    "word": "for",
+    "start": 14.685,
+    "end": 14.845
+  },
+  {
+    "word": "your",
+    "start": 14.845,
+    "end": 15.005
+  },
+  {
+    "word": "best",
+    "start": 15.005,
+    "end": 15.245
+  },
+  {
+    "word": "mood",
+    "start": 15.245,
+    "end": 15.805
+  },
+  {
+    "word": "not",
+    "start": 15.965,
+    "end": 16.205
+  },
+  {
+    "word": "your",
+    "start": 16.205,
+    "end": 16.365
+  },
+  {
+    "word": "actual",
+    "start": 16.365,
+    "end": 16.685
+  },
+  {
+    "word": "life",
+    "start": 16.685,
+    "end": 17.244999
+  },
+  {
+    "word": "Make",
+    "start": 17.405,
+    "end": 17.645
+  },
+  {
+    "word": "the",
+    "start": 17.645,
+    "end": 17.805
+  },
+  {
+    "word": "first",
+    "start": 17.805,
+    "end": 18.045
+  },
+  {
+    "word": "step",
+    "start": 18.045,
+    "end": 18.285
+  },
+  {
+    "word": "smaller",
+    "start": 18.285,
+    "end": 19.005
+  },
+  {
+    "word": "Put",
+    "start": 19.165,
+    "end": 19.325
+  },
+  {
+    "word": "the",
+    "start": 19.325,
+    "end": 19.485
+  },
+  {
+    "word": "phone",
+    "start": 19.485,
+    "end": 19.725
+  },
+  {
+    "word": "out",
+    "start": 19.725,
+    "end": 19.885
+  },
+  {
+    "word": "of",
+    "start": 19.885,
+    "end": 20.045
+  },
+  {
+    "word": "reach",
+    "start": 20.045,
+    "end": 20.605
+  },
+  {
+    "word": "Decide",
+    "start": 20.765,
+    "end": 21.085
+  },
+  {
+    "word": "what",
+    "start": 21.085,
+    "end": 21.244999
+  },
+  {
+    "word": "you'll",
+    "start": 21.244999,
+    "end": 21.485
+  },
+  {
+    "word": "do",
+    "start": 21.485,
+    "end": 21.645
+  },
+  {
+    "word": "on",
+    "start": 21.645,
+    "end": 21.805
+  },
+  {
+    "word": "a",
+    "start": 21.805,
+    "end": 21.885
+  },
+  {
+    "word": "difficult",
+    "start": 21.885,
+    "end": 22.205
+  },
+  {
+    "word": "day",
+    "start": 22.205,
+    "end": 22.365
+  },
+  {
+    "word": "Be",
+    "start": 22.683,
+    "end": 23.083
+  },
+  {
+    "word": "ambitious",
+    "start": 23.083,
+    "end": 23.483
+  },
+  {
+    "word": "about",
+    "start": 23.483,
+    "end": 23.803001
+  },
+  {
+    "word": "your",
+    "start": 23.803001,
+    "end": 23.963001
+  },
+  {
+    "word": "direction",
+    "start": 23.963001,
+    "end": 24.283
+  },
+  {
+    "word": "and",
+    "start": 24.283,
+    "end": 24.603
+  },
+  {
+    "word": "realistic",
+    "start": 24.603,
+    "end": 25.083
+  },
+  {
+    "word": "about",
+    "start": 25.083,
+    "end": 25.403
+  },
+  {
+    "word": "your",
+    "start": 25.403,
+    "end": 25.563
+  },
+  {
+    "word": "next",
+    "start": 25.563,
+    "end": 25.803001
+  },
+  {
+    "word": "step",
+    "start": 25.803001,
+    "end": 26.283
+  },
+  {
+    "word": "Build",
+    "start": 26.283,
+    "end": 26.603
+  },
+  {
+    "word": "a",
+    "start": 26.603,
+    "end": 26.763
+  },
+  {
+    "word": "plan",
+    "start": 26.763,
+    "end": 26.923
+  },
+  {
+    "word": "the",
+    "start": 26.923,
+    "end": 27.163
+  },
+  {
+    "word": "tired",
+    "start": 27.163,
+    "end": 27.483
+  },
+  {
+    "word": "version",
+    "start": 27.483,
+    "end": 27.803001
+  },
+  {
+    "word": "of",
+    "start": 27.803001,
+    "end": 27.883
+  },
+  {
+    "word": "you",
+    "start": 27.883,
+    "end": 28.043
+  },
+  {
+    "word": "can",
+    "start": 28.043,
+    "end": 28.363
+  },
+  {
+    "word": "actually",
+    "start": 28.363,
+    "end": 28.683
+  },
+  {
+    "word": "follow",
+    "start": 28.683,
+    "end": 29.323
+  },
+  {
+    "word": "Think",
+    "start": 29.403,
+    "end": 29.723
+  },
+  {
+    "word": "deeper",
+    "start": 29.723,
+    "end": 30.362999
+  },
+  {
+    "word": "Live",
+    "start": 30.443,
+    "end": 30.683
+  },
+  {
+    "word": "better",
+    "start": 30.683,
+    "end": 31.323
+  },
+  {
+    "word": "Become",
+    "start": 31.483002,
+    "end": 31.803001
+  },
+  {
+    "word": "more",
+    "start": 31.803001,
+    "end": 32.443
+  },
+  {
+    "word": "This",
+    "start": 32.443,
+    "end": 32.683
+  },
+  {
+    "word": "is",
+    "start": 32.683,
+    "end": 32.843002
+  },
+  {
+    "word": "Why",
+    "start": 32.843002,
+    "end": 33.003
+  },
+  {
+    "word": "We",
+    "start": 33.003,
+    "end": 33.243
+  },
+  {
+    "word": "Become",
+    "start": 33.243,
+    "end": 33.563
+  }
+]

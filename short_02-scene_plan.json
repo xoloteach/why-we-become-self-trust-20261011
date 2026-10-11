@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "start": 0,
+    "end": 5.12,
+    "art": "S08P1",
+    "title": "Sunday\u2019s plan.\nMonday\u2019s reality.",
+    "kind": "split",
+    "labels": [
+      "Sunday night",
+      "Monday",
+      "Tired"
+    ],
+    "cues": [
+      0.0,
+      2.24,
+      3.04
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "Sunday night your new routine looks perfect Monday morning you're tired your phone is beside you and"
+  },
+  {
+    "id": 2,
+    "start": 5.12,
+    "end": 9.36,
+    "art": "S09P1",
+    "title": "Your tired self\nneeds a plan too.",
+    "kind": "thought",
+    "labels": [
+      "Boredom",
+      "Imagined reward"
+    ],
+    "cues": [
+      5.68,
+      8.4
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "the work feels boring The person who made the plan imagined the reward The"
+  },
+  {
+    "id": 3,
+    "start": 9.36,
+    "end": 14.445,
+    "art": "S09P7",
+    "title": "Reward imagined.\nCost experienced.",
+    "kind": "balance",
+    "labels": [
+      "Experienced cost",
+      "Motivation"
+    ],
+    "cues": [
+      10.88,
+      13.28
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "person doing it experiences the cost If your routine only works when you're motivated it's a"
+  },
+  {
+    "id": 4,
+    "start": 14.445,
+    "end": 20.045,
+    "art": "S19P2",
+    "title": "Plan for\nyour actual life.",
+    "kind": "switch",
+    "labels": [
+      "Your best mood",
+      "Your actual life",
+      "The phone"
+    ],
+    "cues": [
+      15.005,
+      16.365,
+      19.485
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "plan for your best mood not your actual life Make the first step smaller Put the phone out of"
+  },
+  {
+    "id": 5,
+    "start": 20.045,
+    "end": 25.083,
+    "art": "S20P3",
+    "title": "Reduce friction.\nMake it doable.",
+    "kind": "paths",
+    "labels": [
+      "A difficult day",
+      "Difficulty",
+      "Ambitious direction"
+    ],
+    "cues": [
+      21.885,
+      21.885,
+      23.963001
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "reach Decide what you'll do on a difficult day Be ambitious about your direction and realistic"
+  },
+  {
+    "id": 6,
+    "start": 25.083,
+    "end": 27.803001,
+    "art": "S20P8",
+    "title": "Big direction.\nSmall next step.",
+    "kind": "stairs",
+    "labels": [
+      "The next step",
+      "Tired you"
+    ],
+    "cues": [
+      25.563,
+      27.163
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "about your next step Build a plan the tired version"
+  },
+  {
+    "id": 7,
+    "start": 27.803001,
+    "end": 33.888,
+    "art": "S24P9",
+    "title": "Think deeper.\nLive better. Become more.",
+    "kind": "finish",
+    "labels": [
+      "Think deeper",
+      "Live better",
+      "Become more"
+    ],
+    "cues": [
+      29.403,
+      30.443,
+      31.483002
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "of you can actually follow Think deeper Live better Become more This is Why We Become"
+  }
+]

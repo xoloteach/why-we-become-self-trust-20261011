@@ -1,0 +1,23 @@
+name: Render reviewed motion source
+on:
+  workflow_dispatch:
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        target: [longform, short_01, short_02, short_03]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: sudo apt-get update -qq && sudo apt-get install -y ffmpeg
+      - run: pip install numpy opencv-python-headless pillow
+      - run: mkdir -p out qa && python audio.py
+      - run: python motion.py --target ${{ matrix.target }} --out out/${{ matrix.target }}.mp4
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.target }}
+          path: out/*.mp4
+          retention-days: 14

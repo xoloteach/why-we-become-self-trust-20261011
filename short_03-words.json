@@ -1,0 +1,552 @@
+[
+  {
+    "word": "You",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "missed",
+    "start": 0.32,
+    "end": 0.64
+  },
+  {
+    "word": "a",
+    "start": 0.64,
+    "end": 0.79999995
+  },
+  {
+    "word": "workout",
+    "start": 0.79999995,
+    "end": 1.52
+  },
+  {
+    "word": "You",
+    "start": 1.52,
+    "end": 1.76
+  },
+  {
+    "word": "scrolled",
+    "start": 1.76,
+    "end": 2.32
+  },
+  {
+    "word": "instead",
+    "start": 2.32,
+    "end": 2.6399999
+  },
+  {
+    "word": "of",
+    "start": 2.6399999,
+    "end": 2.72
+  },
+  {
+    "word": "studying",
+    "start": 2.72,
+    "end": 3.4399998
+  },
+  {
+    "word": "Now",
+    "start": 3.6,
+    "end": 3.84
+  },
+  {
+    "word": "you're",
+    "start": 3.84,
+    "end": 4.08
+  },
+  {
+    "word": "telling",
+    "start": 4.08,
+    "end": 4.3199997
+  },
+  {
+    "word": "yourself",
+    "start": 4.3199997,
+    "end": 4.56
+  },
+  {
+    "word": "you'll",
+    "start": 4.56,
+    "end": 4.88
+  },
+  {
+    "word": "restart",
+    "start": 4.88,
+    "end": 5.2
+  },
+  {
+    "word": "next",
+    "start": 5.2,
+    "end": 5.52
+  },
+  {
+    "word": "Monday",
+    "start": 5.52,
+    "end": 6.16
+  },
+  {
+    "word": "But",
+    "start": 6.24,
+    "end": 6.3999996
+  },
+  {
+    "word": "one",
+    "start": 6.3999996,
+    "end": 6.64
+  },
+  {
+    "word": "imperfect",
+    "start": 6.64,
+    "end": 7.2
+  },
+  {
+    "word": "day",
+    "start": 7.2,
+    "end": 7.44
+  },
+  {
+    "word": "does",
+    "start": 7.44,
+    "end": 7.7599998
+  },
+  {
+    "word": "not",
+    "start": 7.7599998,
+    "end": 7.9199996
+  },
+  {
+    "word": "have",
+    "start": 7.9199996,
+    "end": 8.08
+  },
+  {
+    "word": "to",
+    "start": 8.08,
+    "end": 8.16
+  },
+  {
+    "word": "become",
+    "start": 8.16,
+    "end": 8.48
+  },
+  {
+    "word": "complete",
+    "start": 8.48,
+    "end": 8.88
+  },
+  {
+    "word": "abandonment",
+    "start": 8.88,
+    "end": 9.759999
+  },
+  {
+    "word": "Twenty",
+    "start": 9.76,
+    "end": 10.08
+  },
+  {
+    "word": "minutes",
+    "start": 10.08,
+    "end": 10.4
+  },
+  {
+    "word": "of",
+    "start": 10.4,
+    "end": 10.559999
+  },
+  {
+    "word": "work",
+    "start": 10.559999,
+    "end": 10.8
+  },
+  {
+    "word": "is",
+    "start": 10.8,
+    "end": 10.96
+  },
+  {
+    "word": "not",
+    "start": 10.96,
+    "end": 11.12
+  },
+  {
+    "word": "the",
+    "start": 11.12,
+    "end": 11.28
+  },
+  {
+    "word": "same",
+    "start": 11.28,
+    "end": 11.44
+  },
+  {
+    "word": "as",
+    "start": 11.44,
+    "end": 11.599999
+  },
+  {
+    "word": "nothing",
+    "start": 11.599999,
+    "end": 11.92
+  },
+  {
+    "word": "A",
+    "start": 12.245,
+    "end": 12.485
+  },
+  {
+    "word": "missed",
+    "start": 12.485,
+    "end": 12.725
+  },
+  {
+    "word": "workout",
+    "start": 12.725,
+    "end": 13.045
+  },
+  {
+    "word": "does",
+    "start": 13.045,
+    "end": 13.285
+  },
+  {
+    "word": "not",
+    "start": 13.285,
+    "end": 13.445
+  },
+  {
+    "word": "erase",
+    "start": 13.445,
+    "end": 13.764999
+  },
+  {
+    "word": "the",
+    "start": 13.764999,
+    "end": 13.925
+  },
+  {
+    "word": "rest",
+    "start": 13.925,
+    "end": 14.085
+  },
+  {
+    "word": "of",
+    "start": 14.085,
+    "end": 14.165
+  },
+  {
+    "word": "your",
+    "start": 14.165,
+    "end": 14.325
+  },
+  {
+    "word": "week",
+    "start": 14.325,
+    "end": 14.884999
+  },
+  {
+    "word": "Consistency",
+    "start": 14.965,
+    "end": 15.684999
+  },
+  {
+    "word": "isn't",
+    "start": 15.684999,
+    "end": 16.005
+  },
+  {
+    "word": "never",
+    "start": 16.005,
+    "end": 16.244999
+  },
+  {
+    "word": "slipping",
+    "start": 16.244999,
+    "end": 16.885
+  },
+  {
+    "word": "It's",
+    "start": 17.045,
+    "end": 17.205
+  },
+  {
+    "word": "learning",
+    "start": 17.205,
+    "end": 17.525
+  },
+  {
+    "word": "to",
+    "start": 17.525,
+    "end": 17.685
+  },
+  {
+    "word": "return",
+    "start": 17.685,
+    "end": 18.324999
+  },
+  {
+    "word": "Ask",
+    "start": 18.485,
+    "end": 18.805
+  },
+  {
+    "word": "a",
+    "start": 18.805,
+    "end": 18.965
+  },
+  {
+    "word": "better",
+    "start": 18.965,
+    "end": 19.205
+  },
+  {
+    "word": "question",
+    "start": 19.205,
+    "end": 19.765
+  },
+  {
+    "word": "not",
+    "start": 20.005,
+    "end": 20.645
+  },
+  {
+    "word": "how",
+    "start": 20.645,
+    "end": 20.885
+  },
+  {
+    "word": "do",
+    "start": 20.885,
+    "end": 21.045
+  },
+  {
+    "word": "I",
+    "start": 21.045,
+    "end": 21.205
+  },
+  {
+    "word": "make",
+    "start": 21.205,
+    "end": 21.365
+  },
+  {
+    "word": "sure",
+    "start": 21.365,
+    "end": 21.525
+  },
+  {
+    "word": "I",
+    "start": 21.525,
+    "end": 21.765
+  },
+  {
+    "word": "never",
+    "start": 21.765,
+    "end": 22.005001
+  },
+  {
+    "word": "mess",
+    "start": 22.005001,
+    "end": 22.244999
+  },
+  {
+    "word": "up",
+    "start": 22.244999,
+    "end": 22.724998
+  },
+  {
+    "word": "But",
+    "start": 22.805,
+    "end": 22.965
+  },
+  {
+    "word": "what",
+    "start": 22.965,
+    "end": 23.205
+  },
+  {
+    "word": "will",
+    "start": 23.205,
+    "end": 23.445
+  },
+  {
+    "word": "I",
+    "start": 23.445,
+    "end": 23.605
+  },
+  {
+    "word": "do",
+    "start": 23.605,
+    "end": 23.765
+  },
+  {
+    "word": "when",
+    "start": 23.765,
+    "end": 23.925
+  },
+  {
+    "word": "a",
+    "start": 23.925,
+    "end": 24.085
+  },
+  {
+    "word": "difficult",
+    "start": 24.085,
+    "end": 24.404999
+  },
+  {
+    "word": "day",
+    "start": 24.404999,
+    "end": 24.724998
+  },
+  {
+    "word": "happens",
+    "start": 24.724998,
+    "end": 24.965
+  },
+  {
+    "word": "Return",
+    "start": 25.51,
+    "end": 25.83
+  },
+  {
+    "word": "the",
+    "start": 25.83,
+    "end": 26.07
+  },
+  {
+    "word": "next",
+    "start": 26.07,
+    "end": 26.31
+  },
+  {
+    "word": "morning",
+    "start": 26.31,
+    "end": 26.95
+  },
+  {
+    "word": "the",
+    "start": 26.95,
+    "end": 27.11
+  },
+  {
+    "word": "next",
+    "start": 27.11,
+    "end": 27.35
+  },
+  {
+    "word": "hour",
+    "start": 27.35,
+    "end": 27.91
+  },
+  {
+    "word": "or",
+    "start": 27.91,
+    "end": 27.99
+  },
+  {
+    "word": "the",
+    "start": 27.99,
+    "end": 28.23
+  },
+  {
+    "word": "next",
+    "start": 28.23,
+    "end": 28.39
+  },
+  {
+    "word": "decision",
+    "start": 28.39,
+    "end": 29.11
+  },
+  {
+    "word": "Keep",
+    "start": 29.27,
+    "end": 29.51
+  },
+  {
+    "word": "the",
+    "start": 29.51,
+    "end": 29.67
+  },
+  {
+    "word": "promise",
+    "start": 29.67,
+    "end": 29.99
+  },
+  {
+    "word": "small",
+    "start": 29.99,
+    "end": 30.71
+  },
+  {
+    "word": "Keep",
+    "start": 30.79,
+    "end": 31.03
+  },
+  {
+    "word": "it",
+    "start": 31.03,
+    "end": 31.19
+  },
+  {
+    "word": "honest",
+    "start": 31.19,
+    "end": 31.91
+  },
+  {
+    "word": "Think",
+    "start": 31.91,
+    "end": 32.15
+  },
+  {
+    "word": "deeper",
+    "start": 32.15,
+    "end": 32.95
+  },
+  {
+    "word": "Live",
+    "start": 33.03,
+    "end": 33.35
+  },
+  {
+    "word": "better",
+    "start": 33.35,
+    "end": 33.989998
+  },
+  {
+    "word": "Become",
+    "start": 33.989998,
+    "end": 34.31
+  },
+  {
+    "word": "more",
+    "start": 34.31,
+    "end": 34.95
+  },
+  {
+    "word": "This",
+    "start": 35.11,
+    "end": 35.43
+  },
+  {
+    "word": "is",
+    "start": 35.43,
+    "end": 35.59
+  },
+  {
+    "word": "Why",
+    "start": 35.59,
+    "end": 35.83
+  },
+  {
+    "word": "We",
+    "start": 35.83,
+    "end": 35.989998
+  },
+  {
+    "word": "Become",
+    "start": 35.989998,
+    "end": 36.39
+  }
+]

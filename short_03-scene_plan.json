@@ -1,0 +1,151 @@
+[
+  {
+    "id": 1,
+    "start": 0,
+    "end": 6.3999996,
+    "art": "S17P3",
+    "title": "One bad day\nis not the ending.",
+    "kind": "calendar",
+    "labels": [
+      "One missed workout",
+      "Restart",
+      "Monday"
+    ],
+    "cues": [
+      0.32,
+      4.88,
+      5.52
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "You missed a workout You scrolled instead of studying Now you're telling yourself you'll restart next Monday But"
+  },
+  {
+    "id": 2,
+    "start": 6.3999996,
+    "end": 10.08,
+    "art": "S12P7",
+    "title": "Not next\nMonday.",
+    "kind": "focus",
+    "labels": [
+      "Imperfect"
+    ],
+    "cues": [
+      6.64
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "one imperfect day does not have to become complete abandonment Twenty"
+  },
+  {
+    "id": 3,
+    "start": 10.08,
+    "end": 15.684999,
+    "art": "S17P2",
+    "title": "Twenty minutes\nis not nothing.",
+    "kind": "focus",
+    "labels": [
+      "Same approach"
+    ],
+    "cues": [
+      11.28
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "minutes of work is not the same as nothing A missed workout does not erase the rest of your week Consistency"
+  },
+  {
+    "id": 4,
+    "start": 15.684999,
+    "end": 20.005,
+    "art": "S18P3",
+    "title": "Consistency\nmeans returning.",
+    "kind": "paths",
+    "labels": [
+      "Return"
+    ],
+    "cues": [
+      17.685
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "isn't never slipping It's learning to return Ask a better question"
+  },
+  {
+    "id": 5,
+    "start": 20.005,
+    "end": 26.07,
+    "art": "S18P7",
+    "title": "Plan your\nrecovery step.",
+    "kind": "stairs",
+    "labels": [
+      "Never mess up?",
+      "A difficult day",
+      "Difficulty"
+    ],
+    "cues": [
+      21.765,
+      24.085,
+      24.085
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "not how do I make sure I never mess up But what will I do when a difficult day happens Return the"
+  },
+  {
+    "id": 6,
+    "start": 26.07,
+    "end": 29.99,
+    "art": "S17P6",
+    "title": "Your next\ndecision.",
+    "kind": "timeline",
+    "labels": [
+      "Next morning",
+      "Next hour",
+      "An hour planned"
+    ],
+    "cues": [
+      26.07,
+      27.11,
+      27.35
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "next morning the next hour or the next decision Keep the promise"
+  },
+  {
+    "id": 7,
+    "start": 29.99,
+    "end": 36.675918,
+    "art": "S24P9",
+    "title": "Think deeper.\nLive better. Become more.",
+    "kind": "finish",
+    "labels": [
+      "Keep it honest",
+      "Honest commitments",
+      "Think deeper"
+    ],
+    "cues": [
+      30.79,
+      31.19,
+      31.91
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "small Keep it honest Think deeper Live better Become more This is Why We Become"
+  }
+]

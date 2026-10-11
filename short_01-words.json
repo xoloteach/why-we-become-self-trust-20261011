@@ -1,0 +1,532 @@
+[
+  {
+    "word": "You",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "word": "don't",
+    "start": 0.24,
+    "end": 0.48
+  },
+  {
+    "word": "just",
+    "start": 0.48,
+    "end": 0.64
+  },
+  {
+    "word": "doubt",
+    "start": 0.64,
+    "end": 0.88
+  },
+  {
+    "word": "your",
+    "start": 0.88,
+    "end": 1.04
+  },
+  {
+    "word": "plan",
+    "start": 1.04,
+    "end": 1.6800001
+  },
+  {
+    "word": "You",
+    "start": 1.8399999,
+    "end": 2.0
+  },
+  {
+    "word": "doubt",
+    "start": 2.0,
+    "end": 2.32
+  },
+  {
+    "word": "the",
+    "start": 2.32,
+    "end": 2.48
+  },
+  {
+    "word": "person",
+    "start": 2.48,
+    "end": 2.72
+  },
+  {
+    "word": "making",
+    "start": 2.72,
+    "end": 3.12
+  },
+  {
+    "word": "it",
+    "start": 3.12,
+    "end": 3.6
+  },
+  {
+    "word": "Every",
+    "start": 3.6,
+    "end": 3.84
+  },
+  {
+    "word": "time",
+    "start": 3.84,
+    "end": 4.0
+  },
+  {
+    "word": "you",
+    "start": 4.0,
+    "end": 4.16
+  },
+  {
+    "word": "promise",
+    "start": 4.16,
+    "end": 4.56
+  },
+  {
+    "word": "yourself",
+    "start": 4.56,
+    "end": 4.88
+  },
+  {
+    "word": "you'll",
+    "start": 4.88,
+    "end": 5.2
+  },
+  {
+    "word": "change",
+    "start": 5.2,
+    "end": 5.6
+  },
+  {
+    "word": "then",
+    "start": 5.6,
+    "end": 5.7599998
+  },
+  {
+    "word": "quietly",
+    "start": 5.7599998,
+    "end": 6.08
+  },
+  {
+    "word": "abandon",
+    "start": 6.08,
+    "end": 6.56
+  },
+  {
+    "word": "the",
+    "start": 6.56,
+    "end": 6.72
+  },
+  {
+    "word": "promise",
+    "start": 6.72,
+    "end": 7.12
+  },
+  {
+    "word": "you",
+    "start": 7.12,
+    "end": 7.2799997
+  },
+  {
+    "word": "give",
+    "start": 7.2799997,
+    "end": 7.44
+  },
+  {
+    "word": "yourself",
+    "start": 7.44,
+    "end": 7.7599998
+  },
+  {
+    "word": "another",
+    "start": 7.7599998,
+    "end": 8.08
+  },
+  {
+    "word": "reason",
+    "start": 8.08,
+    "end": 8.32
+  },
+  {
+    "word": "to",
+    "start": 8.32,
+    "end": 8.559999
+  },
+  {
+    "word": "expect",
+    "start": 8.559999,
+    "end": 8.88
+  },
+  {
+    "word": "the",
+    "start": 8.88,
+    "end": 9.04
+  },
+  {
+    "word": "same",
+    "start": 9.04,
+    "end": 9.2
+  },
+  {
+    "word": "ending",
+    "start": 9.2,
+    "end": 9.839999
+  },
+  {
+    "word": "But",
+    "start": 9.92,
+    "end": 10.08
+  },
+  {
+    "word": "that",
+    "start": 10.08,
+    "end": 10.32
+  },
+  {
+    "word": "expectation",
+    "start": 10.32,
+    "end": 10.96
+  },
+  {
+    "word": "is",
+    "start": 10.96,
+    "end": 11.28
+  },
+  {
+    "word": "not",
+    "start": 11.28,
+    "end": 11.5199995
+  },
+  {
+    "word": "your",
+    "start": 11.5199995,
+    "end": 11.759999
+  },
+  {
+    "word": "identity",
+    "start": 11.759999,
+    "end": 12.16
+  },
+  {
+    "word": "Your",
+    "start": 12.545,
+    "end": 12.865
+  },
+  {
+    "word": "past",
+    "start": 12.865,
+    "end": 13.185
+  },
+  {
+    "word": "is",
+    "start": 13.185,
+    "end": 13.425
+  },
+  {
+    "word": "evidence",
+    "start": 13.425,
+    "end": 13.745
+  },
+  {
+    "word": "of",
+    "start": 13.745,
+    "end": 13.905
+  },
+  {
+    "word": "what",
+    "start": 13.905,
+    "end": 14.065001
+  },
+  {
+    "word": "happened",
+    "start": 14.065001,
+    "end": 14.705
+  },
+  {
+    "word": "not",
+    "start": 14.785,
+    "end": 14.945
+  },
+  {
+    "word": "a",
+    "start": 14.945,
+    "end": 15.025
+  },
+  {
+    "word": "verdict",
+    "start": 15.025,
+    "end": 15.345
+  },
+  {
+    "word": "on",
+    "start": 15.345,
+    "end": 15.505
+  },
+  {
+    "word": "what",
+    "start": 15.505,
+    "end": 15.665
+  },
+  {
+    "word": "you",
+    "start": 15.665,
+    "end": 15.825
+  },
+  {
+    "word": "can",
+    "start": 15.825,
+    "end": 15.905
+  },
+  {
+    "word": "become",
+    "start": 15.905,
+    "end": 16.465
+  },
+  {
+    "word": "Rebuild",
+    "start": 16.705,
+    "end": 17.105
+  },
+  {
+    "word": "trust",
+    "start": 17.105,
+    "end": 17.345001
+  },
+  {
+    "word": "with",
+    "start": 17.345001,
+    "end": 17.585
+  },
+  {
+    "word": "one",
+    "start": 17.585,
+    "end": 17.825
+  },
+  {
+    "word": "promise",
+    "start": 17.825,
+    "end": 18.145
+  },
+  {
+    "word": "small",
+    "start": 18.145,
+    "end": 18.465
+  },
+  {
+    "word": "enough",
+    "start": 18.465,
+    "end": 18.705
+  },
+  {
+    "word": "to",
+    "start": 18.705,
+    "end": 18.865
+  },
+  {
+    "word": "keep",
+    "start": 18.865,
+    "end": 19.025
+  },
+  {
+    "word": "on",
+    "start": 19.025,
+    "end": 19.185
+  },
+  {
+    "word": "an",
+    "start": 19.185,
+    "end": 19.345
+  },
+  {
+    "word": "ordinary",
+    "start": 19.345,
+    "end": 19.744999
+  },
+  {
+    "word": "day",
+    "start": 19.744999,
+    "end": 20.225
+  },
+  {
+    "word": "Read",
+    "start": 20.305,
+    "end": 20.625
+  },
+  {
+    "word": "five",
+    "start": 20.625,
+    "end": 20.865
+  },
+  {
+    "word": "pages",
+    "start": 20.865,
+    "end": 21.505001
+  },
+  {
+    "word": "Finish",
+    "start": 21.505001,
+    "end": 21.825
+  },
+  {
+    "word": "one",
+    "start": 21.825,
+    "end": 22.064999
+  },
+  {
+    "word": "useful",
+    "start": 22.064999,
+    "end": 22.465
+  },
+  {
+    "word": "task",
+    "start": 22.465,
+    "end": 23.025
+  },
+  {
+    "word": "Then",
+    "start": 23.105,
+    "end": 23.265
+  },
+  {
+    "word": "repeat",
+    "start": 23.265,
+    "end": 23.985
+  },
+  {
+    "word": "You're",
+    "start": 23.985,
+    "end": 24.224998
+  },
+  {
+    "word": "not",
+    "start": 24.224998,
+    "end": 24.385
+  },
+  {
+    "word": "trying",
+    "start": 24.385,
+    "end": 24.625
+  },
+  {
+    "word": "to",
+    "start": 24.625,
+    "end": 24.785
+  },
+  {
+    "word": "impress",
+    "start": 24.785,
+    "end": 25.105
+  },
+  {
+    "word": "yourself",
+    "start": 25.105,
+    "end": 25.744999
+  },
+  {
+    "word": "You're",
+    "start": 25.744999,
+    "end": 25.985
+  },
+  {
+    "word": "giving",
+    "start": 25.985,
+    "end": 26.224998
+  },
+  {
+    "word": "yourself",
+    "start": 26.224998,
+    "end": 26.545
+  },
+  {
+    "word": "a",
+    "start": 26.545,
+    "end": 26.705
+  },
+  {
+    "word": "reason",
+    "start": 26.705,
+    "end": 26.945
+  },
+  {
+    "word": "to",
+    "start": 26.945,
+    "end": 27.025
+  },
+  {
+    "word": "believe",
+    "start": 27.025,
+    "end": 27.265
+  },
+  {
+    "word": "your",
+    "start": 27.265,
+    "end": 27.425
+  },
+  {
+    "word": "own",
+    "start": 27.425,
+    "end": 27.585
+  },
+  {
+    "word": "word",
+    "start": 27.585,
+    "end": 27.825
+  },
+  {
+    "word": "again",
+    "start": 27.825,
+    "end": 28.145
+  },
+  {
+    "word": "Think",
+    "start": 28.426437,
+    "end": 28.746437
+  },
+  {
+    "word": "deeper",
+    "start": 28.746437,
+    "end": 29.386436
+  },
+  {
+    "word": "Live",
+    "start": 29.466438,
+    "end": 29.706438
+  },
+  {
+    "word": "better",
+    "start": 29.706438,
+    "end": 30.266438
+  },
+  {
+    "word": "Become",
+    "start": 30.266438,
+    "end": 30.586437
+  },
+  {
+    "word": "more",
+    "start": 30.586437,
+    "end": 31.146437
+  },
+  {
+    "word": "This",
+    "start": 31.226437,
+    "end": 31.466438
+  },
+  {
+    "word": "is",
+    "start": 31.466438,
+    "end": 31.626438
+  },
+  {
+    "word": "Why",
+    "start": 31.626438,
+    "end": 31.786438
+  },
+  {
+    "word": "We",
+    "start": 31.786438,
+    "end": 32.026436
+  },
+  {
+    "word": "Become",
+    "start": 32.026436,
+    "end": 32.346436
+  }
+]

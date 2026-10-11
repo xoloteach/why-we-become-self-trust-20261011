@@ -62,7 +62,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S01P3": {
@@ -165,7 +165,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S01P6": {
@@ -194,7 +194,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S01P7": {
@@ -260,7 +260,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S01P9": {
@@ -363,7 +363,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S02P3": {
@@ -392,7 +392,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S02P4": {
@@ -458,7 +458,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S02P6": {
@@ -487,7 +487,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S02P7": {
@@ -516,7 +516,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S02P8": {
@@ -545,7 +545,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S02P9": {
@@ -574,7 +574,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S03P1": {
@@ -677,7 +677,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S03P4": {
@@ -706,7 +706,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S03P5": {
@@ -735,7 +735,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S03P6": {
@@ -764,7 +764,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S03P7": {
@@ -793,7 +793,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S03P8": {
@@ -822,7 +822,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S03P9": {
@@ -925,7 +925,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "omitted: source clipped at the lower grid line; replaced by intact supplied S04P8 thought pose",
+    "usage_status": "omitted after visual audit: source-clipped/border-damaged pose; intact supplied alternative used",
     "crop_review": "real grid cropped inside divider"
   },
   "S04P3": {
@@ -991,7 +991,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S04P5": {
@@ -1094,7 +1094,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S04P8": {
@@ -1241,7 +1241,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S05P3": {
@@ -1307,7 +1307,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S05P5": {
@@ -1336,7 +1336,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S05P6": {
@@ -1365,7 +1365,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S05P7": {
@@ -1431,7 +1431,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S05P9": {
@@ -1534,7 +1534,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S06P3": {
@@ -1644,7 +1644,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S06P6": {
@@ -1673,7 +1673,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S06P7": {
@@ -1702,7 +1702,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S06P8": {
@@ -1731,7 +1731,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S06P9": {
@@ -1760,7 +1760,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S07P1": {
@@ -1907,7 +1907,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S07P5": {
@@ -2202,7 +2202,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S08P4": {
@@ -2342,7 +2342,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S08P8": {
@@ -2371,7 +2371,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S08P9": {
@@ -2481,7 +2481,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S09P3": {
@@ -2584,7 +2584,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S09P6": {
@@ -2731,7 +2731,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S10P1": {
@@ -2834,7 +2834,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S10P4": {
@@ -2900,7 +2900,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S10P6": {
@@ -2966,7 +2966,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S10P8": {
@@ -2995,7 +2995,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S10P9": {
@@ -3024,7 +3024,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S11P1": {
@@ -3164,7 +3164,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S11P5": {
@@ -3193,7 +3193,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S11P6": {
@@ -3259,7 +3259,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S11P8": {
@@ -3288,7 +3288,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S11P9": {
@@ -3391,7 +3391,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S12P3": {
@@ -3494,7 +3494,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S12P6": {
@@ -3523,7 +3523,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S12P7": {
@@ -3633,7 +3633,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S13P1": {
@@ -3705,16 +3705,8 @@
       844
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
-    "usage": [
-      {
-        "target": "scene_plan.json",
-        "scene_id": 61,
-        "start": 297.675,
-        "end": 300.95502,
-        "phrase": "You start saying, \u201cI'm the kind of person who never follows through.\u201d"
-      }
-    ],
-    "usage_status": "used",
+    "usage": [],
+    "usage_status": "omitted after visual audit: source-clipped/border-damaged pose; intact supplied alternative used",
     "crop_review": "real grid cropped inside divider"
   },
   "S13P3": {
@@ -3743,6 +3735,13 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 61,
+        "start": 297.675,
+        "end": 300.95502,
+        "phrase": "You start saying, \u201cI'm the kind of person who never follows through.\u201d"
+      },
       {
         "target": "scene_plan.json",
         "scene_id": 63,
@@ -3780,7 +3779,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S13P5": {
@@ -3964,7 +3963,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S14P1": {
@@ -3992,16 +3991,8 @@
       756
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
-    "usage": [
-      {
-        "target": "scene_plan.json",
-        "scene_id": 67,
-        "start": 331.15997,
-        "end": 333.87997,
-        "phrase": "But your past doesn't have to become your identity."
-      }
-    ],
-    "usage_status": "used",
+    "usage": [],
+    "usage_status": "omitted after visual audit: source-clipped/border-damaged pose; intact supplied alternative used",
     "crop_review": "real grid cropped inside divider"
   },
   "S14P2": {
@@ -4030,6 +4021,13 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [
+      {
+        "target": "scene_plan.json",
+        "scene_id": 67,
+        "start": 331.15997,
+        "end": 333.87997,
+        "phrase": "But your past doesn't have to become your identity."
+      },
       {
         "target": "scene_plan.json",
         "scene_id": 68,
@@ -4104,7 +4102,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S14P5": {
@@ -4133,7 +4131,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S14P6": {
@@ -4162,7 +4160,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S14P7": {
@@ -4191,7 +4189,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S14P8": {
@@ -4220,7 +4218,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S14P9": {
@@ -4249,7 +4247,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S15P1": {
@@ -4544,7 +4542,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S15P9": {
@@ -4619,7 +4617,8 @@
       }
     ],
     "usage_status": "used",
-    "crop_review": "real grid cropped inside divider"
+    "crop_review": "real grid cropped inside divider",
+    "edge_treatment": "soft 11-native-pixel lower edge fade for source-truncated bust"
   },
   "S16P2": {
     "sheet": 16,
@@ -4663,7 +4662,8 @@
       }
     ],
     "usage_status": "used",
-    "crop_review": "real grid cropped inside divider"
+    "crop_review": "real grid cropped inside divider",
+    "edge_treatment": "soft 11-native-pixel lower edge fade for source-truncated bust"
   },
   "S16P3": {
     "sheet": 16,
@@ -4728,7 +4728,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S16P5": {
@@ -4757,7 +4757,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S16P6": {
@@ -4786,8 +4786,9 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
-    "crop_review": "real grid cropped inside divider"
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
+    "crop_review": "real grid cropped inside divider",
+    "edge_treatment": "soft 11-native-pixel lower edge fade for source-truncated bust"
   },
   "S16P7": {
     "sheet": 16,
@@ -5051,7 +5052,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S17P5": {
@@ -5161,7 +5162,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S17P8": {
@@ -5190,7 +5191,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S17P9": {
@@ -5219,7 +5220,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S18P1": {
@@ -5248,7 +5249,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S18P2": {
@@ -5277,7 +5278,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S18P3": {
@@ -5350,7 +5351,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S18P5": {
@@ -5497,7 +5498,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S18P9": {
@@ -5526,7 +5527,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S19P1": {
@@ -5636,7 +5637,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S19P4": {
@@ -5665,7 +5666,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S19P5": {
@@ -5694,7 +5695,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S19P6": {
@@ -5723,7 +5724,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S19P7": {
@@ -5752,7 +5753,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S19P8": {
@@ -5818,7 +5819,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S20P1": {
@@ -6083,7 +6084,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S20P8": {
@@ -6533,7 +6534,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S22P2": {
@@ -6562,7 +6563,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S22P3": {
@@ -6591,7 +6592,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S22P4": {
@@ -6620,7 +6621,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S22P5": {
@@ -6686,7 +6687,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S22P7": {
@@ -6715,7 +6716,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S22P8": {
@@ -6781,7 +6782,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S23P1": {
@@ -7002,7 +7003,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S23P7": {
@@ -7105,7 +7106,7 @@
     ],
     "upscale": "4x FSRCNN neural +22% Lanczos blend",
     "usage": [],
-    "usage_status": "intentionally omitted: alternate supplied artwork; no narration-led need",
+    "usage_status": "intentionally omitted: alternate supplied panel, not required by narration",
     "crop_review": "real grid cropped inside divider"
   },
   "S24P1": {
